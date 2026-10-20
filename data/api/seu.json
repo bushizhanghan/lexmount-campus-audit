@@ -1,0 +1,846 @@
+{
+  "_site": {
+    "slug": "seu",
+    "name": "东南大学",
+    "url": "https://www.seu.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.seu.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 4682,
+    "sent_at": "2026-10-20T10:57:37+0800"
+  },
+  "metadata": {
+    "dom_id": "855521",
+    "template_id": "x53:46504154475c541b52505b5047544150510f424242184650401850514018565b185d5a585075041b051b07",
+    "server_elapsed_ms": 4448
+  },
+  "request_id": "ceac197c-969b-41b1-a570-664700b75c4b",
+  "result": {
+    "url": "https://www.seu.edu.cn",
+    "final_url": "https://www.seu.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:57:37.444779398Z",
+    "title": "东南大学-Southeast University",
+    "description": "东南大学（Southeast University），简称东大，坐落于南京市，是中央直管、教育部直属的副部级全国重点大学，中国著名的建筑老八校及原四大工学院之一，国家“211工程”、“985工程”首批重点建设的大学，是“卓越工程师教育培养计划”、“卓越医生教育培养计划”、“2011计划”、“111计划”入选高校，“卓越大学联盟”、“中俄工科大学联盟”、“中欧工程教育平台”主要成员。",
+    "main_text": "首页焦点\n东南大学2026年度宣传片\n东南大学全球宣传片发布\n东大要闻\n东南大学召开深化审计整改工作会议暨第十轮校内巡视及第五轮巡视整改督查动员部署会 10月15日，东南大学召开深化审计整改工作会议暨第十轮校内巡视及第五轮巡视整改督查动员部署会，通报相关情况，部署后续工作。校党委书记邬小撑主持会议，校长孙友宏院士出席会议。 2026-10-18\n中国科学院学部第236次科学与技术前沿论坛在南京举行 10月12日至13日，中国科学院学部第236次科学与技术前沿论坛在南京举行。本次论坛以“超低功耗计算体系”为主题，中国科学院院士、中国科学院信息技术科学部常务委员会委员吕建，东南大学党委书记邬小撑出席开幕式并致辞，共有19位两院院士参加论坛。论坛开幕式由东南大学毫米波全国重点实验室主任、中国科学院院士崔铁军主持。 2026-10-14\n东南大学举行数智药学与新药研发战略高峰论坛 9月23日至24日，“智算未来·药启新章——数智药学与新药研发战略高峰论坛”在南京举行，论坛上举行了东南大学药学院启动仪式。本次论坛由东南大学主办，汇聚了多位两院院士、全国顶尖高校药学院院长及业内知名专家，围绕前沿议题开展深度研讨，全方位呈现数智技术与药物研发深度融合的最新成果，共探药学原始创新与新药研发全新路径。 2026-09-27\n东南大学举行2026年全校师生党员第三次集中教育暨第二次集中大课 9月23日下午，东南大学举办主题为“凝心铸魂同心聚力”的2026年师生党员第三次集中教育暨第二次集中大课，集体学习中央党校（国家行政学院）副校长（副院长）兼办公厅主任张忠军主讲的“深入学习贯彻习近平总书记关于党性的重要论述，加强党性修养”专题报告。校党委书记邬小撑主持并讲话。全校2万余名师生党员参加集体学习。 2026-09-24\n东南大学召开第三十三次学生代表大会、第十七次研究生代表大会 2026-10-18\n东南大学与中国海油开展深海资源勘探技术交流 2026-10-16\n东大成果荣获“中国芯片科学十大进展提名奖”与“中国芯片科学十大进展产业新芽奖” 2026-10-20\n南京审计大学代表团到东南大学调研交流 2026-10-20\n2026年全国电子显微学学术年会在南京举行 2026-10-20\n东南大学举办第八届师生校友乒乓球联谊赛 2026-10-20\n“百万青年聚金陵·百校巡回招引”东南大学专场活动举行 2026-10-18\n辽宁省副省长楚天运一行到访东南大学 2026-10-18\n教育部哲学社会科学研究重大课题攻关项目开题报告会在东南大学举办 2026-10-17\n媒体东大\n【中国教育报】 东南大学为学生创新创业搭台又陪跑 双创路演办到产业一线\n【人民日报】 中国园林中的独特建筑流杯亭 千年风雅一亭中（文化中国行·华夏博物之旅·传统建筑）\n【中国教育报】 各地推进学校国防教育，上好军训“第一课”——国防观念和爱国情怀植入学生心田\n【中央广播电视台·新闻直播间】 我国建成50家国家卓越工程师学院 校企联合培养工程硕博士近3.6万人\n2025-05-12\n2026-10-10 【中央广播电视台·新闻联播】【新思想引领新征程】从源头和底层破题 夯实科技强国根基\n2026-09-04 【中央广播电视台·晚间新闻】706公里骑行路 父子并肩赴韶华\n2026-07-29 【中央广播电视台·经济信息联播】你好 AI新人类！AI医疗人才缺口大 跨界培养按下快进键\n2026-07-26 【红旗文稿】孙友宏: 大力培养优秀青年科技人才\n【中华人民共和国教育部】 东南大学探索以实践成果为导向的工程硕博士教育改革\n【光明日报】 东南大学团队提出“器官芯片分析化学”\n【中国新闻网】 江苏省2026年“9·28经典诵读”活动在东南大学启幕\n【中国科学报】 我国社区人群肝纤维化与脂肪性肝病负担首次获揭示\n活力东大\n尺规绘山河·以舞铸栋梁 ｜ 舞剧《栋梁》走进东南大学主创主演见面会预告 2026年10月21日 14:00-16:00 四牌楼校区大礼堂\n2026戏曲名作高校巡演活动——昆剧《邯郸记》演出预告 2026年10月15日 19:00 九龙湖校区焦廷标馆剧场\n诵千年文脉·启时代新程｜“9·28经典诵读”首场暨启动活动预告 2026年9月28日 9:00-10:00 东南大学梅庵户外\n信仰公开课 | 与创业榜样面对面活动预告 2026年9月17日 14:00 九龙湖校区焦廷标馆剧场\n预约观影 |《欢迎来龙餐馆》主创团队走进东南大学 2026年9月15日 13:00 九龙湖校区焦廷标馆\n来图书馆，找书搭子——东南大学第三届图书集市 2026年9月10日 四牌楼校区图书馆一楼大厅及户外草坪\n东大“活力Young计划”，来了！ 每晚21:00-22:00 九龙湖校区桃园体育场\n“指尖探知，数海寻真”东南大学数字资源推广日 2026年4月23日 10:00-15:00 九龙湖校区李文正图书馆南门广场\n龙乐豪院士《我和共和国的火箭事业》主题讲座 2026年3月25日 19:00 四牌楼校区大礼堂\n一场春耕节的预告：用一颗种子，迎接整个春天 2026年3月25日 12：30 九龙湖校区“耕读园”\n暗夜承光，信仰不朽丨《沉默的荣耀》主演那志东信仰公开课预告 2026年3月13日 19:00 九龙湖校区人文讲座报告厅（教三105）\n精彩抢先看！2026东南大学创新创业冬令营来啦！ 2026年1月24日-1月25日 九龙湖校区\n“我们的校园”绘画实验班习作汇报展 2026年1月6日-1月8日 九龙湖校区焦廷标馆二楼多功能厅\n第三届翰墨迎春·书法名家进校园贺新春活动 2025年1月6日 15:00-17:00 九龙湖校区大学生活动中心二楼多功能厅\n图书馆嘉年华 2025年12月26日 14:00-16:00 李文正图书馆\n英你而阅（数据库季） 2025年12月10日14:00 李文正图书馆B204展览中心\n江苏青年文学对谈活动：在语言的旷野相遇 2025年12月10日15：00-17：30 九龙湖校区纪忠楼报告厅\n学科交叉青年学者沙龙第32期：空天智造 2025年11月27日 9：00-11：45 九龙湖校区机械楼305南高厅\n“苏韵伊情 石榴籽祖国行”青年交流活动走进东南大学 2025年11月12日 四牌楼校区\n学科交叉青年学者沙龙31期 ：科技赋能老龄文明 2025年11月7日14:00-17:20 九龙湖校区电子大楼14楼63791报告厅\n学术东大\n东南大学张久洋团队在液态金属-半导体界面与柔性拓扑电路研究方面取得重要进展 2026-10-14\n东南大学李全团队受邀发表模块化可重构软体驱动器文章 2026-10-11\n东南大学汤启云课题组与合作者在JACS发表生物分子液液相分离新理论 2026-10-07\n东南大学刘志远、蒋玮团队在自动驾驶出行对城市交通的影响研究方面取得新进展 2026-10-01\n融媒东大\n秋天按下快门，让我们和东大一起比个“叶”\n《人民日报》报道！东大学子设计制作了一座“文化大篷车”！\n新的东大生活，启程！\n视觉东大\n东大学人\n东南大学陈殿勇：\"那种喜悦能消解所有疲惫”：在东南大学，有这样一位教授：他是入选斯坦福全球前2%科学家“年度影响力”榜单的顶尖科学家，也是学生口中“永远在奔跑”的导师，更是教育改革浪潮中的破局者——他就是东南大学物理学院副院长陈殿勇。近日，记者专访到这位在高能物理与高等教育领域双线奔跑的学者，听他讲述科研育人的双重探索。\n“陆老师，与你相遇，好幸运！”：走进生物科学与医学工程学院大楼，你常常会听到两种不一样的声音，它可以是和蔼可亲，令人宾至如归的声音：“你来了呀，快坐会儿，喝口水”；也可以是严谨求实，令人如沐春风的声音：“我们的科研不是在拧螺丝，而是一种探索性、创新性的工作”。\nSimoneBaldi：科研，让生活更美好：我校有这么一位洋面孔的教授，学生一提起他，都会惊叹于他的勤勤恳恳、平易近人。“他只会抽早上时间去九龙湖游泳馆游泳，其他时间基本上一年365天都在工作。”“他教导学生不仅定期一对一指导，还会细心帮忙修改论文与代码。”“我觉得用一个词来概括和他相处的方式就是亦师亦友。”\n从冒泡汽水，到燃料电池——访能源与环境学院李桃教授：他，年少立志，筑梦未来；他，专注科研，“膜”炼突破；他，青春有为，奋进不止。时光流转，这段坚定而踏实的成长历程闪烁着逐梦者步步笃行的光亮。他就是入职我校仅两年多，就在校“五四表彰”中荣获青年五四奖章的李桃教授。\n脚踏实地仰望星空 ———记仪器科学与工程学院李会军教授：明亮宽阔的实验室里，各类实验仪器陈列有序。李会军站在机器人模型前，正在为学生解答困惑。她耐心地聆听学生的疑问，小小的点拨便能引导学生独立思考、妥善处理问题。科研与教学共存，这是李会军的工作常态。从教多年来，李会军总是穿梭于实验室与课堂之间，在叩问苍穹时始终脚踏实地，用她的严谨笃实、孜孜不辍深深感染着学生。\n“薇”光照亮，一“陆”同行——记外国语学院陆薇薇老师：她如春风般走来，以生动的课堂开启学生的兴趣之门，严于律己、深耕科研、高效工作、认真生活，她是学生眼中集美貌与才华于一身的温柔导师、是出色能干的“全能战士”，更是亦师亦友的成长引路人——她就是外国语学院陆薇薇老师。\n用韧性＂电＂亮人生 ——记国家青年高层次人才、电气工程学院博士生导师叶宇剑：2021年的某天，叶宇剑挥手告别生活近十年的英国，踏进东南大学的校门。这个年少有为的青年身上展现出一种优雅而专注的生命美学：尊重兴趣而刻苦探索，严谨务实而不失格调。他身上散发着蓬勃的力量，引导自己，也引导别人，成为年轻人追寻未来的榜样。\n师生交而其志同 天地交而万物通——记东南大学首届杰出教学奖获得者、交通学院于斌教授：秋日的午后，敲开东南大学首届杰出教学奖获得者、交通学院于斌教授办公室的门，我们看见他坐在办公桌前忙碌打字的身影。“我请你们喝咖啡吧。”他温和地笑着，领着我们来到咖啡厅。迎面走来的学生纷纷热情地与他打招呼，他笑着一一点头回应。不难看出，这是一位深受学生喜爱的老师。沉浸在浓郁的咖啡香气里，于斌教授将他的心路历程娓娓道来。他的求学经历、教学创新与科研探索都表明，这位年轻有为的青年教师，有着与“天地交而万…\n画笔和讲台：做启发式的教育者——记东南大学首届杰出教学奖获得者、马克思主义学院副教授杨洋：2021年东南大学第一届“杰出教学奖” 、2022年首届全省高校思想政治理论课教学展示活动中一等奖、2020年江苏省第三届本科高校青年教师教学竞赛思想政治课专项组一等奖、2017年“东南大学十大最受欢迎老师”……关于教学，她身上的光环耀眼如斯，一双慧眼传递出温柔与哲思，一张笑靥散播开关怀与亲切，性格直爽是她给自己的定义……她就是东南大学马克思主义学院副教授杨洋。\n体育雕琢品格教育浸润人生——记东南大学首届杰出教学奖获得者、体育系青年教师杨文刚：谈起东南大学体育系的健美操老师杨文刚，很多学生都会会心一笑。“年轻帅气”“随和有趣”“认真负责”一直是他的标签，融洽的课堂氛围和独特的教学方式更为同学们所津津乐道。在九龙湖体育馆的健美操馆内，他是东南大学学生们的老师、朋友，向学生传授健美操技巧和人生经验；同时，他也是中国首批啦啦操国际级裁判员、国家级教练员、国际认证教练员、中国啦啦操金牌导师，常以裁判长、副裁判长、技术代表等身份活跃在国际、全国性…\n以你为镜：平凡相伴里的微光——记东南大学杰出教学奖获得者、信息科学与工程学院孟桥教授：他背着包，稳步走进教师休息室，脸上没有美文赞词中念到滚瓜烂熟的和蔼可亲的笑容，却也没有一副严肃刻板的模样，平静、沉稳，从教数十年一如既往。\n一支粉笔一个板擦一面黑板用数字记录人生——记我校数学学院副教授闫亮：在东南大学，有这样一位老师。他授课认真负责、讲解耐心细致，深入浅出之间便可将复杂的高等数学变得简洁明了，循循善诱之下便可将枯燥的数学分析变得妙趣横生。他曾多次获得东南大学“吾爱吾师———我最喜爱的十大老师”和“数学学院最受欢迎老师”称号，被同学们亲切地称呼为数学学院男神。2021年度，他的名字又一次在“聚光灯下”出现，那是东南大学首次颁发的“杰出教学奖”名单，他就是“教学新秀奖”的获得者———东南…\n至真至诚勇攀高峰——记“宝钢优秀教师特等奖”获得者、交通学院陈峻教授：有这样一位教授，学术生涯横跨三个领域，为探寻自己研究上的突破；工作中不断转换角色，为课程教学改革倾注心力；生活中以德树人，用真心指导学生走出自己人生的道路。他就是东南大学首席教授、交通学院院长陈峻。在教学上，陈峻先后担任了东南大学交通工程专业系主任、交通学院教学副院长、教育部交通工程专业教学指导分委会副主任、交通运输类专业认证委员会专家、道路交通工程国家级实验教学示范中心主任等工作，多年来以培养拔…\n【寻访身边的榜样】科研求索孜孜无怠 培桃育李诲人不倦——记电子科学与工程学院副院长贺龙兵：语文课上，小朋友像往常一样踊跃举着小手，希望回答老师的造句问题，“既……又……”，“爸爸的工作既苦又累。”一个稚嫩的声音响起，句子中的爸爸就是电子科学与工程学院副院长贺龙兵。对此，贺龙兵笑着说，“虽然\n【寻访身边的榜样】他把“小”车开上“大”舞台———访东南大学首席教授殷国栋：在去年年底“东大人的国家记忆”思政大课上，有这样令人印象深刻的一幕：舞台中央的男老师西装革履，气宇轩昂，对汽车的起源与发展娓娓道来。在他的介绍中，一辆有着“雪亮的眼睛、聪慧的大脑、敏捷的身手和优异的社\n【寻访身边的榜样】笃志好学格物致知———记马克思主义学院陈硕副教授：《准确把握新发展阶段的依据与内涵》《以产业扶贫推动南京商洛扶贫协作向纵深发展》《在不断创新中育新机开新局》《最大的政治最强的力量》……点开东南大学马克思主义学院的网站，在首页的思想风采栏目中，转载东南\n【寻访身边的榜样】静心尽力——记东南大学信息科学与工程学院青年教授许威：一走进许威在无线谷的办公室，就能看见办公桌后面摆放了一个很大的书柜，最上面三层塞满了厚厚的全英文书籍，下面则堆叠着写有“无线通信”、“统计分析”等字样的中文书。随手拿起一本书，书中的每一页都有他推导的\n【寻访身边的榜样】回家乡，不仅仅是招生———记“山西妈妈”朱保叶老师：第一次见到朱保叶老师，她身着墨绿色的西装，戴着一条斑纹丝巾，庄重而不失亲切，笑起来仿佛一位邻家阿姨。带着几分陌生与无言，我们与朱保叶面对面坐下，细细看起她随身带来的《东南大学山西优秀学子风采录》———\n【寻访身边的榜样】冯莉莉：东序窗明逐梦路好云香护采芹人：2001年，冯莉莉退伍进入东南大学从事宿舍管理员的工作。20年间，斗转星移，日新月异，从宿舍管理员到总务处九龙湖学生公寓中心主任，她见证了九龙湖校区从无到有，见证了我校后勤事业的改革步伐，更见证了东大\n【寻访身边的榜样】鹤发银丝映日月 丹心热血沃新花——记交通学院班主任老师许映泉：作为国家一级裁判，许映泉在赛场上留下了坚定的身影，同时也曾是一批又一批青春学子的引路人。连续多年担任班主任期间，他承担了大量学习困难生的帮扶工作，用满腔的热情和对学生的关怀，影响了很多学子的成长。\n数字东大\n占地面积：5888亩\n院系：39\n本科专业：85\n专业学位博士点：13\n一级学科博士点：49\n国家级一流本科专业建设点：53\n博士后科研流动站：39\n“两弹一星”元勋校友：5\n图书馆藏图书资料：494.2万册\n留学生人数：2381\n研究生人数：26256\n“双一流”学科：12\nESI前1%学科：18\n两院院士：18\n本科生人数：17277\n博士生导师：2194\n国家高层次人才：850\n全国重点实验室：8",
+    "author": "东南大学",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "档案馆",
+        "href": "http://archives.seu.edu.cn/"
+      },
+      {
+        "text": "海外教育学院",
+        "href": "http://cis.seu.edu.cn/"
+      },
+      {
+        "text": "东南大学报",
+        "href": "http://ddb.seu.edu.cn/"
+      },
+      {
+        "text": "校史馆",
+        "href": "http://history.seu.edu.cn/"
+      },
+      {
+        "text": "虎踞龙蟠",
+        "href": "http://hjlp.seu.edu.cn"
+      },
+      {
+        "text": "教师教学发展中心",
+        "href": "http://jsgzb.seu.edu.cn/"
+      },
+      {
+        "text": "校园地图",
+        "href": "http://map.seu.edu.cn/"
+      },
+      {
+        "text": "图书馆嘉年华 2025年12月26日 14:00-16:00 李文正图书馆",
+        "href": "http://mp.weixin.qq.com/s/E3x2v00ycm_ubWPKlQkuWA"
+      },
+      {
+        "text": "东大新闻",
+        "href": "http://news.seu.edu.cn/"
+      },
+      {
+        "text": "就业办",
+        "href": "http://seu.91job.org.cn"
+      },
+      {
+        "text": "校友总会",
+        "href": "http://seuaa.seu.edu.cn/"
+      },
+      {
+        "text": "教育基金会",
+        "href": "http://seuef.seu.edu.cn/"
+      },
+      {
+        "text": "科技园",
+        "href": "http://sp.seu.edu.cn/"
+      },
+      {
+        "text": "视觉东大",
+        "href": "http://webplus.seu.edu.cn/_s2/_t2905/mlxy/list.psp"
+      },
+      {
+        "text": "学校概况",
+        "href": "http://www.seu.edu.cn/28443/list.htm"
+      },
+      {
+        "text": "科学研究",
+        "href": "http://www.seu.edu.cn/28454/list.htm"
+      },
+      {
+        "text": "39 院系",
+        "href": "http://www.seu.edu.cn/yxsz/list.htm"
+      },
+      {
+        "text": "信息公开网",
+        "href": "http://xxgk.seu.edu.cn/"
+      },
+      {
+        "text": "研究生",
+        "href": "http://yzb.seu.edu.cn/"
+      },
+      {
+        "text": "至善网",
+        "href": "http://zhishan.seu.edu.cn/"
+      },
+      {
+        "text": "本科生",
+        "href": "http://zsb.seu.edu.cn/"
+      },
+      {
+        "text": "",
+        "href": "https://b23.tv/95K5aM?share_source=qq&share_medium=iphone&bbid=Y249B324B4B96ECD4465B6E7AB9035C98F76&ts=1622792469"
+      },
+      {
+        "text": "吴健雄纪念馆",
+        "href": "https://chien-shiungwu.seu.edu.cn/"
+      },
+      {
+        "text": "丁家桥校区 南京市鼓楼区湖南路丁家桥87号 邮编：210009",
+        "href": "https://djqxq.seu.edu.cn/"
+      },
+      {
+        "text": "校园信息门户",
+        "href": "https://i.seu.edu.cn"
+      },
+      {
+        "text": "85 本科专业",
+        "href": "https://jwc.seu.edu.cn/"
+      },
+      {
+        "text": "“六朝松”大师讲堂",
+        "href": "https://jwc.seu.edu.cn/lcsdjt/list.htm"
+      },
+      {
+        "text": "东大校历",
+        "href": "https://jwc.seu.edu.cn/xl/list.htm"
+      },
+      {
+        "text": "科研院",
+        "href": "https://kjc.seu.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "href": "https://lib.seu.edu.cn/"
+      },
+      {
+        "text": "电子邮箱",
+        "href": "https://mail.seu.edu.cn/"
+      },
+      {
+        "text": "5888亩 占地面积",
+        "href": "https://map.seu.edu.cn/#/home"
+      },
+      {
+        "text": "尺规绘山河·以舞铸栋梁 ｜ 舞剧《栋梁》走进东南大学主创主演见面会预告 2026年10月21日 14:00-16:00 四牌楼校区大礼堂",
+        "href": "https://mp.weixin.qq.com/s/4J3K-mGkxVWRQGVu8Psijg"
+      },
+      {
+        "text": "学科交叉青年学者沙龙31期 ：科技赋能老龄文明 2025年11月7日14:00-17:20 九龙湖校区电子大楼14楼63791报告厅",
+        "href": "https://mp.weixin.qq.com/s/7RzI-Ae_NtH9AcEA-sgH2Q"
+      },
+      {
+        "text": "预约观影 |《欢迎来龙餐馆》主创团队走进东南大学 2026年9月15日 13:00 九龙湖校区焦廷标馆",
+        "href": "https://mp.weixin.qq.com/s/7cFjYxbcdYwvJhmjX1uTMw"
+      },
+      {
+        "text": "精彩抢先看！2026东南大学创新创业冬令营来啦！ 2026年1月24日-1月25日 九龙湖校区",
+        "href": "https://mp.weixin.qq.com/s/7p98K-5zlAIqg_zVUVnRaA"
+      },
+      {
+        "text": "英你而阅（数据库季） 2025年12月10日14:00 李文正图书馆B204展览中心",
+        "href": "https://mp.weixin.qq.com/s/A6GDr_1wlcOS83-ABZGkzw"
+      },
+      {
+        "text": "学科交叉青年学者沙龙第32期：空天智造 2025年11月27日 9：00-11：45 九龙湖校区机械楼305南高厅",
+        "href": "https://mp.weixin.qq.com/s/GXo2053FfzY137lUJ9dSsQ"
+      },
+      {
+        "text": "江苏青年文学对谈活动：在语言的旷野相遇 2025年12月10日15：00-17：30 九龙湖校区纪忠楼报告厅",
+        "href": "https://mp.weixin.qq.com/s/NVkGUwom5p2TR54d829J0g"
+      },
+      {
+        "text": "信仰公开课 | 与创业榜样面对面活动预告 2026年9月17日 14:00 九龙湖校区焦廷标馆剧场",
+        "href": "https://mp.weixin.qq.com/s/PHTUIljEyAo_AZ5DFbGaDA"
+      },
+      {
+        "text": "一场春耕节的预告：用一颗种子，迎接整个春天 2026年3月25日 12：30 九龙湖校区“耕读园”",
+        "href": "https://mp.weixin.qq.com/s/UnYmFO7PKFAKTXsudXCzYg"
+      },
+      {
+        "text": "诵千年文脉·启时代新程｜“9·28经典诵读”首场暨启动活动预告 2026年9月28日 9:00-10:00 东南大学梅庵户外",
+        "href": "https://mp.weixin.qq.com/s/V7N6ZwrIJ4op_DVeMhhovA"
+      },
+      {
+        "text": "“苏韵伊情 石榴籽祖国行”青年交流活动走进东南大学 2025年11月12日 四牌楼校区",
+        "href": "https://mp.weixin.qq.com/s/aXKMB0sBnrS8AdKwPXFl9Q"
+      },
+      {
+        "text": "龙乐豪院士《我和共和国的火箭事业》主题讲座 2026年3月25日 19:00 四牌楼校区大礼堂",
+        "href": "https://mp.weixin.qq.com/s/dEbudSriZvBtalMRxTKmuw?click_id=6"
+      },
+      {
+        "text": "东大“活力Young计划”，来了！ 每晚21:00-22:00 九龙湖校区桃园体育场",
+        "href": "https://mp.weixin.qq.com/s/hmF8vXMfEKFzD6oVtsRnrA"
+      },
+      {
+        "text": "第三届翰墨迎春·书法名家进校园贺新春活动 2025年1月6日 15:00-17:00 九龙湖校区大学生活动中心二楼多功能厅",
+        "href": "https://mp.weixin.qq.com/s/k5uugZAJxRkoVde1DIyRnA"
+      },
+      {
+        "text": "新的东大生活，启程！",
+        "href": "https://mp.weixin.qq.com/s/meW_4jtzOzKvimMNrhWCAQ"
+      },
+      {
+        "text": "《人民日报》报道！东大学子设计制作了一座“文化大篷车”！",
+        "href": "https://mp.weixin.qq.com/s/mokRjSazBZS8Mw3vQ2rvtQ"
+      },
+      {
+        "text": "2026戏曲名作高校巡演活动——昆剧《邯郸记》演出预告 2026年10月15日 19:00 九龙湖校区焦廷标馆剧场",
+        "href": "https://mp.weixin.qq.com/s/pl2NMnAsGoXjw11R9_4jvg"
+      },
+      {
+        "text": "暗夜承光，信仰不朽丨《沉默的荣耀》主演那志东信仰公开课预告 2026年3月13日 19:00 九龙湖校区人文讲座报告厅（教三105）",
+        "href": "https://mp.weixin.qq.com/s/uQj2aaoqcFzgMNXCApq_YQ"
+      },
+      {
+        "text": "“指尖探知，数海寻真”东南大学数字资源推广日 2026年4月23日 10:00-15:00 九龙湖校区李文正图书馆南门广场",
+        "href": "https://mp.weixin.qq.com/s/vvrv5eJ-F1tCfEBf6z6UeQ"
+      },
+      {
+        "text": "“我们的校园”绘画实验班习作汇报展 2026年1月6日-1月8日 九龙湖校区焦廷标馆二楼多功能厅",
+        "href": "https://mp.weixin.qq.com/s/vyXXsmZf3sHgPSniEsShNA"
+      },
+      {
+        "text": "秋天按下快门，让我们和东大一起比个“叶”",
+        "href": "https://mp.weixin.qq.com/s/w6BcebdGewjeNO4UfaYvjw?scene=1&click_id=728994610"
+      },
+      {
+        "text": "",
+        "href": "https://mp.weixin.qq.com/s/zjrL7YyTxXOBCcqHodUjvw"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://news.seu.edu.cn/"
+      },
+      {
+        "text": "至真至诚勇攀高峰——记“宝钢优秀教师特等奖”获得者、交通学院陈峻教授",
+        "href": "https://news.seu.edu.cn/2022/0124/c5513a398074/page.htm"
+      },
+      {
+        "text": "体育雕琢品格教育浸润人生——记东南大学首届杰出教学奖获得者、体育系青年教师杨文刚",
+        "href": "https://news.seu.edu.cn/2022/0615/c5513a411807/page.htm"
+      },
+      {
+        "text": "东南大学陈殿勇：\"那种喜悦能消解所有疲惫”",
+        "href": "https://news.seu.edu.cn/2025/0422/c5513a525718/page.htm"
+      },
+      {
+        "text": "",
+        "href": "https://news.seu.edu.cn/2026/0101/c55945a550856/page.htm"
+      },
+      {
+        "text": "东南大学全球宣传片发布",
+        "href": "https://news.seu.edu.cn/2026/0525/c5537a568694/page.htm"
+      },
+      {
+        "text": "东南大学2026年度宣传片",
+        "href": "https://news.seu.edu.cn/2026/0602/c5537a569753/page.htm"
+      },
+      {
+        "text": "2026-07-26 【红旗文稿】孙友宏: 大力培养优秀青年科技人才",
+        "href": "https://news.seu.edu.cn/2026/0726/c5485a578165/page.htm"
+      },
+      {
+        "text": "2026-07-29 【中央广播电视台·经济信息联播】你好 AI新人类！AI医疗人才缺口大 跨界培养按下快进键",
+        "href": "https://news.seu.edu.cn/2026/0729/c5485a578481/page.htm"
+      },
+      {
+        "text": "2026-09-04 【中央广播电视台·晚间新闻】706公里骑行路 父子并肩赴韶华",
+        "href": "https://news.seu.edu.cn/2026/0904/c5485a581659/page.htm"
+      },
+      {
+        "text": "东南大学举行2026年全校师生党员第三次集中教育暨第二次集中大课 9月23日下午，东南大学举办主题为“凝心铸魂同心聚力”的2026年师生党员第三次集中教育暨第二次集中大课，集体学习中央党校（国家行政学院）副校长（副院长）兼办公厅主任张忠军主讲的“深入学习贯彻习近平总书记关于党性的…",
+        "href": "https://news.seu.edu.cn/2026/0924/c55947a584417/page.htm"
+      },
+      {
+        "text": "东南大学举行数智药学与新药研发战略高峰论坛 9月23日至24日，“智算未来·药启新章——数智药学与新药研发战略高峰论坛”在南京举行，论坛上举行了东南大学药学院启动仪式。本次论坛由东南大学主办，汇聚了多位两院院士、全国顶尖高校药学院院长及业内知名专家，围绕前沿议题开展深度研讨，全方…",
+        "href": "https://news.seu.edu.cn/2026/0927/c55947a584477/page.htm"
+      },
+      {
+        "text": "【中国科学报】 我国社区人群肝纤维化与脂肪性肝病负担首次获揭示",
+        "href": "https://news.seu.edu.cn/2026/0928/c5485a584513/page.htm"
+      },
+      {
+        "text": "【中国新闻网】 江苏省2026年“9·28经典诵读”活动在东南大学启幕",
+        "href": "https://news.seu.edu.cn/2026/0929/c5485a584662/page.htm"
+      },
+      {
+        "text": "【光明日报】 东南大学团队提出“器官芯片分析化学”",
+        "href": "https://news.seu.edu.cn/2026/0929/c5485a584703/page.htm"
+      },
+      {
+        "text": "【中央广播电视台·新闻直播间】 我国建成50家国家卓越工程师学院 校企联合培养工程硕博士近3.6万人",
+        "href": "https://news.seu.edu.cn/2026/0929/c5485a584795/page.htm"
+      },
+      {
+        "text": "【中国教育报】 各地推进学校国防教育，上好军训“第一课”——国防观念和爱国情怀植入学生心田",
+        "href": "https://news.seu.edu.cn/2026/0930/c5485a584826/page.htm"
+      },
+      {
+        "text": "东南大学刘志远、蒋玮团队在自动驾驶出行对城市交通的影响研究方面取得新进展 2026-10-01",
+        "href": "https://news.seu.edu.cn/2026/1001/c55840a584987/page.htm"
+      },
+      {
+        "text": "【人民日报】 中国园林中的独特建筑流杯亭 千年风雅一亭中（文化中国行·华夏博物之旅·传统建筑）",
+        "href": "https://news.seu.edu.cn/2026/1006/c5485a585068/page.htm"
+      },
+      {
+        "text": "东南大学汤启云课题组与合作者在JACS发表生物分子液液相分离新理论 2026-10-07",
+        "href": "https://news.seu.edu.cn/2026/1007/c55840a585080/page.htm"
+      },
+      {
+        "text": "2026-10-10 【中央广播电视台·新闻联播】【新思想引领新征程】从源头和底层破题 夯实科技强国根基",
+        "href": "https://news.seu.edu.cn/2026/1010/c5485a585493/page.htm"
+      },
+      {
+        "text": "东南大学李全团队受邀发表模块化可重构软体驱动器文章 2026-10-11",
+        "href": "https://news.seu.edu.cn/2026/1011/c55840a585661/page.htm"
+      },
+      {
+        "text": "【中国教育报】 东南大学为学生创新创业搭台又陪跑 双创路演办到产业一线",
+        "href": "https://news.seu.edu.cn/2026/1014/c5485a585984/page.htm"
+      },
+      {
+        "text": "东南大学张久洋团队在液态金属-半导体界面与柔性拓扑电路研究方面取得重要进展 2026-10-14",
+        "href": "https://news.seu.edu.cn/2026/1014/c55840a586020/page.htm"
+      },
+      {
+        "text": "中国科学院学部第236次科学与技术前沿论坛在南京举行 10月12日至13日，中国科学院学部第236次科学与技术前沿论坛在南京举行。本次论坛以“超低功耗计算体系”为主题，中国科学院院士、中国科学院信息技术科学部常务委员会委员吕建，东南大学党委书记邬小撑出席开幕式并致辞，共有19位两…",
+        "href": "https://news.seu.edu.cn/2026/1014/c55947a585965/page.htm"
+      },
+      {
+        "text": "【中华人民共和国教育部】 东南大学探索以实践成果为导向的工程硕博士教育改革",
+        "href": "https://news.seu.edu.cn/2026/1015/c5485a586049/page.htm"
+      },
+      {
+        "text": "东南大学与中国海油开展深海资源勘探技术交流 2026-10-16",
+        "href": "https://news.seu.edu.cn/2026/1016/c55947a586242/page.htm"
+      },
+      {
+        "text": "教育部哲学社会科学研究重大课题攻关项目开题报告会在东南大学举办 2026-10-17",
+        "href": "https://news.seu.edu.cn/2026/1017/c5486a586407/page.htm"
+      },
+      {
+        "text": "东南大学召开第三十三次学生代表大会、第十七次研究生代表大会 2026-10-18",
+        "href": "https://news.seu.edu.cn/2026/1018/c55945a586466/page.htm"
+      },
+      {
+        "text": "辽宁省副省长楚天运一行到访东南大学 2026-10-18",
+        "href": "https://news.seu.edu.cn/2026/1018/c55946a586461/page.htm"
+      },
+      {
+        "text": "“百万青年聚金陵·百校巡回招引”东南大学专场活动举行 2026-10-18",
+        "href": "https://news.seu.edu.cn/2026/1018/c55946a586465/page.htm"
+      },
+      {
+        "text": "东南大学召开深化审计整改工作会议暨第十轮校内巡视及第五轮巡视整改督查动员部署会 10月15日，东南大学召开深化审计整改工作会议暨第十轮校内巡视及第五轮巡视整改督查动员部署会，通报相关情况，部署后续工作。校党委书记邬小撑主持会议，校长孙友宏院士出席会议。 2026-10-18",
+        "href": "https://news.seu.edu.cn/2026/1018/c55947a586448/page.htm"
+      },
+      {
+        "text": "南京审计大学代表团到东南大学调研交流 2026-10-20",
+        "href": "https://news.seu.edu.cn/2026/1020/c22709a586697/page.htm"
+      },
+      {
+        "text": "东南大学举办第八届师生校友乒乓球联谊赛 2026-10-20",
+        "href": "https://news.seu.edu.cn/2026/1020/c5495a586677/page.htm"
+      },
+      {
+        "text": "2026年全国电子显微学学术年会在南京举行 2026-10-20",
+        "href": "https://news.seu.edu.cn/2026/1020/c55946a586679/page.htm"
+      },
+      {
+        "text": "东大成果荣获“中国芯片科学十大进展提名奖”与“中国芯片科学十大进展产业新芽奖” 2026-10-20",
+        "href": "https://news.seu.edu.cn/2026/1020/c55946a586696/page.htm"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://news.seu.edu.cn/5485/list.htm"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://news.seu.edu.cn/5513/list.htm"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://news.seu.edu.cn/5527/list.htm"
+      },
+      {
+        "text": "2025-05-12",
+        "href": "https://news.seu.edu.cn/yhkjxwfb/list.htm"
+      },
+      {
+        "text": "招聘信息",
+        "href": "https://rcb.seu.edu.cn/46451/list.htm"
+      },
+      {
+        "text": "人才招聘",
+        "href": "https://rcb.seu.edu.cn/main.htm"
+      },
+      {
+        "text": "研究生导师",
+        "href": "https://seugs.seu.edu.cn/28885/list.htm"
+      },
+      {
+        "text": "13 专业学位博士点",
+        "href": "https://seugs.seu.edu.cn/28890/list.htm"
+      },
+      {
+        "text": "49 一级学科博士点",
+        "href": "https://seugs.seu.edu.cn/28890/list.htm"
+      },
+      {
+        "text": "四牌楼校区 南京市玄武区四牌楼2号 邮编：210096",
+        "href": "https://splgwh.seu.edu.cn/"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/00/30/024776de495b81d043f52acd5d1f/0708e48e-a596-4dc5-a10e-2f0b08c30d51_s.jpg",
+        "alt": "英你而阅（数据库季）"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/04/da/f47b966848638fb60b3f4d00b82a/1553f313-61d4-4e41-916f-2341b476cdaa_s.jpg",
+        "alt": "龙乐豪院士《我和共和国的火箭事业》主题讲座"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/0d/cb/d563ea614cbc97907a63cd43eae2/816f9eea-adcf-4a35-b366-934310e51fb3.jpg",
+        "alt": "东南大学召开第三十三次学生代表大会、第十七次研究生代表大会"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/0f/c7/e559cdac48a9ae7942b3a33a2a03/49895df8-5a1d-4a65-ba81-a2f09591feea.jpg",
+        "alt": "【寻访身边的榜样】他把“小”车开上“大”舞台———访东南大学首席教授殷国栋"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/0f/f6/8bc35e724864beeda76673c81dd5/525ebb68-b55c-47ee-82d5-cfbc041482cf.jpg",
+        "alt": "东南大学张久洋团队在液态金属-半导体界面与柔性拓扑电路研究方面取得重要进展 2026-10-14"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/10/03/ac48db3d4c508eb09b3b59e9fe57/b731bebc-b6f5-48e7-85b1-829f119bd6e9.jpg",
+        "alt": "至真至诚勇攀高峰——记“宝钢优秀教师特等奖”获得者、交通学院陈峻教授"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/15/5e/21b89438452386e51ca7818f26d5/89e00f30-aae4-4232-a9b6-4b9d73b69c17_s.jpg",
+        "alt": "预约观影 |《欢迎来龙餐馆》主创团队走进东南大学"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/15/73/691b9ba941bb8871a4a3164d5fe5/269aca95-4cb7-47a9-aad4-9190cbdc42bf.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/17/90/6bcd2e114e7f97a1f039f6221dd5/4eb17e1e-2869-4345-8030-b71880a566e1_s.png",
+        "alt": "“指尖探知，数海寻真”东南大学数字资源推广日"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/18/1c/021a2f354a0d82d7fd6bbccbd515/65855492-c925-46b6-9e4d-10b65d38262e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/19/d9/99ae4c444d2f8e9bab43585c7a0d/26fa57e3-00ab-4932-9ccb-9c5fb7c821c2_s.jpg",
+        "alt": "诵千年文脉·启时代新程｜“9·28经典诵读”首场暨启动活动预告"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/1e/57/2a069b764d29a983b2ca153c6235/4e3f51f6-56ff-466a-bd48-4086116fc44e_s.png",
+        "alt": "来图书馆，找书搭子——东南大学第三届图书集市"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/1f/12/6a8b8a664da2bc34f30d7e430423/2a167028-ed12-4867-bf19-5918847db2b6.jpg",
+        "alt": "【寻访身边的榜样】鹤发银丝映日月 丹心热血沃新花——记交通学院班主任老师许映泉"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/20/ef/1f1810a447f0b7f15fbcb3d8e04c/a066c6ae-3bef-4aff-8481-774cb4635494.jpg",
+        "alt": "东南大学召开深化审计整改工作会议暨第十轮校内巡视及第五轮巡视整改督查动员部署会"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/27/0c/8a54f2284f8da28776f993e44783/dbc41556-662d-4882-b98b-259e57871c28_s.jpg",
+        "alt": "2026戏曲名作高校巡演活动——昆剧《邯郸记》演出预告"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/27/5a/110220154cbca39819e522c52cc4/48a4bf23-39be-48fd-88f1-96d7d507106f.jpg",
+        "alt": "【寻访身边的榜样】冯莉莉：东序窗明逐梦路好云香护采芹人"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/37/10/e52e1da645eb93e898c3ffed462b/ee90a885-8f56-4394-b0e0-5a92080b5d75_s.jpg",
+        "alt": "学科交叉青年学者沙龙31期 ：科技赋能老龄文明"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/39/25/71cf0a904a2fb70191d2e1c726ee/656134fc-5285-47cb-ae6b-bda83c46bb99.jpg",
+        "alt": "脚踏实地仰望星空 ———记仪器科学与工程学院李会军教授"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/3a/3e/07a5eef447b99645e103c73fc256/e2ace18f-8907-4b09-a5a8-5d4ec0af9711.jpg",
+        "alt": "东南大学陈殿勇：\"那种喜悦能消解所有疲惫”"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/3a/6f/3700e046473fa97bb4e9d43e23a9/dabc4510-9ca2-4d73-b2a6-752658c0d479.jpg",
+        "alt": "东南大学与中国海油开展深海资源勘探技术交流"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/41/95/281a467b4157848757ca423d0ab3/a59696f9-03ad-4698-aaee-4a49a32d877b_s.jpg",
+        "alt": "精彩抢先看！2026东南大学创新创业冬令营来啦！"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/42/59/8dd64d584537890ae319c4f8bd03/33924846-9b47-4e2e-b871-09f56d245467.png",
+        "alt": "东南大学李全团队受邀发表模块化可重构软体驱动器文章 2026-10-11"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/48/a3/ec99ec684b1b9e757ba4b98d6c7c/456ae449-d458-4377-99ec-d931575c97ba_s.jpg",
+        "alt": "信仰公开课 | 与创业榜样面对面活动预告"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/4b/b3/e0c5018a414988a4963c264ebe29/b450bb8e-459b-4bf5-bc6c-8a2e5a00aa58_s.png",
+        "alt": "江苏青年文学对谈活动：在语言的旷野相遇"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/52/4b/2a0809594552bc46c75cb0ad6869/d28a0e7d-518c-4f39-929e-596584437a5b.png",
+        "alt": "东南大学刘志远、蒋玮团队在自动驾驶出行对城市交通的影响研究方面取得新进展 2026-10-01"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/57/27/194b80a44e6886e2989a2b7d8284/d8ea3f27-3692-464d-a409-b3ebee1f8df4_s.jpg",
+        "alt": "“我们的校园”绘画实验班习作汇报展"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/60/27/4889b0dc4de9ab630281e3a2c146/4f3e40d7-7ca8-41fb-9364-0d0525b5dbd1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/60/9a/5c66efd04d63abee8ffd386ef9f5/dcd1a314-658f-488d-a4c9-a3031e0c1678_s.jpg",
+        "alt": "暗夜承光，信仰不朽丨《沉默的荣耀》主演那志东信仰公开课预告"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/62/be/218262044c7b8f9d61ea1dbfe28b/0d480971-ce46-442b-bee2-6b0c30e4d71b.jpg",
+        "alt": "【红旗文稿】孙友宏: 大力培养优秀青年科技人才"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/67/62/29205bf44bb28f54d620882082b6/e4613336-e441-4f21-ac86-ae53beeff456_s.png",
+        "alt": "学科交叉青年学者沙龙第32期：空天智造"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/6d/0c/4bb101bc4f35a945fbce35a7d46e/58732420-6ff5-4685-9ca7-fb43b973d0ec_s.jpg",
+        "alt": "一场春耕节的预告：用一颗种子，迎接整个春天"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/6d/ff/972389ee46e5b5db08fe1c7431f2/0b98402b-98f2-4432-a858-85913bf1909c.jpg",
+        "alt": "秋天按下快门，让我们和东大一起比个“叶”"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/6e/cf/2e2e5d11438a90bca0f14bacd4a2/1a46319e-588f-41ae-8909-be85f568bdf7.png",
+        "alt": "东南大学汤启云课题组与合作者在JACS发表生物分子液液相分离新理论 2026-10-07"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/72/c8/2fce4a8f4075891c8e3706a82569/e86e0937-7c7b-4166-b107-8eadaa4e0a7c.jpg",
+        "alt": "“陆老师，与你相遇，好幸运！”"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/74/0e/8a072a5145d2a3748cfe0fb62fcf/6e3c7978-f8e3-4381-9b44-4f95efe7a866.jpg",
+        "alt": "新的东大生活，启程！"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/7a/c6/b73168d74fed95fa90e58fd7e13d/b1d41c19-20f6-4bdf-8b0b-c9a23bfc3507.jpg",
+        "alt": "【寻访身边的榜样】笃志好学格物致知———记马克思主义学院陈硕副教授"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/7b/0f/9f773d1c442785e3c2fc96aa8a71/cb81514d-fa75-4731-bed2-8b70667c4cb3.jpg",
+        "alt": "【寻访身边的榜样】回家乡，不仅仅是招生———记“山西妈妈”朱保叶老师"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/7c/03/3f51f2584c0eac10f31eaad9931b/e026ff0a-db30-4bb3-be80-17ee8ef649d8.jpg",
+        "alt": "中国科学院学部第236次科学与技术前沿论坛在南京举行"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/7c/6e/dfa1f57249aaad37fbd83d2cc6d0/37cececd-b592-462c-bfae-a3e2ee502ce9_s.png",
+        "alt": "“苏韵伊情 石榴籽祖国行”青年交流活动走进东南大学"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/7e/8d/0eac28504226b696ccb235a14ef3/a9af2c3f-364b-41ec-bf56-867ea68b9394.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/7e/d2/e6207f934bf5811ac7041e206d89/d9dbd5d3-18e2-4e1c-ae9b-6d64ab4b5664.jpg",
+        "alt": "东南大学举行数智药学与新药研发战略高峰论坛"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/8c/9f/c00357444198ae86910ac4d1a8f1/ebe3d373-704a-4df2-a848-863f6be8cb06.jpg",
+        "alt": "东南大学全球宣传片发布"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/a1/43/d76c5853413891361233f0d6fe7a/0c8ebfa6-0019-47d7-a9d4-cea15114222a.jpg",
+        "alt": "东南大学2026年度宣传片"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/a5/42/cba659214d63b1165ac11a275d45/20bb056e-07da-4a5c-a2b9-71f3f6a1cf84.jpg",
+        "alt": "【寻访身边的榜样】科研求索孜孜无怠 培桃育李诲人不倦——记电子科学与工程学院副院长贺龙兵"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/aa/7e/b71d042a4febac4ebf1dcd1bdf91/c8718d59-d2b4-47c2-8397-b62c82a1e0b2.jpg",
+        "alt": "师生交而其志同 天地交而万物通——记东南大学首届杰出教学奖获得者、交通学院于斌教授"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/ac/b1/ca5e3b514bfba7be08bf0c49833e/a4631d47-bc84-48d7-9551-d7d919422fbb.png",
+        "alt": "【中央广播电视台·晚间新闻】706公里骑行路 父子并肩赴韶华"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/ad/3c/e21e086c423cbb069b2931ebf9b9/7a6b7303-4a08-469a-87aa-e2459ccff4bd.png",
+        "alt": "视觉东大"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/ad/87/07a86f4a47afa36d99f18d7bb7bb/78cab2ab-a6a4-4867-8d8f-dd8538d296b1_s.jpg",
+        "alt": "尺规绘山河·以舞铸栋梁 ｜ 舞剧《栋梁》走进东南大学主创主演见面会预告"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/b0/88/3dace8b34d7db5fd9bd29e12bcb3/5fc3df7d-b90a-4c0b-a5b2-e003b2717906.jpg",
+        "alt": "“薇”光照亮，一“陆”同行——记外国语学院陆薇薇老师"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/b3/d1/44463a4740d4a236c21902123d14/248b18c3-9274-4068-b138-0d41e9167a76.jpg",
+        "alt": "体育雕琢品格教育浸润人生——记东南大学首届杰出教学奖获得者、体育系青年教师杨文刚"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/b8/23/c5bac14943dab4defdecb8fd0997/c62d90d1-b550-4b1b-93e4-b3039c955069.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/b9/60/191c63b94905bd50ca7d0a4cb793/efb6a80c-c5cb-4f21-8dfc-10c6b912fd0f.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/bf/da/a0525b654a81bda9b92230618ba6/d5da516c-827b-4b8b-90fe-683866f74bf5.jpg",
+        "alt": "SimoneBaldi：科研，让生活更美好"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/c3/58/44db52d04c7f80b64ebe2f0cb02a/f394fe2f-0081-4013-90bf-aeeae399ff2a.png",
+        "alt": "【中央广播电视台·新闻联播】【新思想引领新征程】从源头和底层破题 夯实科技强国根基"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/c5/c7/06d732dc46989db9de9a33e117f6/7065e503-012c-4136-b9ee-c41921cb8ce6.jpg",
+        "alt": "《人民日报》报道！东大学子设计制作了一座“文化大篷车”！"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/c7/57/8aef43ea41e8b2ffab1921a2bcac/4758582e-62ea-44bf-8e2d-e4fcf54eab21.jpg",
+        "alt": "从冒泡汽水，到燃料电池——访能源与环境学院李桃教授"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/c8/1c/c2f45dba403fb7659983a4adaa5f/679f58ac-7fd6-494a-afd8-8e0932518544.jpg",
+        "alt": "用韧性＂电＂亮人生 ——记国家青年高层次人才、电气工程学院博士生导师叶宇剑"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/c9/57/c7bdecfc4cf69b8ce19f91a7ee07/e712a673-6d0d-40e5-b26e-6a49fe715989.jpg",
+        "alt": "画笔和讲台：做启发式的教育者——记东南大学首届杰出教学奖获得者、马克思主义学院副教授杨洋"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/d1/75/a6dc7ae045649ff1e6c587724c05/ab13cd64-9066-4bb3-bba7-941874de05c0.jpg",
+        "alt": "一支粉笔一个板擦一面黑板用数字记录人生——记我校数学学院副教授闫亮"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/d6/f1/068bf77d4c21982709240779dd39/58e4aece-c99c-4fc9-9224-2b3b270d37fc.jpg",
+        "alt": "东南大学举行2026年全校师生党员第三次集中教育暨第二次集中大课"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/d7/21/44466ca944b5a9b7d36c953d4f04/e2c8f1e6-123f-494d-854a-479135e9cfe0.jpg",
+        "alt": "【寻访身边的榜样】静心尽力——记东南大学信息科学与工程学院青年教授许威"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/dc/25/f6731a864d509821dcfbd909a002/99c41e7a-ed19-4fe6-b4c6-ec6d4b9f46cc.png",
+        "alt": "【中央广播电视台·经济信息联播】你好 AI新人类！AI医疗人才缺口大 跨界培养按下快进键"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/dd/b4/227dca2449409e1141593973bf36/eb768574-f81d-4a00-b597-51047619a6b9.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/e4/46/0dbf78f04623a77d07238c5dd461/31dea0a6-f71c-49f3-a48a-e57a4a3ec026_s.jpg",
+        "alt": "东大“活力Young计划”，来了！"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/e6/45/b68afff349d1a2f8e2c076127e29/864b6c5f-f905-4fb6-995c-04638b40ff46_s.png",
+        "alt": "图书馆嘉年华"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/f4/9c/58720c664c649af63f28e870160e/8c5e8baf-ed5a-4107-8774-ec28467fb013_s.png",
+        "alt": "第三届翰墨迎春·书法名家进校园贺新春活动"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/fd/08/c8c238d6413b8b4f3a10d3a26141/4059bdd2-a9cc-407f-9275-72d24c5cbbf8.jpg",
+        "alt": "以你为镜：平凡相伴里的微光——记东南大学杰出教学奖获得者、信息科学与工程学院孟桥教授"
+      },
+      {
+        "src": "https://www.seu.edu.cn/_upload/article/images/ff/24/99e84d65414f856ff24a10c973f1/00018453-7134-4428-a905-9186f4eec536.jpg",
+        "alt": ""
+      }
+    ],
+    "engine": "lightmount_lite",
+    "dom_id": "855521",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_lite",
+            "command": "safe_http.get",
+            "stdout": "{\"selected\": \"fast\", \"content_length\": 4049, \"selector\": \"body(fallback)\", \"status\": 200, \"final_url\": \"https://www.seu.edu.cn/\"}",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "banners": [
+        {
+          "href": "",
+          "image": "https://www.seu.edu.cn/_upload/article/images/60/27/4889b0dc4de9ab630281e3a2c146/4f3e40d7-7ca8-41fb-9364-0d0525b5dbd1.jpg",
+          "title": ""
+        },
+        {
+          "href": "https://news.seu.edu.cn/2026/0101/c55945a550856/page.htm",
+          "image": "https://www.seu.edu.cn/_upload/article/images/b8/23/c5bac14943dab4defdecb8fd0997/c62d90d1-b550-4b1b-93e4-b3039c955069.jpg",
+          "title": ""
+        },
+        {
+          "href": "https://news.seu.edu.cn/2026/0602/c5537a569753/page.htm",
+          "image": "https://www.seu.edu.cn/_upload/article/images/a1/43/d76c5853413891361233f0d6fe7a/0c8ebfa6-0019-47d7-a9d4-cea15114222a.jpg",
+          "title": "东南大学2026年度宣传片"
+        },
+        {
+          "href": "https://news.seu.edu.cn/2026/0525/c5537a568694/page.htm",
+          "image": "https://www.seu.edu.cn/_upload/article/images/8c/9f/c00357444198ae86910ac4d1a8f1/ebe3d373-704a-4df2-a848-863f6be8cb06.jpg",
+          "title": "东南大学全球宣传片发布"
+        },
+        {
+          "href": "",
+          "image": "https://www.seu.edu.cn/_upload/article/images/dd/b4/227dca2449409e1141593973bf36/eb768574-f81d-4a00-b597-51047619a6b9.jpg",
+          "title": ""
+        },
+        {
+          "href": "https://mp.weixin.qq.com/s/zjrL7YyTxXOBCcqHodUjvw",
+          "image": "https://www.seu.edu.cn/_upload/article/images/b9/60/191c63b94905bd50ca7d0a4cb793/efb6a80c-c5cb-4f21-8dfc-10c6b912fd0f.jpg",
+          "title": ""
+        }
+      ],
+      "campus_facts": [
+        {
+          "label": "占地面积",
+          "value": "5888亩"
+        },
+        {
+          "label": "院系",
+          "value": "39"
+        },
+        {
+          "label": "本科专业",
+          "value": "85"
+        },
+        {
+          "label": "专业学位博士点",
+          "value": "13"
+        },
+        {
+          "label": "一级学科博士点",
+          "value": "49"
+        },
+        {
+          "label": "国家级一流本科专业建设点",
+          "value": "53"
+        },
+        {
+          "label": "博士后科研流动站",
+          "value": "39"
+        },
+        {
+          "label": "“两弹一星”元勋校友",
+          "value": "5"
+        },
+        {
+          "label": "图书馆藏图书资料",
+          "value": "494.2万册"
+        },
+        {
+          "label": "留学生人数",
+          "value": "2381"
+        },
+        {
+          "label": "研究生人数",
+          "value": "26256"
+        },
+        {
+          "label": "“双一流”学科",
+          "value": "12"
+        },
+        {
+          "label": "ESI前1%学科",
+          "value": "18"
+        },
+        {
+          "label": "两院院士",
+          "value": "18"
+        },
+        {
+          "label": "本科生人数",
+          "value": "17277"
+        },
+        {
+          "label": "博士生导师",
+          "value": "2194"
+        },
+        {
+          "label": "国家高层次人才",
+          "value": "850"
+        },
+        {
+          "label": "全国重点实验室",
+          "value": "8"
+        }
+      ],
+      "keywords": [
+        "东南大学",
+        "东大"
+      ],
+      "site_name": "东南大学",
+      "site_name_en": "Southeast University",
+      "source_url": "https://www.seu.edu.cn/"
+    }
+  },
+  "_ok": true
+}

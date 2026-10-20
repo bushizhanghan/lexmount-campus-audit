@@ -1,0 +1,629 @@
+{
+  "_site": {
+    "slug": "sysu",
+    "name": "中山大学",
+    "url": "https://www.sysu.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.sysu.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 7902,
+    "sent_at": "2026-10-20T10:57:55+0800"
+  },
+  "metadata": {
+    "dom_id": "855525",
+    "template_id": "x53:46504154475c541b565a5858405b5c414c0f42424218464c46401850514018565b75041b051b05",
+    "server_elapsed_ms": 7689
+  },
+  "request_id": "909851a0-12b2-4e90-a015-db74de7663ba",
+  "result": {
+    "url": "https://www.sysu.edu.cn",
+    "final_url": "https://www.sysu.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:57:55.633902708Z",
+    "title": "中山大学 SUN YAT-SEN UNIVERSITY",
+    "description": "中山大学是由孙中山先生亲手创立，有着100多年的办学传统，由1952年院系调整后分设的中山大学和中山医科大学于2001年10月合并而成，是一所包括文学、历史学、哲学、法学、经济学、管理学、教育学、理学、医学、工学、农学、艺术学等在内的综合性大学。",
+    "main_text": "中山大学 SUN YAT-SEN UNIVERSITY\n中山大学是由孙中山先生亲手创立，有着100多年的办学传统，由1952年院系调整后分设的中山大学和中山医科大学于2001年10月合并而成，是一所包括文学、历史学、哲学、法学、经济学、管理学、教育学、理学、医学、工学、农学、艺术学等在内的综合性大学。\n关键词：中山大学\n【中大新闻】\n2026/10/15 习近平总书记在全国卫生与健康大会上的重要讲话引发中大师生热烈反响\n中大新闻网讯（通讯员 张妍、郑钰）10月12日至13日，全国卫生与健康大会在北京召开。习近平总书记出席会议并发表重要讲话，强调坚定不移走中国特色卫生与健康发展道路，贯彻新时代卫生与健康工作方针，扬优势、固基础、补短板、强弱项，推动卫生与健康事业高质量发展，不断提高人民健康水平。习近平总书记在全国卫生与健康大会上的重要讲话在中山大学师生中引发热烈反响，大家纷纷表示，将深入学习领会大会精神，立足自身岗位和...\n2026/10/12 第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学举行\n10月9日，第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学深圳校区举行。教育部党组成员、副部长，全国党建研究会副会长、高校党建研究专业委员会主任委员熊四皓，全国党建研究会副会长、中央组织部原副部长吴玉良，广东省委常委、副省长张国智出席会议并讲话。会议以“深入学习贯彻习近平党建思想，奋力开创新时代高校党的建设和思想政治工作新局面”为主题，聚焦持续推动习近平党建思想入脑入心...\n2026/10/01 中山大学毛磊教授荣获2026年度中国政府友谊奖\n中大新闻网讯（记者 冯贤哲）9月30日，2026年度中国政府友谊奖颁奖仪式在北京人民大会堂隆重举行。中山大学兼职教授、法国洛林大学荣誉教授毛磊（Jean Louis Morel）获此殊荣。中国政府友谊奖是为表彰在中国现代化建设中作出突出贡献的外国专家而设立的最高荣誉奖项。自2005年起，毛磊与中山大学开展长期合作，围绕重金属污染土壤治理、污染耕地安全利用等开展科研攻关，推动国际前沿研究与我国土壤污染治理实际需求相结合。相...\n【专题】\n中山大学医科办学160周年\n树立和践行正确政绩观学习教育\n学习贯彻党的二十届四中全会精神\n深入学习贯彻习近平总书记致中山大学建校100周年贺信精神\n【数说中大】\n学院、直属系：67\n两院院士：21\n专任教师：5046\n在校学生：71104\n博士后科研流动站：47\n国家级研究机构：39\n省部级科研机构：284\n【校园看点】\n2026-09-02 通货膨胀、违约与公司债券收益\n2026-06-22 管理学杰出学者讲座丨张宗益教授：人工智能时代的管理教育\n2026-06-12 讲座预告丨Jay B. Barney教授：人工智能与持续竞争优势\n2026-06-03 跟跑还是领跑？章亮炽教授走进博学大讲堂，与学子共话技术迭代的科学内核\n2026-05-27 芮勇主讲：AI智能体的最新进展、挑战和机会\n2026-05-15 管理学杰出学者讲座丨熊熊：从信息匹配到自主履约——智能体经济的微观基础、机制重构与系统风险\n【教学科研】\n2026/10/19 中山大学附属第一医院张辉团队在系统性红斑狼疮生发中心反应研究方面取得新进展\n2026/10/14 中山大学中山医学院赵文婧、牟相宇团队揭示肠道微生物调控动脉粥样硬化新机制\n2026/10/11 如果海平面上升，陆地上的动物怎么办？中大在《科学》杂志发表重磅论文\n【社交媒体】\n习近平总书记在全国卫生与健康大会上的重要讲话引发中大师生热烈反响（微信 2026-10-15 09:32）\n#中大分享# 【千里援疆，一路护心】在中大，有这样一位守护心脏健康的医者（新浪微博 2026-10-15 09:31）\n第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学举行（社交媒体 2026-10-15 09:29）\n寒露衔秋，梦启康园（bilibili 2026-10-15 09:27）\n【公告】\n第一届“夏书章学术奖”评奖公告",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "本科招生网",
+        "href": "http://admission.sysu.edu.cn"
+      },
+      {
+        "text": "校友",
+        "href": "http://alumni.sysu.edu.cn/"
+      },
+      {
+        "text": "就业信息网",
+        "href": "http://career.sysu.edu.cn/"
+      },
+      {
+        "text": "中组部干训基地",
+        "href": "http://ceat.sysu.edu.cn"
+      },
+      {
+        "text": "捐赠",
+        "href": "http://edf-edaao.sysu.edu.cn"
+      },
+      {
+        "text": "视觉形象识别系统",
+        "href": "http://home3.sysu.edu.cn/sysuvi/"
+      },
+      {
+        "text": "国际生培养",
+        "href": "http://iso.sysu.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "href": "http://library.sysu.edu.cn/"
+      },
+      {
+        "text": "干部在线学习中心",
+        "href": "http://www.enaea.edu.cn/"
+      },
+      {
+        "text": "广东省人民政府",
+        "href": "http://www.gd.gov.cn/"
+      },
+      {
+        "text": "广州市人民政府",
+        "href": "http://www.gz.gov.cn/"
+      },
+      {
+        "text": "教育部",
+        "href": "http://www.moe.gov.cn/"
+      },
+      {
+        "text": "中大新闻",
+        "href": "http://www.sysu.edu.cn/news"
+      },
+      {
+        "text": "中山大学毛磊教授荣获2026年度中国政府友谊奖",
+        "href": "http://www.sysu.edu.cn/news/info/1881/1418741.htm"
+      },
+      {
+        "text": "第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学举行",
+        "href": "http://www.sysu.edu.cn/news/info/1881/1418911.htm"
+      },
+      {
+        "text": "习近平总书记在全国卫生与健康大会上的重要讲话引发中大师生热烈反响",
+        "href": "http://www.sysu.edu.cn/news/info/1881/1419001.htm"
+      },
+      {
+        "text": "树立和践行正确政绩观学习教育",
+        "href": "http://www.sysu.edu.cn/news/ztjj2/gdzt/slhjxzqzjgxxjy.htm"
+      },
+      {
+        "text": "学习贯彻党的二十届四中全会精神",
+        "href": "http://www.sysu.edu.cn/news/ztjj2/gdzt/xxgcddesszqhjs.htm"
+      },
+      {
+        "text": "深入学习贯彻习近平总书记致中山大学建校100周年贺信精神",
+        "href": "http://www.sysu.edu.cn/srxxhxjs100hx"
+      },
+      {
+        "text": "EN",
+        "href": "http://www.sysu.edu.cn/sysuen"
+      },
+      {
+        "text": "中山大学医科办学160周年",
+        "href": "http://www.sysu.edu.cn/ykbx160"
+      },
+      {
+        "text": "深圳市人民政府",
+        "href": "http://www.sz.gov.cn/"
+      },
+      {
+        "text": "珠海市人民政府",
+        "href": "http://www.zhuhai.gov.cn/"
+      },
+      {
+        "text": "信息公开网",
+        "href": "http://xxgk.sysu.edu.cn/"
+      },
+      {
+        "text": "第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学举行",
+        "href": "https://article.xuexi.cn/articles/index.html?art_id=153472109144510559&source=share&study_style_id=feeds_opaque&reco_id=103c0c617557c0a822a8001d&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=153472109144510559"
+      },
+      {
+        "text": "博物馆（校史馆）",
+        "href": "https://bwgxsg.sysu.edu.cn"
+      },
+      {
+        "text": "研究生培养",
+        "href": "https://graduate.sysu.edu.cn/"
+      },
+      {
+        "text": "本科生培养",
+        "href": "https://jwb.sysu.edu.cn/"
+      },
+      {
+        "text": "科研项目经费管理政策",
+        "href": "https://kyxmzc.sysu.edu.cn/"
+      },
+      {
+        "text": "邮箱",
+        "href": "https://mail.sysu.edu.cn/"
+      },
+      {
+        "text": "管理学杰出学者讲座丨张宗益教授：人工智能时代的管理教育",
+        "href": "https://mp.weixin.qq.com/s/0KmLkTH28OGFm_xqCzi0SA"
+      },
+      {
+        "text": "通货膨胀、违约与公司债券收益",
+        "href": "https://mp.weixin.qq.com/s/36_aRrjq-jXDvAG9Y4Lx0g"
+      },
+      {
+        "text": "习近平总书记在全国卫生与健康大会上的重要讲话引发中大师生热烈反响",
+        "href": "https://mp.weixin.qq.com/s/74aPyI1U3lmJGJ7tVCL3MQ"
+      },
+      {
+        "text": "芮勇主讲：AI智能体的最新进展、挑战和机会",
+        "href": "https://mp.weixin.qq.com/s/EgJaKbve2jTeIVKcz_CmqQ"
+      },
+      {
+        "text": "讲座预告丨Jay B. Barney教授：人工智能与持续竞争优势",
+        "href": "https://mp.weixin.qq.com/s/LI_tAptkaidcUi0fD1Cbcw"
+      },
+      {
+        "text": "跟跑还是领跑？章亮炽教授走进博学大讲堂，与学子共话技术迭代的科学内核",
+        "href": "https://mp.weixin.qq.com/s/_yCXRgEiRDcgahlwBnLMKw"
+      },
+      {
+        "text": "管理学杰出学者讲座丨熊熊：从信息匹配到自主履约——智能体经济的微观基础、机制重构与系统风险",
+        "href": "https://mp.weixin.qq.com/s/l_ml6m07VyhLH-K7If2Amw"
+      },
+      {
+        "text": "门户",
+        "href": "https://portal.sysu.edu.cn"
+      },
+      {
+        "text": "招聘",
+        "href": "https://rcb.sysu.edu.cn"
+      },
+      {
+        "text": "百年校庆",
+        "href": "https://sysu100.sysu.edu.cn/"
+      },
+      {
+        "text": "USC",
+        "href": "https://usc.sysu.edu.cn"
+      },
+      {
+        "text": "#中大分享# 【千里援疆，一路护心】在中大，有这样一位守护心脏健康的医者",
+        "href": "https://weibo.com/1892723783/RmEGrvtfR"
+      },
+      {
+        "text": "寒露衔秋，梦启康园",
+        "href": "https://www.bilibili.com/video/BV1BjHm6pEhz/?share_source=copy_web"
+      },
+      {
+        "text": "数字虚拟医学博物馆",
+        "href": "https://www.gzsys.org.cn/basic/28532"
+      },
+      {
+        "text": "中山大学 SUN YAT-SEN UNIVERSITY",
+        "href": "https://www.sysu.edu.cn/"
+      },
+      {
+        "text": "首页",
+        "href": "https://www.sysu.edu.cn/index.htm"
+      },
+      {
+        "text": "访客",
+        "href": "https://www.sysu.edu.cn/index/fk.htm"
+      },
+      {
+        "text": "校历",
+        "href": "https://www.sysu.edu.cn/index/xl.htm"
+      },
+      {
+        "text": "如果海平面上升，陆地上的动物怎么办？中大在《科学》杂志发表重磅论文",
+        "href": "https://www.sysu.edu.cn/info/2011/60812.htm"
+      },
+      {
+        "text": "中山大学中山医学院赵文婧、牟相宇团队揭示肠道微生物调控动脉粥样硬化新机制",
+        "href": "https://www.sysu.edu.cn/info/2011/60882.htm"
+      },
+      {
+        "text": "中山大学附属第一医院张辉团队在系统性红斑狼疮生发中心反应研究方面取得新进展",
+        "href": "https://www.sysu.edu.cn/info/2011/60952.htm"
+      },
+      {
+        "text": "第一届“夏书章学术奖”评奖公告",
+        "href": "https://www.sysu.edu.cn/info/5272/48872.htm"
+      },
+      {
+        "text": "科学研究",
+        "href": "https://www.sysu.edu.cn/kxyj.htm"
+      },
+      {
+        "text": "科研进展",
+        "href": "https://www.sysu.edu.cn/kxyj/kyjz.htm"
+      },
+      {
+        "text": "学术期刊",
+        "href": "https://www.sysu.edu.cn/kxyj/xsqk.htm"
+      },
+      {
+        "text": "重大科技创新平台",
+        "href": "https://www.sysu.edu.cn/kxyj/zdkjcxpt.htm"
+      },
+      {
+        "text": "重点研究机构",
+        "href": "https://www.sysu.edu.cn/kxyj/zdyjjg/gjjpt1.htm"
+      },
+      {
+        "text": "杰出中青年学者",
+        "href": "https://www.sysu.edu.cn/szdw1/jczqnxz.htm"
+      },
+      {
+        "text": "教学名师",
+        "href": "https://www.sysu.edu.cn/szdw1/jxms/gjj.htm"
+      },
+      {
+        "text": "名医",
+        "href": "https://www.sysu.edu.cn/szdw1/my.htm"
+      },
+      {
+        "text": "师资队伍",
+        "href": "https://www.sysu.edu.cn/szdw1/ys.htm"
+      },
+      {
+        "text": "院士",
+        "href": "https://www.sysu.edu.cn/szdw1/ys.htm"
+      },
+      {
+        "text": "优秀社会科学家",
+        "href": "https://www.sysu.edu.cn/szdw1/yxshkxj1.htm"
+      },
+      {
+        "text": "服务机构",
+        "href": "https://www.sysu.edu.cn/xxg/fwjg.htm"
+      },
+      {
+        "text": "现任领导",
+        "href": "https://www.sysu.edu.cn/xxg/xrld.htm"
+      },
+      {
+        "text": "中大简介",
+        "href": "https://www.sysu.edu.cn/xxg/zdjj1.htm"
+      },
+      {
+        "text": "学校概况",
+        "href": "https://www.sysu.edu.cn/xxg/zdjj1.htm"
+      },
+      {
+        "text": "中大校区",
+        "href": "https://www.sysu.edu.cn/xxg/zdxq.htm"
+      },
+      {
+        "text": "院系设置",
+        "href": "https://www.sysu.edu.cn/yxsz.htm"
+      },
+      {
+        "text": "附属医院",
+        "href": "https://www.sysu.edu.cn/yxsz/fsyy.htm"
+      },
+      {
+        "text": "学部",
+        "href": "https://www.sysu.edu.cn/yxsz/xb.htm"
+      },
+      {
+        "text": "院系",
+        "href": "https://www.sysu.edu.cn/yxsz/yx.htm"
+      },
+      {
+        "text": "图说中大",
+        "href": "https://www.sysu.edu.cn/zdkd1/tszd1.htm"
+      },
+      {
+        "text": "校园风光",
+        "href": "https://www.sysu.edu.cn/zdkd1/xyfg1.htm"
+      },
+      {
+        "text": "校园看点",
+        "href": "https://www.sysu.edu.cn/zdkd1/xykd.htm"
+      },
+      {
+        "text": "校园媒体",
+        "href": "https://www.sysu.edu.cn/zdkd1/xymt.htm"
+      },
+      {
+        "text": "校园生活",
+        "href": "https://www.sysu.edu.cn/zdkd1/xysh.htm"
+      },
+      {
+        "text": "中大看点",
+        "href": "https://www.sysu.edu.cn/zdkd1/xysh.htm"
+      },
+      {
+        "text": "校园文化",
+        "href": "https://www.sysu.edu.cn/zdkd1/xywh1.htm"
+      },
+      {
+        "text": "招生",
+        "href": "https://www.sysu.edu.cn/zs1.htm"
+      },
+      {
+        "text": "信息公开",
+        "href": "https://xxgk.sysu.edu.cn/"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.sysu.edu.cn/__local/0/8C/A1/1FD9BBAB8F98DCC3F077383E546_7AC9B5FA_AC0D.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/0/F4/86/1388BC95F7C7E7A1AA2821C66FB_BF4E8BFF_7DF6.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/1/35/48/F98CCB0861AA69A42454BC98AA4_C91AB780_D626E.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/1/FD/35/7D434CFF0DE4F64E38F615A1668_B0DA8AAD_AEEE.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/6/15/DC/53F7FA73BBD275F4FA76B3B2ADB_4C61A29E_8F69.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/6/7E/7D/A3730ED359FBB66803CC4DE5DD8_8444A258_ADD9E.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/6/E0/CA/42B512898EE567DDFD877CDF952_55D5E0F5_7F21.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/8/63/D7/5873D751A6A4D2E3936DA2B7CEE_B8755601_E78A.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/8/7A/52/A5063235F26278D0DF36BE31847_9B9F4A96_7FEF0.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/9/8A/26/D5BF2D6C09B35260B59BFFC4AF8_CD5CD08A_3F54F.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/9/AE/F3/EF017311A7BB579980954AE67C8_83C8C4FF_961B.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/A/7D/15/C5A55AC46E6084A0856E14B89F5_C0D8E889_51687.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/C/53/FA/479819105E252A8FB9DE5ADE0EA_CEEF5EC7_6BF6.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/E/07/3A/F1DC6CB75556894A6FD79390454_4147F340_1A69D.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/__local/E/6B/AA/CF4A835E75F1D2D32084612B97F_94A2448E_66B1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/images/sysuzt-100.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/images/zt-204z-sysu.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/images/zt-ykbx160-sysu.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sysu.edu.cn/images/zt202603-sysu.jpg",
+        "alt": ""
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "855525",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 2883, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.sysu.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-20T02:57:55.079266Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.sysu.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m1754",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "campus_highlights": [
+        {
+          "date": "2026-09-02",
+          "href": "https://mp.weixin.qq.com/s/36_aRrjq-jXDvAG9Y4Lx0g",
+          "image": "https://www.sysu.edu.cn/__local/0/F4/86/1388BC95F7C7E7A1AA2821C66FB_BF4E8BFF_7DF6.jpg",
+          "title": "通货膨胀、违约与公司债券收益"
+        },
+        {
+          "date": "2026-06-22",
+          "href": "https://mp.weixin.qq.com/s/0KmLkTH28OGFm_xqCzi0SA",
+          "image": "https://www.sysu.edu.cn/__local/C/53/FA/479819105E252A8FB9DE5ADE0EA_CEEF5EC7_6BF6.jpg",
+          "title": "管理学杰出学者讲座丨张宗益教授：人工智能时代的管理教育"
+        },
+        {
+          "date": "2026-06-12",
+          "href": "https://mp.weixin.qq.com/s/LI_tAptkaidcUi0fD1Cbcw",
+          "image": "https://www.sysu.edu.cn/__local/6/E0/CA/42B512898EE567DDFD877CDF952_55D5E0F5_7F21.jpg",
+          "title": "讲座预告丨Jay B. Barney教授：人工智能与持续竞争优势"
+        },
+        {
+          "date": "2026-06-03",
+          "href": "https://mp.weixin.qq.com/s/_yCXRgEiRDcgahlwBnLMKw",
+          "image": "https://www.sysu.edu.cn/__local/9/AE/F3/EF017311A7BB579980954AE67C8_83C8C4FF_961B.jpg",
+          "title": "跟跑还是领跑？章亮炽教授走进博学大讲堂，与学子共话技术迭代的科学内核"
+        },
+        {
+          "date": "2026-05-27",
+          "href": "https://mp.weixin.qq.com/s/EgJaKbve2jTeIVKcz_CmqQ",
+          "image": "https://www.sysu.edu.cn/__local/6/15/DC/53F7FA73BBD275F4FA76B3B2ADB_4C61A29E_8F69.jpg",
+          "title": "芮勇主讲：AI智能体的最新进展、挑战和机会"
+        },
+        {
+          "date": "2026-05-15",
+          "href": "https://mp.weixin.qq.com/s/l_ml6m07VyhLH-K7If2Amw",
+          "image": "https://www.sysu.edu.cn/__local/E/6B/AA/CF4A835E75F1D2D32084612B97F_94A2448E_66B1.jpg",
+          "title": "管理学杰出学者讲座丨熊熊：从信息匹配到自主履约——智能体经济的微观基础、机制重构与系统风险"
+        }
+      ],
+      "canonical_url": "https://www.sysu.edu.cn/",
+      "keywords": "中山大学",
+      "news": [
+        {
+          "date": "2026/10/15",
+          "href": "http://www.sysu.edu.cn/news/info/1881/1419001.htm",
+          "image": "https://www.sysu.edu.cn/__local/6/7E/7D/A3730ED359FBB66803CC4DE5DD8_8444A258_ADD9E.jpg",
+          "summary": "中大新闻网讯（通讯员 张妍、郑钰）10月12日至13日，全国卫生与健康大会在北京召开。习近平总书记出席会议并发表重要讲话，强调坚定不移走中国特色卫生与健康发展道路，贯彻新时代卫生与健康工作方针，扬优势、固基础、补短板、强弱项，推动卫生与健康事业高质量发展，不断提高人民健康水平。习近平总书记在全国卫生与健康大会上的重要讲话在中山大学师生中引发热烈反响，大家纷纷表示，将深入学习领会大会精神，立足自身岗位和...",
+          "title": "习近平总书记在全国卫生与健康大会上的重要讲话引发中大师生热烈反响"
+        },
+        {
+          "date": "2026/10/12",
+          "href": "http://www.sysu.edu.cn/news/info/1881/1418911.htm",
+          "image": "https://www.sysu.edu.cn/__local/8/7A/52/A5063235F26278D0DF36BE31847_9B9F4A96_7FEF0.jpg",
+          "summary": "10月9日，第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学深圳校区举行。教育部党组成员、副部长，全国党建研究会副会长、高校党建研究专业委员会主任委员熊四皓，全国党建研究会副会长、中央组织部原副部长吴玉良，广东省委常委、副省长张国智出席会议并讲话。会议以“深入学习贯彻习近平党建思想，奋力开创新时代高校党的建设和思想政治工作新局面”为主题，聚焦持续推动习近平党建思想入脑入心...",
+          "title": "第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学举行"
+        },
+        {
+          "date": "2026/10/01",
+          "href": "http://www.sysu.edu.cn/news/info/1881/1418741.htm",
+          "image": "https://www.sysu.edu.cn/__local/9/8A/26/D5BF2D6C09B35260B59BFFC4AF8_CD5CD08A_3F54F.jpg",
+          "summary": "中大新闻网讯（记者 冯贤哲）9月30日，2026年度中国政府友谊奖颁奖仪式在北京人民大会堂隆重举行。中山大学兼职教授、法国洛林大学荣誉教授毛磊（Jean Louis Morel）获此殊荣。中国政府友谊奖是为表彰在中国现代化建设中作出突出贡献的外国专家而设立的最高荣誉奖项。自2005年起，毛磊与中山大学开展长期合作，围绕重金属污染土壤治理、污染耕地安全利用等开展科研攻关，推动国际前沿研究与我国土壤污染治理实际需求相结合。相...",
+          "title": "中山大学毛磊教授荣获2026年度中国政府友谊奖"
+        }
+      ],
+      "notices": [
+        {
+          "href": "https://www.sysu.edu.cn/info/5272/48872.htm",
+          "title": "第一届“夏书章学术奖”评奖公告"
+        }
+      ],
+      "research_news": [
+        {
+          "date": "2026/10/19",
+          "href": "https://www.sysu.edu.cn/info/2011/60952.htm",
+          "image": "https://www.sysu.edu.cn/__local/0/8C/A1/1FD9BBAB8F98DCC3F077383E546_7AC9B5FA_AC0D.jpg",
+          "title": "中山大学附属第一医院张辉团队在系统性红斑狼疮生发中心反应研究方面取得新进展"
+        },
+        {
+          "date": "2026/10/14",
+          "href": "https://www.sysu.edu.cn/info/2011/60882.htm",
+          "image": "https://www.sysu.edu.cn/__local/E/07/3A/F1DC6CB75556894A6FD79390454_4147F340_1A69D.jpg",
+          "title": "中山大学中山医学院赵文婧、牟相宇团队揭示肠道微生物调控动脉粥样硬化新机制"
+        },
+        {
+          "date": "2026/10/11",
+          "href": "https://www.sysu.edu.cn/info/2011/60812.htm",
+          "image": "https://www.sysu.edu.cn/__local/8/63/D7/5873D751A6A4D2E3936DA2B7CEE_B8755601_E78A.jpg",
+          "title": "如果海平面上升，陆地上的动物怎么办？中大在《科学》杂志发表重磅论文"
+        }
+      ],
+      "site_name": "中山大学 SUN YAT-SEN UNIVERSITY",
+      "social_media": [
+        {
+          "href": "https://mp.weixin.qq.com/s/74aPyI1U3lmJGJ7tVCL3MQ",
+          "source": "微信",
+          "time": "2026-10-15 09:32",
+          "title": "习近平总书记在全国卫生与健康大会上的重要讲话引发中大师生热烈反响"
+        },
+        {
+          "href": "https://weibo.com/1892723783/RmEGrvtfR",
+          "source": "新浪微博",
+          "time": "2026-10-15 09:31",
+          "title": "#中大分享# 【千里援疆，一路护心】在中大，有这样一位守护心脏健康的医者"
+        },
+        {
+          "href": "https://article.xuexi.cn/articles/index.html?art_id=153472109144510559&source=share&study_style_id=feeds_opaque&reco_id=103c0c617557c0a822a8001d&share_to=wx_single&study_share_enable=1&study_comment_disable=0&ptype=0&item_id=153472109144510559",
+          "source": "",
+          "time": "2026-10-15 09:29",
+          "title": "第三届高校党委书记“思享汇”暨高校党建研究专业委员会全体委员会议在中山大学举行"
+        },
+        {
+          "href": "https://www.bilibili.com/video/BV1BjHm6pEhz/?share_source=copy_web",
+          "source": "bilibili",
+          "time": "2026-10-15 09:27",
+          "title": "寒露衔秋，梦启康园"
+        }
+      ],
+      "stats": [
+        {
+          "label": "学院、直属系",
+          "value": "67"
+        },
+        {
+          "label": "两院院士",
+          "value": "21"
+        },
+        {
+          "label": "专任教师",
+          "value": "5046"
+        },
+        {
+          "label": "在校学生",
+          "value": "71104"
+        },
+        {
+          "label": "博士后科研流动站",
+          "value": "47"
+        },
+        {
+          "label": "国家级研究机构",
+          "value": "39"
+        },
+        {
+          "label": "省部级科研机构",
+          "value": "284"
+        }
+      ],
+      "topics": [
+        {
+          "href": "http://www.sysu.edu.cn/ykbx160",
+          "image": "https://www.sysu.edu.cn/images/zt-ykbx160-sysu.jpg",
+          "title": "中山大学医科办学160周年"
+        },
+        {
+          "href": "http://www.sysu.edu.cn/news/ztjj2/gdzt/slhjxzqzjgxxjy.htm",
+          "image": "https://www.sysu.edu.cn/images/zt202603-sysu.jpg",
+          "title": "树立和践行正确政绩观学习教育"
+        },
+        {
+          "href": "http://www.sysu.edu.cn/news/ztjj2/gdzt/xxgcddesszqhjs.htm",
+          "image": "https://www.sysu.edu.cn/images/zt-204z-sysu.jpg",
+          "title": "学习贯彻党的二十届四中全会精神"
+        },
+        {
+          "href": "http://www.sysu.edu.cn/srxxhxjs100hx",
+          "image": "https://www.sysu.edu.cn/images/sysuzt-100.jpg",
+          "title": "深入学习贯彻习近平总书记致中山大学建校100周年贺信精神"
+        }
+      ]
+    }
+  },
+  "_ok": true
+}

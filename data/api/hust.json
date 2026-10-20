@@ -1,0 +1,1554 @@
+{
+  "_site": {
+    "slug": "hust",
+    "name": "华中科技大学",
+    "url": "https://www.hust.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.hust.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 6089,
+    "sent_at": "2026-10-20T10:57:16+0800"
+  },
+  "metadata": {
+    "dom_id": "855514",
+    "server_elapsed_ms": 5799
+  },
+  "request_id": "9ec9a459-3081-4e63-81cb-8f2f7f415b90",
+  "result": {
+    "url": "https://www.hust.edu.cn",
+    "final_url": "https://www.hust.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:57:16.817944941Z",
+    "title": "华中科技大学",
+    "description": "华中科技大学",
+    "main_text": "华中科技大学 学生 教职工 校友 访客 信息门户 EN 学校首页 学校概况 学校简介 历史沿革 学校章程 历任领导 现任领导 组织机构 学校标识 院系设置 师资队伍 两院院士 广纳英才 人事管理 教师主页 学科建设 重点学科 本科专业 硕士学位授权一级学科 博士学位授权一级学科 博士后流动站 教育教学 本科生教育 研究生教育 国际学生教育 继续教育 科学研究 科研机构 科研管理 校企合作 学术期刊 招生就业 本科生招生 研究生招生 国际学生招生 学生就业工作 合作交流 科技合作 国际交流 国际会议 走进华科大 校园生活 服务信息 校园风光 学校首页 网上信访 学校概况 学校简介 历史沿革 学校章程 历任领导 现任领导 组织机构 学校标识 院系设置 师资队伍 两院院士 广纳英才 人事管理 教师主页 学科建设 重点学科 本科专业 硕士学位授权一级学科 博士学位授权一级学科 博士后流动站 教育教学 本科生教育 研究生教育 国际学生教育 继续教育 科学研究 科研机构 科研管理 校企合作 学术期刊 招生就业 本科生招生 研究生招生 国际学生招生 学生就业工作 合作交流 科技合作 国际交流 国际会议 走进华科大 校园生活 服务信息 校园风光 学生 教职工 校友 访客 信息门户 EN 更多 > 学校要闻 News 进入新闻网 第四届光谷人工智能大会暨企业家论坛举行 2026.10.15 华中科技大学第二届校友集体婚礼举行 2026.10.08 我校举办第四期“教育家精神大讲堂” 2026.09.30 【学习进行时】习近平：以更高标准、更实举措推进全面从严治党 2026.10.16 湖北省委省政府在我校举办首场科创沙龙 2026.10.17 “学习贯彻习近平文化思想”专题报告会举行 2026.10.15 【我心中的华科大精神】刘德明：“森林精神”——喻家山下的精神年轮 2026.10.15 第四届光谷人工智能大会暨企业家论坛举行 2026.10.13 热烈祝贺！我校学子郑钦文首夺中网女单冠军 2026.10.12 校园看点 Campus attractions 院系动态 Department News 查看更多 查看更多 中国国际大学生创新大赛湖北省复赛学子斩获佳绩 2026-10-20 智能制造期刊集群首次专家委员会会议在汉召开 2026-10-19 电气学院梁琳研究员专著获评“机械工业科学技术奖”二等奖 2026-10-19 荆楚工匠人才培养对象训练营暨第十一期湖北工会大讲堂在校举行 2026-10-15 我校在2026年卓越工程师培养研讨会上作专题报告 2026-10-13 五洲同此声，华科人向祖国报到！ 2026-10-02 基础医学院开展2026“医学启航在基础”活动 2026-10-18 机械学院举办2026年度博士后创新论坛 2026-10-15 药学院举办2026年重阳节退休教职工座谈会 2026-10-14 【纪念红军长征胜利90周年】公管师生共同宣讲伟大长征精神 2026-10-13 【秩青春】电气学院喜迎500余位校友国庆期间返校 2026-10-10 电气学院蔡承颖教授出版《电磁辐射与加速器束流动力学导论》 2026-09-29 协和医院举办第十届健康科普大赛 2026-09-27 机械学院协和医院等签约攻关可降解密网支架 2026-09-27 机械学院承担的CRAFT重载机械臂项目通过验收 2026-09-26 媒体聚焦 Media focus 查看更多 【科技日报】湖北省委省政府在华中科技大学举办首场科创沙龙 2026-10-18 【中国新闻网】巴西米大孔院举办“花开中华”活动：牡丹、熊猫、漆扇受欢迎 2026-10-19 【观一线】中部大省这场夜话，不同寻常 2026-10-17 【新华每日电讯】华中科技大学同济医学院附属协和医院：体内植入全球最轻最小“人工心”的俊俊迎来好消息 2026-10-16 【湖北日报】华科大同济医学院附属同济医院：解救被锁住的身体 2026-10-16 【新华社】华科大钱雪松：从前三季度数据看我国外贸强劲增势 2026-10-16 探索 Explore 查看更多 物理学院黄胜友团队在大型蛋白质复合物结构预测领域取得重要进展 物理学院黄胜友团队在大型蛋白质复合物结构预测领域取得重要进展 公卫学院曾强课题组在饮用水消毒副产物与生殖健康领域获进展 环境学院杨家宽团队联合武汉光电国家研究中心唐江团队实现废铅酸蓄电池向叠层钙钛矿太阳能电... 协和医院血液科团队为细胞免疫治疗开辟新范式 生命学院刘笔锋教授课题组开发多维可编程微流控智能诊断系统 机械学院吴豪教授尹周平院士团队取得柔性神经界面生物电子系统研究成果 求知 Seek knowledge 查看更多 【人文讲座】程志华：中西哲学之根本相同处 艺术名家进课堂讲述戏曲之美 吴枫院士主讲“科学精神与实践”讲座第363期 【人文讲座】方在庆：从相对论到冰箱——爱因斯坦与实用技术的另一面 “赓续文脉”传统文化课程走进古籍展 【人文讲座】李煜：接力棒如何传递？——代际流动的分析框架、进展和中国议题 【人文讲座】程志华：中西哲学之根本相同处 交流 Communication 查看更多 日本工业大学代表团访问机械学院深化合作 日本工业大学代表团访问机械学院深化合作 校长尤政院士率团访问英国、德国 推进中外合作办学与高水平科教合作 中韩高校化学学科联盟成立仪式在校举行 新加坡陆路交通管理局代表团来校访问 第十一届华中科技大学-成均馆大学双边交流会暨研究生学术年会举行 泰国法政大学、孔敬大学专家来访公管学院共商公共管理国际合作 通知公告 Notice 查看更多 19 2026-10 校领导接待日工作预告（345） 13 2026-10 关于举行“学习贯彻习近平文化思想”专题报告会的通知 10 2026-10 学校2026年10月教师学习培训及发展支持服务汇总 华科大·人物 校友向际鹰：从华科大走出的通信首席科学家 曹全梁：坚守初心书写电气报国的育人答卷 王晶晶：深耕基层沃土 助推华翔“连心桥” 滕钺：十载潜心治学 青春赴黔建功 查看更多 华科大·影像 招生宣传片：生长 华科大故事：共赴星海 华科大故事：逐梦星程 华科大·生活 活力校园 服务信息 视觉华科大 社交媒体 Social media 华科大微信 + 加关注 湖北省委省政府在华中科技大学举办首场... 原来华科大是这样的…… 华科大视频号 + 加关注 荧光夜跑，点亮华科！ 学习强国 + 加关注 校党委理论学习中心组（扩大）学习会暨 《中华人民共和国民族团结进步促进法》宣讲报告会举行 华科大微博 + 加关注 金秋时节，来华科大逛逛！ 专题网站 Special website 查看更多 校歌 与 标识系统 网上信访 师生服务 中心 同济医学院 校史馆 图书馆 档案馆 出版社 心理健康 教育中心 邮箱登录 信息公开 校历 校园地图 地址：湖北省武汉市洪山区珞喻路1037号 邮政编码：430074 电话：027-87541114 鄂ICP备05003321号-1 鄂公网安备 42011102000123号",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "广纳英才",
+        "href": "http://employment.hust.edu.cn"
+      },
+      {
+        "text": "EN",
+        "href": "http://english.hust.edu.cn/"
+      },
+      {
+        "text": "教师主页",
+        "href": "http://faculty.hust.edu.cn/"
+      },
+      {
+        "text": "研究生教育",
+        "href": "http://gs.hust.edu.cn/"
+      },
+      {
+        "text": "研究生招生",
+        "href": "http://gszs.hust.edu.cn/"
+      },
+      {
+        "text": "科技合作",
+        "href": "http://iat.hust.edu.cn/index.htm"
+      },
+      {
+        "text": "国际学生招生",
+        "href": "http://iso.hust.edu.cn/"
+      },
+      {
+        "text": "学生就业工作",
+        "href": "http://job.hust.edu.cn/"
+      },
+      {
+        "text": "学术期刊",
+        "href": "http://kexie.hust.edu.cn/xsqk/hzkjdxxsqkylb.htm"
+      },
+      {
+        "text": "查看更多",
+        "href": "http://news.hust.edu.cn/hkdrw.htm"
+      },
+      {
+        "text": "华科大·人物",
+        "href": "http://news.hust.edu.cn/hkdrw.htm"
+      },
+      {
+        "text": "进入新闻网",
+        "href": "http://news.hust.edu.cn/index.htm"
+      },
+      {
+        "text": "滕钺：十载潜心治学 青春赴黔建功",
+        "href": "http://news.hust.edu.cn/info/1002/59275.htm"
+      },
+      {
+        "text": "王晶晶：深耕基层沃土 助推华翔“连心桥”",
+        "href": "http://news.hust.edu.cn/info/1002/59308.htm"
+      },
+      {
+        "text": "校长尤政院士率团访问英国、德国 推进中外合作办学与高水平科教合作",
+        "href": "http://news.hust.edu.cn/info/1002/59643.htm"
+      },
+      {
+        "text": "我校举办第四期“教育家精神大讲堂” 2026.09.30",
+        "href": "http://news.hust.edu.cn/info/1002/59710.htm"
+      },
+      {
+        "text": "热烈祝贺！我校学子郑钦文首夺中网女单冠军 2026.10.12",
+        "href": "http://news.hust.edu.cn/info/1002/59744.htm"
+      },
+      {
+        "text": "第四届光谷人工智能大会暨企业家论坛举行 2026.10.15",
+        "href": "http://news.hust.edu.cn/info/1002/59764.htm"
+      },
+      {
+        "text": "湖北省委省政府在我校举办首场科创沙龙 2026.10.17",
+        "href": "http://news.hust.edu.cn/info/1002/59797.htm"
+      },
+      {
+        "text": "泰国法政大学、孔敬大学专家来访公管学院共商公共管理国际合作",
+        "href": "http://news.hust.edu.cn/info/1003/59601.htm"
+      },
+      {
+        "text": "第十一届华中科技大学-成均馆大学双边交流会暨研究生学术年会举行",
+        "href": "http://news.hust.edu.cn/info/1003/59604.htm"
+      },
+      {
+        "text": "新加坡陆路交通管理局代表团来校访问",
+        "href": "http://news.hust.edu.cn/info/1003/59608.htm"
+      },
+      {
+        "text": "中韩高校化学学科联盟成立仪式在校举行",
+        "href": "http://news.hust.edu.cn/info/1003/59611.htm"
+      },
+      {
+        "text": "机械学院承担的CRAFT重载机械臂项目通过验收",
+        "href": "http://news.hust.edu.cn/info/1003/59675.htm"
+      },
+      {
+        "text": "协和医院举办第十届健康科普大赛",
+        "href": "http://news.hust.edu.cn/info/1003/59677.htm"
+      },
+      {
+        "text": "电气学院蔡承颖教授出版《电磁辐射与加速器束流动力学导论》",
+        "href": "http://news.hust.edu.cn/info/1003/59692.htm"
+      },
+      {
+        "text": "机械学院协和医院等签约攻关可降解密网支架",
+        "href": "http://news.hust.edu.cn/info/1003/59701.htm"
+      },
+      {
+        "text": "吴枫院士主讲“科学精神与实践”讲座第363期",
+        "href": "http://news.hust.edu.cn/info/1003/59703.htm"
+      },
+      {
+        "text": "机械学院吴豪教授尹周平院士团队取得柔性神经界面生物电子系统研究成果",
+        "href": "http://news.hust.edu.cn/info/1003/59738.htm"
+      },
+      {
+        "text": "生命学院刘笔锋教授课题组开发多维可编程微流控智能诊断系统",
+        "href": "http://news.hust.edu.cn/info/1003/59742.htm"
+      },
+      {
+        "text": "协和医院血液科团队为细胞免疫治疗开辟新范式",
+        "href": "http://news.hust.edu.cn/info/1003/59751.htm"
+      },
+      {
+        "text": "我校在2026年卓越工程师培养研讨会上作专题报告",
+        "href": "http://news.hust.edu.cn/info/1003/59760.htm"
+      },
+      {
+        "text": "环境学院杨家宽团队联合武汉光电国家研究中心唐江团队实现废铅酸蓄电池向叠层钙钛矿太阳能电...",
+        "href": "http://news.hust.edu.cn/info/1003/59762.htm"
+      },
+      {
+        "text": "荆楚工匠人才培养对象训练营暨第十一期湖北工会大讲堂在校举行",
+        "href": "http://news.hust.edu.cn/info/1003/59769.htm"
+      },
+      {
+        "text": "机械学院举办2026年度博士后创新论坛",
+        "href": "http://news.hust.edu.cn/info/1003/59773.htm"
+      },
+      {
+        "text": "公卫学院曾强课题组在饮用水消毒副产物与生殖健康领域获进展",
+        "href": "http://news.hust.edu.cn/info/1003/59776.htm"
+      },
+      {
+        "text": "日本工业大学代表团访问机械学院深化合作",
+        "href": "http://news.hust.edu.cn/info/1003/59794.htm"
+      },
+      {
+        "text": "物理学院黄胜友团队在大型蛋白质复合物结构预测领域取得重要进展",
+        "href": "http://news.hust.edu.cn/info/1003/59796.htm"
+      },
+      {
+        "text": "电气学院梁琳研究员专著获评“机械工业科学技术奖”二等奖",
+        "href": "http://news.hust.edu.cn/info/1003/59806.htm"
+      },
+      {
+        "text": "智能制造期刊集群首次专家委员会会议在汉召开",
+        "href": "http://news.hust.edu.cn/info/1003/59807.htm"
+      },
+      {
+        "text": "“赓续文脉”传统文化课程走进古籍展",
+        "href": "http://news.hust.edu.cn/info/1004/59635.htm"
+      },
+      {
+        "text": "艺术名家进课堂讲述戏曲之美",
+        "href": "http://news.hust.edu.cn/info/1004/59732.htm"
+      },
+      {
+        "text": "【秩青春】电气学院喜迎500余位校友国庆期间返校",
+        "href": "http://news.hust.edu.cn/info/1004/59736.htm"
+      },
+      {
+        "text": "【纪念红军长征胜利90周年】公管师生共同宣讲伟大长征精神",
+        "href": "http://news.hust.edu.cn/info/1004/59755.htm"
+      },
+      {
+        "text": "药学院举办2026年重阳节退休教职工座谈会",
+        "href": "http://news.hust.edu.cn/info/1004/59766.htm"
+      },
+      {
+        "text": "基础医学院开展2026“医学启航在基础”活动",
+        "href": "http://news.hust.edu.cn/info/1004/59800.htm"
+      },
+      {
+        "text": "曹全梁：坚守初心书写电气报国的育人答卷",
+        "href": "http://news.hust.edu.cn/info/1007/59570.htm"
+      },
+      {
+        "text": "校友向际鹰：从华科大走出的通信首席科学家",
+        "href": "http://news.hust.edu.cn/info/1007/59795.htm"
+      },
+      {
+        "text": "【人文讲座】程志华：中西哲学之根本相同处",
+        "href": "http://news.hust.edu.cn/info/1008/59785.htm"
+      },
+      {
+        "text": "国际会议",
+        "href": "http://oia.hust.edu.cn/gjhy.htm"
+      },
+      {
+        "text": "博士后流动站",
+        "href": "http://postdoctor.hust.edu.cn/"
+      },
+      {
+        "text": "国际学生教育",
+        "href": "http://sie.hust.edu.cn/"
+      },
+      {
+        "text": "华科大·影像",
+        "href": "http://story.hust.edu.cn/"
+      },
+      {
+        "text": "学校标识",
+        "href": "http://vi.hust.edu.cn/"
+      },
+      {
+        "text": "",
+        "href": "http://vr.hust.edu.cn/720v2/player/82"
+      },
+      {
+        "text": "本科生招生",
+        "href": "http://zsb.hust.edu.cn/"
+      },
+      {
+        "text": "【湖北日报】华科大同济医学院附属同济医院：解救被锁住的身体",
+        "href": "https://epaper.hubeidaily.net/pc/content/202610/16/content_360935.html"
+      },
+      {
+        "text": "【新华社】华科大钱雪松：从前三季度数据看我国外贸强劲增势",
+        "href": "https://h.xinhuaxmt.com/vh512/share/13330074?docid=13330074&amp;newstype=1001&amp;d=1352897&amp;channel=weixin"
+      },
+      {
+        "text": "【中国新闻网】巴西米大孔院举办“花开中华”活动：牡丹、熊猫、漆扇受欢迎",
+        "href": "https://m.chinanews.com/wap/detail/chs/zw/10716307.shtml"
+      },
+      {
+        "text": "五洲同此声，华科人向祖国报到！",
+        "href": "https://mp.weixin.qq.com/s/MA0WsToYxfCJJd5pGCRXjA"
+      },
+      {
+        "text": "【新华每日电讯】华中科技大学同济医学院附属协和医院：体内植入全球最轻最小“人工心”的俊俊迎来好消息",
+        "href": "https://mp.weixin.qq.com/s/YI8zTg9Pjln9teZojNfbMg"
+      },
+      {
+        "text": "【观一线】中部大省这场夜话，不同寻常",
+        "href": "https://mp.weixin.qq.com/s/_JQVPXweA0sYug8c7awWsQ"
+      },
+      {
+        "text": "湖北省委省政府在华中科技大学举办首场...",
+        "href": "https://mp.weixin.qq.com/s/mQ2fO0hLEcH-fykUHEHspw"
+      },
+      {
+        "text": "原来华科大是这样的……",
+        "href": "https://mp.weixin.qq.com/s/rvv9o4VSWsMLUUXsmm7eqA"
+      },
+      {
+        "text": "【科技日报】湖北省委省政府在华中科技大学举办首场科创沙龙 --> 2026-10-18",
+        "href": "https://mp.weixin.qq.com/s/yzw9bF7iwprLUX6MNXL-uA"
+      },
+      {
+        "text": "华中科技大学第二届校友集体婚礼举行 2026.10.08",
+        "href": "https://news.hust.edu.cn/info/1002/59719.htm"
+      },
+      {
+        "text": "第四届光谷人工智能大会暨企业家论坛举行 2026.10.13",
+        "href": "https://news.hust.edu.cn/info/1002/59764.htm"
+      },
+      {
+        "text": "“学习贯彻习近平文化思想”专题报告会举行 2026.10.15",
+        "href": "https://news.hust.edu.cn/info/1002/59767.htm"
+      },
+      {
+        "text": "【我心中的华科大精神】刘德明：“森林精神”——喻家山下的精神年轮 2026.10.15",
+        "href": "https://news.hust.edu.cn/info/1002/59786.htm"
+      },
+      {
+        "text": "中国国际大学生创新大赛湖北省复赛学子斩获佳绩 --> 2026-10-20",
+        "href": "https://news.hust.edu.cn/info/1002/59810.htm"
+      },
+      {
+        "text": "【人文讲座】李煜：接力棒如何传递？——代际流动的分析框架、进展和中国议题",
+        "href": "https://news.hust.edu.cn/info/1008/59572.htm"
+      },
+      {
+        "text": "【人文讲座】方在庆：从相对论到冰箱——爱因斯坦与实用技术的另一面",
+        "href": "https://news.hust.edu.cn/info/1008/59685.htm"
+      },
+      {
+        "text": "信息门户",
+        "href": "https://one.hust.edu.cn"
+      },
+      {
+        "text": "10 2026-10 学校2026年10月教师学习培训及发展支持服务汇总",
+        "href": "https://one.hust.edu.cn/index.html#act=sems-tp-nup_28585749&amp;typeid=&amp;rid=&amp;contentid=&amp;ownerid=&amp;website=0&amp;pim_id=12269413031772160"
+      },
+      {
+        "text": "13 2026-10 关于举行“学习贯彻习近平文化思想”专题报告会的通知",
+        "href": "https://one.hust.edu.cn/index.html#act=sems-tp-nup_28585749&amp;typeid=&amp;rid=&amp;contentid=&amp;ownerid=&amp;website=0&amp;pim_id=13698560795230208"
+      },
+      {
+        "text": "19 2026-10 校领导接待日工作预告（345）",
+        "href": "https://one.hust.edu.cn/index.html#act=sems-tp-nup_28585749&amp;typeid=&amp;rid=&amp;contentid=&amp;ownerid=&amp;website=0&amp;pim_id=16126947647356928"
+      },
+      {
+        "text": "",
+        "href": "https://www.hust.edu.cn/"
+      },
+      {
+        "text": "招生宣传片：生长",
+        "href": "https://www.hust.edu.cn/0618huakezhupiangaoqingwushuiyin_yasuobanben.mp4"
+      },
+      {
+        "text": "荧光夜跑，点亮华科！",
+        "href": "https://www.hust.edu.cn/20261011yingguangyepaoduanshipin.mp4"
+      },
+      {
+        "text": "华科大故事：共赴星海",
+        "href": "https://www.hust.edu.cn/gongfuxinghai.mp4"
+      },
+      {
+        "text": "合作交流",
+        "href": "https://www.hust.edu.cn/hzjl.htm"
+      },
+      {
+        "text": "国际交流",
+        "href": "https://www.hust.edu.cn/hzjl/gjjl.htm"
+      },
+      {
+        "text": "学校首页",
+        "href": "https://www.hust.edu.cn/index.htm"
+      },
+      {
+        "text": "",
+        "href": "https://www.hust.edu.cn/index.htm"
+      },
+      {
+        "text": "视觉华科大",
+        "href": "https://www.hust.edu.cn/index/sjhkd/a2024.htm"
+      },
+      {
+        "text": "更多 >",
+        "href": "https://www.hust.edu.cn/index/sjhkd/a2026.htm"
+      },
+      {
+        "text": "网上信访",
+        "href": "https://www.hust.edu.cn/index/wsxf.htm"
+      },
+      {
+        "text": "查看更多",
+        "href": "https://www.hust.edu.cn/jl.htm"
+      },
+      {
+        "text": "教育教学",
+        "href": "https://www.hust.edu.cn/jyjx.htm"
+      },
+      {
+        "text": "本科生教育",
+        "href": "https://www.hust.edu.cn/jyjx/bksjy.htm"
+      },
+      {
+        "text": "继续教育",
+        "href": "https://www.hust.edu.cn/jyjx/jxjy.htm"
+      },
+      {
+        "text": "访客",
+        "href": "https://www.hust.edu.cn/ksfw/fk.htm"
+      },
+      {
+        "text": "教职工",
+        "href": "https://www.hust.edu.cn/ksfw/jzg.htm"
+      },
+      {
+        "text": "学生",
+        "href": "https://www.hust.edu.cn/ksfw/xs.htm"
+      },
+      {
+        "text": "校友",
+        "href": "https://www.hust.edu.cn/ksfw/xy.htm"
+      },
+      {
+        "text": "科学研究",
+        "href": "https://www.hust.edu.cn/kxyj.htm"
+      },
+      {
+        "text": "科研管理",
+        "href": "https://www.hust.edu.cn/kxyj/kygl.htm"
+      },
+      {
+        "text": "【学习进行时】习近平：以更高标准、更实举措推进全面从严治党 2026.10.16",
+        "href": "https://www.news.cn/politics/leaders/20261015/b28cccebedb54aaaa9adb3472f3509d0/c.html"
+      },
+      {
+        "text": "",
+        "href": "javascript:;"
+      },
+      {
+        "text": "+ 加关注",
+        "href": "javascript:;"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.hust.edu.cn/WXH_New.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/2/DD/50/D65E42CBAA6F4E1EA3624873EF4_B45E09DE_7F00F.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/3/4F/16/56D7C603DF0FA959F4851221708_7431513F_111D40.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/3/7A/5D/75A4E1EAB7198954361C6E7427D_1BD965AC_934D5F.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/4/63/1A/56E62CC27A4E06FE72296A575A5_FBA4AEDB_FBDDD.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/A/15/3F/8F25A3F8A242226BE4D6B34AB19_80805EAA_1715CB.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/A/A0/27/33A598137D3FAFF2C9FE8D6A61F_7797D7E2_CEBB2B.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/A/A6/AC/EBFC7722D42BCE749B8F17ED93D_BBA474CD_15977.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/B/97/7A/FE153668D671187FC52C860083A_9CF54F97_1378C.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/B/BE/9B/BC456F6ACBD19890498E2F14BDF_063D9E03_151B3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/C/8D/A2/51AE28B2EB108D4E481F4F6B10A_EC1F0C84_11D49E.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/D/6B/90/ED7FC67F1C7BF3762AD82A58154_D04E8A3E_1341F.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/F/AC/7C/DED3CCABA079E0320AA92497626_322E9E5B_643B7.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/__local/F/B8/AC/FFD5C4B5A0E5796D7D3E471D7F7_834913BC_1870C7.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/20261011yingguangyepao3.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/22/ct1.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/22/hzdgst1.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/2936e3e8-ea50-4674-9096-f59406f26ed7.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/4a63219b-015a-41fb-bf0c-bb4d77e4b417.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/bjh.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/blue.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/caoquanliang1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/douyina94e0282-080e-45bc-a970-d7d86612d52e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/BZ.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/jrtt.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/ppzw.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/qe.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/rmh.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/wb.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/wxsp.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/xxqg.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/ewm/ysph.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/fti.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/huakedajingshenfengmian.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i1.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i3.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i4.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i5.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i6.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i7.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i8.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/i9.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/lilunxuexifengmian.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/linkxl.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/logo20240628.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/qg.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/shengzhangfengmian.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/shishengfuwuzhongxin.JPG",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/tengyue11.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/tiyuhuoli.gif",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/wangjingjing.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/wb.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/wsxf.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/xiangjiying.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/xiaoshiguanshutu.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/xinghaifengmian.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/yunshanghuakedashuban.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.hust.edu.cn/images/zhumengxingcheng.jpg",
+        "alt": ""
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "855514",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 2974, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.hust.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-20T02:57:16.393413Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.hust.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m493",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "dom_summary": {
+        "headings": [
+          "学校首页",
+          "网上信访",
+          "学校概况",
+          "学校简介",
+          "历史沿革",
+          "学校章程",
+          "历任领导",
+          "现任领导",
+          "组织机构",
+          "学校标识",
+          "院系设置",
+          "师资队伍",
+          "两院院士",
+          "广纳英才",
+          "人事管理",
+          "教师主页",
+          "学科建设",
+          "重点学科",
+          "本科专业",
+          "硕士学位授权一级学科"
+        ],
+        "paragraphs": [
+          "校歌 与 标识系统",
+          "网上信访",
+          "师生服务 中心",
+          "同济医学院",
+          "校史馆",
+          "图书馆",
+          "档案馆",
+          "出版社",
+          "心理健康 教育中心",
+          "邮箱登录",
+          "信息公开",
+          "校历",
+          "校园地图",
+          "地址：湖北省武汉市洪山区珞喻路1037号 邮政编码：430074 电话：027-87541114",
+          "鄂ICP备05003321号-1 鄂公网安备 42011102000123号"
+        ],
+        "lists": [
+          [
+            "学校首页",
+            "学校概况 学校简介 历史沿革 学校章程 历任领导 现任领导 组织机构 学校标识",
+            "院系设置",
+            "师资队伍 两院院士 广纳英才 人事管理 教师主页",
+            "学科建设 重点学科 本科专业 硕士学位授权一级学科 博士学位授权一级学科 博士后流动站",
+            "教育教学 本科生教育 研究生教育 国际学生教育 继续教育",
+            "科学研究 科研机构 科研管理 校企合作 学术期刊",
+            "招生就业 本科生招生 研究生招生 国际学生招生 学生就业工作",
+            "合作交流 科技合作 国际交流 国际会议",
+            "走进华科大 校园生活 服务信息 校园风光"
+          ],
+          [
+            "学校首页 网上信访",
+            "学校概况 学校简介 历史沿革 学校章程 历任领导 现任领导 组织机构 学校标识",
+            "院系设置",
+            "师资队伍 两院院士 广纳英才 人事管理 教师主页",
+            "学科建设 重点学科 本科专业 硕士学位授权一级学科 博士学位授权一级学科 博士后流动站",
+            "教育教学 本科生教育 研究生教育 国际学生教育 继续教育",
+            "科学研究 科研机构 科研管理 校企合作 学术期刊",
+            "招生就业 本科生招生 研究生招生 国际学生招生 学生就业工作",
+            "合作交流 科技合作 国际交流 国际会议",
+            "走进华科大 校园生活 服务信息 校园风光"
+          ],
+          [
+            "【学习进行时】习近平：以更高标准、更实举措推进全面从严治党 2026.10.16",
+            "湖北省委省政府在我校举办首场科创沙龙 2026.10.17",
+            "“学习贯彻习近平文化思想”专题报告会举行 2026.10.15",
+            "【我心中的华科大精神】刘德明：“森林精神”——喻家山下的精神年轮 2026.10.15",
+            "第四届光谷人工智能大会暨企业家论坛举行 2026.10.13",
+            "热烈祝贺！我校学子郑钦文首夺中网女单冠军 2026.10.12"
+          ],
+          [
+            "智能制造期刊集群首次专家委员会会议在汉召开 2026-10-19",
+            "电气学院梁琳研究员专著获评“机械工业科学技术奖”二等奖 2026-10-19",
+            "荆楚工匠人才培养对象训练营暨第十一期湖北工会大讲堂在校举行 2026-10-15",
+            "我校在2026年卓越工程师培养研讨会上作专题报告 2026-10-13",
+            "五洲同此声，华科人向祖国报到！ 2026-10-02"
+          ],
+          [
+            "基础医学院开展2026“医学启航在基础”活动 2026-10-18",
+            "机械学院举办2026年度博士后创新论坛 2026-10-15",
+            "药学院举办2026年重阳节退休教职工座谈会 2026-10-14",
+            "【纪念红军长征胜利90周年】公管师生共同宣讲伟大长征精神 2026-10-13",
+            "【秩青春】电气学院喜迎500余位校友国庆期间返校 2026-10-10",
+            "电气学院蔡承颖教授出版《电磁辐射与加速器束流动力学导论》 2026-09-29",
+            "协和医院举办第十届健康科普大赛 2026-09-27",
+            "机械学院协和医院等签约攻关可降解密网支架 2026-09-27",
+            "机械学院承担的CRAFT重载机械臂项目通过验收 2026-09-26"
+          ],
+          [
+            "【中国新闻网】巴西米大孔院举办“花开中华”活动：牡丹、熊猫、漆扇受欢迎 2026-10-19",
+            "【观一线】中部大省这场夜话，不同寻常 2026-10-17",
+            "【新华每日电讯】华中科技大学同济医学院附属协和医院：体内植入全球最轻最小“人工心”的俊俊迎来好消息 2026-10-16",
+            "【湖北日报】华科大同济医学院附属同济医院：解救被锁住的身体 2026-10-16",
+            "【新华社】华科大钱雪松：从前三季度数据看我国外贸强劲增势 2026-10-16"
+          ],
+          [
+            "物理学院黄胜友团队在大型蛋白质复合物结构预测领域取得重要进展",
+            "公卫学院曾强课题组在饮用水消毒副产物与生殖健康领域获进展",
+            "环境学院杨家宽团队联合武汉光电国家研究中心唐江团队实现废铅酸蓄电池向叠层钙钛矿太阳能电...",
+            "协和医院血液科团队为细胞免疫治疗开辟新范式",
+            "生命学院刘笔锋教授课题组开发多维可编程微流控智能诊断系统",
+            "机械学院吴豪教授尹周平院士团队取得柔性神经界面生物电子系统研究成果"
+          ],
+          [
+            "【人文讲座】程志华：中西哲学之根本相同处",
+            "艺术名家进课堂讲述戏曲之美",
+            "吴枫院士主讲“科学精神与实践”讲座第363期",
+            "【人文讲座】方在庆：从相对论到冰箱——爱因斯坦与实用技术的另一面",
+            "“赓续文脉”传统文化课程走进古籍展",
+            "【人文讲座】李煜：接力棒如何传递？——代际流动的分析框架、进展和中国议题"
+          ],
+          [
+            "日本工业大学代表团访问机械学院深化合作",
+            "校长尤政院士率团访问英国、德国 推进中外合作办学与高水平科教合作",
+            "中韩高校化学学科联盟成立仪式在校举行",
+            "新加坡陆路交通管理局代表团来校访问",
+            "第十一届华中科技大学-成均馆大学双边交流会暨研究生学术年会举行",
+            "泰国法政大学、孔敬大学专家来访公管学院共商公共管理国际合作"
+          ],
+          [
+            "19 2026-10 校领导接待日工作预告（345）",
+            "13 2026-10 关于举行“学习贯彻习近平文化思想”专题报告会的通知",
+            "10 2026-10 学校2026年10月教师学习培训及发展支持服务汇总"
+          ]
+        ],
+        "forms": [
+          {
+            "action": "jsjg.jsp?wbtreeid=1001",
+            "method": "post",
+            "fields": [
+              {
+                "name": "lucenenewssearchkey",
+                "type": "hidden"
+              },
+              {
+                "name": "_lucenesearchtype",
+                "type": "hidden",
+                "value": "1"
+              },
+              {
+                "name": "searchScope",
+                "type": "hidden",
+                "value": "0"
+              },
+              {
+                "name": "range",
+                "type": "hidden",
+                "value": "0"
+              },
+              {
+                "name": "order",
+                "type": "hidden",
+                "value": "1"
+              },
+              {
+                "name": "showkeycode",
+                "type": "text"
+              },
+              {
+                "type": "submit"
+              }
+            ]
+          },
+          {
+            "action": "jsjg.jsp?wbtreeid=1001",
+            "method": "post",
+            "fields": [
+              {
+                "name": "lucenenewssearchkey",
+                "type": "hidden"
+              },
+              {
+                "name": "_lucenesearchtype",
+                "type": "hidden",
+                "value": "1"
+              },
+              {
+                "name": "searchScope",
+                "type": "hidden",
+                "value": "0"
+              },
+              {
+                "name": "range",
+                "type": "hidden",
+                "value": "1"
+              },
+              {
+                "name": "order",
+                "type": "hidden",
+                "value": "0"
+              },
+              {
+                "name": "showkeycode",
+                "type": "text"
+              },
+              {
+                "type": "submit"
+              }
+            ]
+          }
+        ]
+      },
+      "images_detail": [
+        {
+          "src": "https://www.hust.edu.cn/__local/2/DD/50/D65E42CBAA6F4E1EA3624873EF4_B45E09DE_7F00F.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/3/4F/16/56D7C603DF0FA959F4851221708_7431513F_111D40.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/3/7A/5D/75A4E1EAB7198954361C6E7427D_1BD965AC_934D5F.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/4/63/1A/56E62CC27A4E06FE72296A575A5_FBA4AEDB_FBDDD.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/A/15/3F/8F25A3F8A242226BE4D6B34AB19_80805EAA_1715CB.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/A/A0/27/33A598137D3FAFF2C9FE8D6A61F_7797D7E2_CEBB2B.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/A/A6/AC/EBFC7722D42BCE749B8F17ED93D_BBA474CD_15977.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/B/97/7A/FE153668D671187FC52C860083A_9CF54F97_1378C.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/B/BE/9B/BC456F6ACBD19890498E2F14BDF_063D9E03_151B3.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/C/8D/A2/51AE28B2EB108D4E481F4F6B10A_EC1F0C84_11D49E.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/D/6B/90/ED7FC67F1C7BF3762AD82A58154_D04E8A3E_1341F.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/F/AC/7C/DED3CCABA079E0320AA92497626_322E9E5B_643B7.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/__local/F/B8/AC/FFD5C4B5A0E5796D7D3E471D7F7_834913BC_1870C7.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/WXH_New.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/20261011yingguangyepao3.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/22/ct1.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/22/hzdgst1.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/2936e3e8-ea50-4674-9096-f59406f26ed7.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/4a63219b-015a-41fb-bf0c-bb4d77e4b417.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/bjh.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/blue.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/caoquanliang1.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/douyina94e0282-080e-45bc-a970-d7d86612d52e.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/BZ.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/jrtt.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/ppzw.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/qe.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/rmh.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/wb.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/wxsp.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/xxqg.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/ewm/ysph.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/fti.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/huakedajingshenfengmian.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i1.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i2.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i3.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i4.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i5.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i6.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i7.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i8.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/i9.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/lilunxuexifengmian.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/linkxl.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/logo20240628.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/qg.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/shengzhangfengmian.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/shishengfuwuzhongxin.JPG",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/tengyue11.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/tiyuhuoli.gif",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/wangjingjing.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/wb.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/wsxf.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/xiangjiying.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/xiaoshiguanshutu.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/xinghaifengmian.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/yunshanghuakedashuban.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.hust.edu.cn/images/zhumengxingcheng.jpg",
+          "alt": ""
+        }
+      ],
+      "metadata": {
+        "language": "zh-cn",
+        "title_candidates": [
+          "华中科技大学"
+        ],
+        "meta_tags": {
+          "description": "华中科技大学",
+          "format-detection": "telephone=no",
+          "keywords": "华中科技大学、华中科技、华科、华中大、华科大",
+          "renderer": "webkit",
+          "viewport": "width=device-width, initial-scale=1, maximum-scale=1"
+        }
+      },
+      "site_links": [
+        {
+          "text": "招生宣传片：生长",
+          "href": "https://www.hust.edu.cn/0618huakezhupiangaoqingwushuiyin_yasuobanben.mp4"
+        },
+        {
+          "text": "荧光夜跑，点亮华科！",
+          "href": "https://www.hust.edu.cn/20261011yingguangyepaoduanshipin.mp4"
+        },
+        {
+          "text": "华科大故事：共赴星海",
+          "href": "https://www.hust.edu.cn/gongfuxinghai.mp4"
+        },
+        {
+          "text": "广纳英才",
+          "href": "http://employment.hust.edu.cn"
+        },
+        {
+          "text": "EN",
+          "href": "http://english.hust.edu.cn/"
+        },
+        {
+          "text": "教师主页",
+          "href": "http://faculty.hust.edu.cn/"
+        },
+        {
+          "text": "研究生教育",
+          "href": "http://gs.hust.edu.cn/"
+        },
+        {
+          "text": "研究生招生",
+          "href": "http://gszs.hust.edu.cn/"
+        },
+        {
+          "text": "科技合作",
+          "href": "http://iat.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "国际学生招生",
+          "href": "http://iso.hust.edu.cn/"
+        },
+        {
+          "text": "学生就业工作",
+          "href": "http://job.hust.edu.cn/"
+        },
+        {
+          "text": "学术期刊",
+          "href": "http://kexie.hust.edu.cn/xsqk/hzkjdxxsqkylb.htm"
+        },
+        {
+          "text": "查看更多",
+          "href": "http://news.hust.edu.cn/hkdrw.htm"
+        },
+        {
+          "text": "华科大·人物",
+          "href": "http://news.hust.edu.cn/hkdrw.htm"
+        },
+        {
+          "text": "进入新闻网",
+          "href": "http://news.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "滕钺：十载潜心治学 青春赴黔建功",
+          "href": "http://news.hust.edu.cn/info/1002/59275.htm"
+        },
+        {
+          "text": "王晶晶：深耕基层沃土 助推华翔“连心桥”",
+          "href": "http://news.hust.edu.cn/info/1002/59308.htm"
+        },
+        {
+          "text": "校长尤政院士率团访问英国、德国 推进中外合作办学与高水平科教合作",
+          "href": "http://news.hust.edu.cn/info/1002/59643.htm"
+        },
+        {
+          "text": "我校举办第四期“教育家精神大讲堂” 2026.09.30",
+          "href": "http://news.hust.edu.cn/info/1002/59710.htm"
+        },
+        {
+          "text": "热烈祝贺！我校学子郑钦文首夺中网女单冠军 2026.10.12",
+          "href": "http://news.hust.edu.cn/info/1002/59744.htm"
+        },
+        {
+          "text": "第四届光谷人工智能大会暨企业家论坛举行 2026.10.15",
+          "href": "http://news.hust.edu.cn/info/1002/59764.htm"
+        },
+        {
+          "text": "湖北省委省政府在我校举办首场科创沙龙 2026.10.17",
+          "href": "http://news.hust.edu.cn/info/1002/59797.htm"
+        },
+        {
+          "text": "泰国法政大学、孔敬大学专家来访公管学院共商公共管理国际合作",
+          "href": "http://news.hust.edu.cn/info/1003/59601.htm"
+        },
+        {
+          "text": "第十一届华中科技大学-成均馆大学双边交流会暨研究生学术年会举行",
+          "href": "http://news.hust.edu.cn/info/1003/59604.htm"
+        },
+        {
+          "text": "新加坡陆路交通管理局代表团来校访问",
+          "href": "http://news.hust.edu.cn/info/1003/59608.htm"
+        },
+        {
+          "text": "中韩高校化学学科联盟成立仪式在校举行",
+          "href": "http://news.hust.edu.cn/info/1003/59611.htm"
+        },
+        {
+          "text": "机械学院承担的CRAFT重载机械臂项目通过验收",
+          "href": "http://news.hust.edu.cn/info/1003/59675.htm"
+        },
+        {
+          "text": "协和医院举办第十届健康科普大赛",
+          "href": "http://news.hust.edu.cn/info/1003/59677.htm"
+        },
+        {
+          "text": "电气学院蔡承颖教授出版《电磁辐射与加速器束流动力学导论》",
+          "href": "http://news.hust.edu.cn/info/1003/59692.htm"
+        },
+        {
+          "text": "机械学院协和医院等签约攻关可降解密网支架",
+          "href": "http://news.hust.edu.cn/info/1003/59701.htm"
+        },
+        {
+          "text": "吴枫院士主讲“科学精神与实践”讲座第363期",
+          "href": "http://news.hust.edu.cn/info/1003/59703.htm"
+        },
+        {
+          "text": "机械学院吴豪教授尹周平院士团队取得柔性神经界面生物电子系统研究成果",
+          "href": "http://news.hust.edu.cn/info/1003/59738.htm"
+        },
+        {
+          "text": "生命学院刘笔锋教授课题组开发多维可编程微流控智能诊断系统",
+          "href": "http://news.hust.edu.cn/info/1003/59742.htm"
+        },
+        {
+          "text": "协和医院血液科团队为细胞免疫治疗开辟新范式",
+          "href": "http://news.hust.edu.cn/info/1003/59751.htm"
+        },
+        {
+          "text": "我校在2026年卓越工程师培养研讨会上作专题报告",
+          "href": "http://news.hust.edu.cn/info/1003/59760.htm"
+        },
+        {
+          "text": "环境学院杨家宽团队联合武汉光电国家研究中心唐江团队实现废铅酸蓄电池向叠层钙钛矿太阳能电...",
+          "href": "http://news.hust.edu.cn/info/1003/59762.htm"
+        },
+        {
+          "text": "荆楚工匠人才培养对象训练营暨第十一期湖北工会大讲堂在校举行",
+          "href": "http://news.hust.edu.cn/info/1003/59769.htm"
+        },
+        {
+          "text": "机械学院举办2026年度博士后创新论坛",
+          "href": "http://news.hust.edu.cn/info/1003/59773.htm"
+        },
+        {
+          "text": "公卫学院曾强课题组在饮用水消毒副产物与生殖健康领域获进展",
+          "href": "http://news.hust.edu.cn/info/1003/59776.htm"
+        },
+        {
+          "text": "日本工业大学代表团访问机械学院深化合作",
+          "href": "http://news.hust.edu.cn/info/1003/59794.htm"
+        },
+        {
+          "text": "物理学院黄胜友团队在大型蛋白质复合物结构预测领域取得重要进展",
+          "href": "http://news.hust.edu.cn/info/1003/59796.htm"
+        },
+        {
+          "text": "电气学院梁琳研究员专著获评“机械工业科学技术奖”二等奖",
+          "href": "http://news.hust.edu.cn/info/1003/59806.htm"
+        },
+        {
+          "text": "智能制造期刊集群首次专家委员会会议在汉召开",
+          "href": "http://news.hust.edu.cn/info/1003/59807.htm"
+        },
+        {
+          "text": "“赓续文脉”传统文化课程走进古籍展",
+          "href": "http://news.hust.edu.cn/info/1004/59635.htm"
+        },
+        {
+          "text": "艺术名家进课堂讲述戏曲之美",
+          "href": "http://news.hust.edu.cn/info/1004/59732.htm"
+        },
+        {
+          "text": "【秩青春】电气学院喜迎500余位校友国庆期间返校",
+          "href": "http://news.hust.edu.cn/info/1004/59736.htm"
+        },
+        {
+          "text": "【纪念红军长征胜利90周年】公管师生共同宣讲伟大长征精神",
+          "href": "http://news.hust.edu.cn/info/1004/59755.htm"
+        },
+        {
+          "text": "药学院举办2026年重阳节退休教职工座谈会",
+          "href": "http://news.hust.edu.cn/info/1004/59766.htm"
+        },
+        {
+          "text": "基础医学院开展2026“医学启航在基础”活动",
+          "href": "http://news.hust.edu.cn/info/1004/59800.htm"
+        },
+        {
+          "text": "曹全梁：坚守初心书写电气报国的育人答卷",
+          "href": "http://news.hust.edu.cn/info/1007/59570.htm"
+        },
+        {
+          "text": "校友向际鹰：从华科大走出的通信首席科学家",
+          "href": "http://news.hust.edu.cn/info/1007/59795.htm"
+        },
+        {
+          "text": "【人文讲座】程志华：中西哲学之根本相同处",
+          "href": "http://news.hust.edu.cn/info/1008/59785.htm"
+        },
+        {
+          "text": "国际会议",
+          "href": "http://oia.hust.edu.cn/gjhy.htm"
+        },
+        {
+          "text": "博士后流动站",
+          "href": "http://postdoctor.hust.edu.cn/"
+        },
+        {
+          "text": "国际学生教育",
+          "href": "http://sie.hust.edu.cn/"
+        },
+        {
+          "text": "华科大·影像",
+          "href": "http://story.hust.edu.cn/"
+        },
+        {
+          "text": "学校标识",
+          "href": "http://vi.hust.edu.cn/"
+        },
+        {
+          "text": "",
+          "href": "http://vr.hust.edu.cn/720v2/player/82"
+        },
+        {
+          "text": "本科生招生",
+          "href": "http://zsb.hust.edu.cn/"
+        },
+        {
+          "text": "【湖北日报】华科大同济医学院附属同济医院：解救被锁住的身体",
+          "href": "https://epaper.hubeidaily.net/pc/content/202610/16/content_360935.html"
+        },
+        {
+          "text": "【新华社】华科大钱雪松：从前三季度数据看我国外贸强劲增势",
+          "href": "https://h.xinhuaxmt.com/vh512/share/13330074?docid=13330074&amp;newstype=1001&amp;d=1352897&amp;channel=weixin"
+        },
+        {
+          "text": "【中国新闻网】巴西米大孔院举办“花开中华”活动：牡丹、熊猫、漆扇受欢迎",
+          "href": "https://m.chinanews.com/wap/detail/chs/zw/10716307.shtml"
+        },
+        {
+          "text": "五洲同此声，华科人向祖国报到！",
+          "href": "https://mp.weixin.qq.com/s/MA0WsToYxfCJJd5pGCRXjA"
+        },
+        {
+          "text": "【新华每日电讯】华中科技大学同济医学院附属协和医院：体内植入全球最轻最小“人工心”的俊俊迎来好消息",
+          "href": "https://mp.weixin.qq.com/s/YI8zTg9Pjln9teZojNfbMg"
+        },
+        {
+          "text": "【观一线】中部大省这场夜话，不同寻常",
+          "href": "https://mp.weixin.qq.com/s/_JQVPXweA0sYug8c7awWsQ"
+        },
+        {
+          "text": "湖北省委省政府在华中科技大学举办首场...",
+          "href": "https://mp.weixin.qq.com/s/mQ2fO0hLEcH-fykUHEHspw"
+        },
+        {
+          "text": "原来华科大是这样的……",
+          "href": "https://mp.weixin.qq.com/s/rvv9o4VSWsMLUUXsmm7eqA"
+        },
+        {
+          "text": "【科技日报】湖北省委省政府在华中科技大学举办首场科创沙龙 --> 2026-10-18",
+          "href": "https://mp.weixin.qq.com/s/yzw9bF7iwprLUX6MNXL-uA"
+        },
+        {
+          "text": "华中科技大学第二届校友集体婚礼举行 2026.10.08",
+          "href": "https://news.hust.edu.cn/info/1002/59719.htm"
+        },
+        {
+          "text": "第四届光谷人工智能大会暨企业家论坛举行 2026.10.13",
+          "href": "https://news.hust.edu.cn/info/1002/59764.htm"
+        },
+        {
+          "text": "“学习贯彻习近平文化思想”专题报告会举行 2026.10.15",
+          "href": "https://news.hust.edu.cn/info/1002/59767.htm"
+        },
+        {
+          "text": "【我心中的华科大精神】刘德明：“森林精神”——喻家山下的精神年轮 2026.10.15",
+          "href": "https://news.hust.edu.cn/info/1002/59786.htm"
+        },
+        {
+          "text": "中国国际大学生创新大赛湖北省复赛学子斩获佳绩 --> 2026-10-20",
+          "href": "https://news.hust.edu.cn/info/1002/59810.htm"
+        },
+        {
+          "text": "【人文讲座】李煜：接力棒如何传递？——代际流动的分析框架、进展和中国议题",
+          "href": "https://news.hust.edu.cn/info/1008/59572.htm"
+        },
+        {
+          "text": "【人文讲座】方在庆：从相对论到冰箱——爱因斯坦与实用技术的另一面",
+          "href": "https://news.hust.edu.cn/info/1008/59685.htm"
+        },
+        {
+          "text": "信息门户",
+          "href": "https://one.hust.edu.cn"
+        },
+        {
+          "text": "10 2026-10 学校2026年10月教师学习培训及发展支持服务汇总",
+          "href": "https://one.hust.edu.cn/index.html#act=sems-tp-nup_28585749&amp;typeid=&amp;rid=&amp;contentid=&amp;ownerid=&amp;website=0&amp;pim_id=12269413031772160"
+        },
+        {
+          "text": "13 2026-10 关于举行“学习贯彻习近平文化思想”专题报告会的通知",
+          "href": "https://one.hust.edu.cn/index.html#act=sems-tp-nup_28585749&amp;typeid=&amp;rid=&amp;contentid=&amp;ownerid=&amp;website=0&amp;pim_id=13698560795230208"
+        },
+        {
+          "text": "19 2026-10 校领导接待日工作预告（345）",
+          "href": "https://one.hust.edu.cn/index.html#act=sems-tp-nup_28585749&amp;typeid=&amp;rid=&amp;contentid=&amp;ownerid=&amp;website=0&amp;pim_id=16126947647356928"
+        },
+        {
+          "text": "",
+          "href": "https://www.hust.edu.cn/"
+        },
+        {
+          "text": "【学习进行时】习近平：以更高标准、更实举措推进全面从严治党 2026.10.16",
+          "href": "https://www.news.cn/politics/leaders/20261015/b28cccebedb54aaaa9adb3472f3509d0/c.html"
+        },
+        {
+          "text": "合作交流",
+          "href": "https://www.hust.edu.cn/hzjl.htm"
+        },
+        {
+          "text": "国际交流",
+          "href": "https://www.hust.edu.cn/hzjl/gjjl.htm"
+        },
+        {
+          "text": "学校首页",
+          "href": "https://www.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "",
+          "href": "https://www.hust.edu.cn/index.htm"
+        },
+        {
+          "text": "视觉华科大",
+          "href": "https://www.hust.edu.cn/index/sjhkd/a2024.htm"
+        },
+        {
+          "text": "更多 >",
+          "href": "https://www.hust.edu.cn/index/sjhkd/a2026.htm"
+        },
+        {
+          "text": "网上信访",
+          "href": "https://www.hust.edu.cn/index/wsxf.htm"
+        },
+        {
+          "text": "",
+          "href": "javascript:;"
+        },
+        {
+          "text": "+ 加关注",
+          "href": "javascript:;"
+        },
+        {
+          "text": "查看更多",
+          "href": "https://www.hust.edu.cn/jl.htm"
+        },
+        {
+          "text": "教育教学",
+          "href": "https://www.hust.edu.cn/jyjx.htm"
+        },
+        {
+          "text": "本科生教育",
+          "href": "https://www.hust.edu.cn/jyjx/bksjy.htm"
+        },
+        {
+          "text": "继续教育",
+          "href": "https://www.hust.edu.cn/jyjx/jxjy.htm"
+        },
+        {
+          "text": "访客",
+          "href": "https://www.hust.edu.cn/ksfw/fk.htm"
+        },
+        {
+          "text": "教职工",
+          "href": "https://www.hust.edu.cn/ksfw/jzg.htm"
+        },
+        {
+          "text": "学生",
+          "href": "https://www.hust.edu.cn/ksfw/xs.htm"
+        },
+        {
+          "text": "校友",
+          "href": "https://www.hust.edu.cn/ksfw/xy.htm"
+        },
+        {
+          "text": "科学研究",
+          "href": "https://www.hust.edu.cn/kxyj.htm"
+        },
+        {
+          "text": "科研管理",
+          "href": "https://www.hust.edu.cn/kxyj/kygl.htm"
+        }
+      ]
+    }
+  },
+  "_ok": true
+}

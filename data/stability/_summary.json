@@ -1,0 +1,870 @@
+[
+  {
+    "slug": "tsinghua",
+    "name": "清华大学",
+    "url": "https://www.tsinghua.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 9777,
+        "links": 57,
+        "rid": "a5829d52-98d6-4df3-8dd7-0ca99e6d2779",
+        "server_ms": 3876,
+        "wall_ms": 4125
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 9777,
+        "links": 57,
+        "rid": "44bfa97f-e2b0-4bb1-87e6-71a288adb5f7",
+        "server_ms": 4168,
+        "wall_ms": 4401
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 9777,
+        "links": 57,
+        "rid": "e7620c5c-e089-4a2f-812a-90a7326866b4",
+        "server_ms": 2990,
+        "wall_ms": 3192
+      }
+    ],
+    "success": 3,
+    "len_min": 9777,
+    "len_max": 9777,
+    "len_median": 9777,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "pku",
+    "name": "北京大学",
+    "url": "https://www.pku.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 4867,
+        "links": 96,
+        "rid": "ed8c8fcf-80bc-40bb-9359-7ddb94491528",
+        "server_ms": 2701,
+        "wall_ms": 2896
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 4867,
+        "links": 96,
+        "rid": "294744c6-89d6-4be4-bd36-525e88b8520e",
+        "server_ms": 3074,
+        "wall_ms": 3312
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 4867,
+        "links": 96,
+        "rid": "249077b3-be53-4325-b8df-db7fd1bfa2b1",
+        "server_ms": 5036,
+        "wall_ms": 5293
+      }
+    ],
+    "success": 3,
+    "len_min": 4867,
+    "len_max": 4867,
+    "len_median": 4867,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "zju",
+    "name": "浙江大学",
+    "url": "https://www.zju.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 6173,
+        "links": 11,
+        "rid": "284ab6b6-9e60-4ab9-9a6a-57822f6f43b8",
+        "server_ms": 3120,
+        "wall_ms": 3307
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 6173,
+        "links": 11,
+        "rid": "f1931a9b-133f-4548-9458-26e323538c76",
+        "server_ms": 3069,
+        "wall_ms": 3244
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 6173,
+        "links": 11,
+        "rid": "1fb67b7a-4b64-4ae5-b2fb-71db3c90cf94",
+        "server_ms": 2642,
+        "wall_ms": 2802
+      }
+    ],
+    "success": 3,
+    "len_min": 6173,
+    "len_max": 6173,
+    "len_median": 6173,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "fudan",
+    "name": "复旦大学",
+    "url": "https://www.fudan.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 13230,
+        "links": 100,
+        "rid": "002fe705-4d54-400b-a0c5-6cda4bce1bfa",
+        "server_ms": 2123,
+        "wall_ms": 2426
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 13230,
+        "links": 100,
+        "rid": "c86e595f-6ba5-4b05-bebe-7eeead843f44",
+        "server_ms": 3185,
+        "wall_ms": 3522
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 13230,
+        "links": 100,
+        "rid": "806664c2-6f64-4be4-8a54-97a578d9da67",
+        "server_ms": 4083,
+        "wall_ms": 4368
+      }
+    ],
+    "success": 3,
+    "len_min": 13230,
+    "len_max": 13230,
+    "len_median": 13230,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "sjtu",
+    "name": "上海交通大学",
+    "url": "https://www.sjtu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 4732,
+        "links": 100,
+        "rid": "0ef57915-4b67-4c18-b559-485ee9a8ced6",
+        "server_ms": 7306,
+        "wall_ms": 7564
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 1960,
+        "links": 66,
+        "rid": "5251543d-6d3e-4ec8-847f-7282e3582564",
+        "server_ms": 2890,
+        "wall_ms": 3089
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 1960,
+        "links": 66,
+        "rid": "9cb53e5a-abe4-4dc4-90f2-f73a87f86efd",
+        "server_ms": 2346,
+        "wall_ms": 2564
+      }
+    ],
+    "success": 3,
+    "len_min": 1960,
+    "len_max": 4732,
+    "len_median": 1960,
+    "len_range": 2772,
+    "cv_pct": 45.3
+  },
+  {
+    "slug": "nju",
+    "name": "南京大学",
+    "url": "https://www.nju.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 12388,
+        "links": 67,
+        "rid": "141c5826-02b7-4d7c-9646-dd3e4ba39490",
+        "server_ms": 3073,
+        "wall_ms": 3374
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 12388,
+        "links": 67,
+        "rid": "bd9f01e5-5305-4ccc-98c1-a488e4982f7c",
+        "server_ms": 3405,
+        "wall_ms": 3710
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 12388,
+        "links": 67,
+        "rid": "03363f78-8a66-4366-a6e1-b4e9796af7cc",
+        "server_ms": 3405,
+        "wall_ms": 3689
+      }
+    ],
+    "success": 3,
+    "len_min": 12388,
+    "len_max": 12388,
+    "len_median": 12388,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "ustc",
+    "name": "中国科学技术大学",
+    "url": "https://www.ustc.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 735,
+        "links": 65,
+        "rid": "754cd3d3-8b34-40f8-894c-88a47d17d2d8",
+        "server_ms": 2906,
+        "wall_ms": 3124
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 735,
+        "links": 65,
+        "rid": "696d32d4-50fe-4311-a46b-149c03ebc2d4",
+        "server_ms": 3590,
+        "wall_ms": 3801
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 735,
+        "links": 65,
+        "rid": "4851b8ea-d15f-4238-88b3-f4b166e941cc",
+        "server_ms": 2493,
+        "wall_ms": 2691
+      }
+    ],
+    "success": 3,
+    "len_min": 735,
+    "len_max": 735,
+    "len_median": 735,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "whu",
+    "name": "武汉大学",
+    "url": "https://www.whu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 2187,
+        "links": 86,
+        "rid": "232f5f76-8237-49c5-bd71-facb2560b7c5",
+        "server_ms": 3499,
+        "wall_ms": 3697
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 2187,
+        "links": 86,
+        "rid": "1c07b95d-e0b5-4790-a456-5bd20ed4aff5",
+        "server_ms": 3385,
+        "wall_ms": 3602
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 2187,
+        "links": 86,
+        "rid": "a7213298-e684-4939-a3b4-addb5ab8bac0",
+        "server_ms": 3999,
+        "wall_ms": 4202
+      }
+    ],
+    "success": 3,
+    "len_min": 2187,
+    "len_max": 2187,
+    "len_median": 2187,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "hust",
+    "name": "华中科技大学",
+    "url": "https://www.hust.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 1929,
+        "links": 100,
+        "rid": "e41b76a4-c3ed-4f4c-b84b-8f9d303eb2a4",
+        "server_ms": 3385,
+        "wall_ms": 3599
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 1929,
+        "links": 100,
+        "rid": "7cfdd621-08dd-48f7-8d55-b4788cf3b672",
+        "server_ms": 4576,
+        "wall_ms": 4804
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 1929,
+        "links": 100,
+        "rid": "11ff7878-6c00-4bc6-b4d8-7ab277cfcb6d",
+        "server_ms": 6190,
+        "wall_ms": 6387
+      }
+    ],
+    "success": 3,
+    "len_min": 1929,
+    "len_max": 1929,
+    "len_median": 1929,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "ruc",
+    "name": "中国人民大学",
+    "url": "https://www.ruc.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": false,
+        "http": 502,
+        "error": "browser_fetch_failed",
+        "rid": "7c87ecdd-01a7-4bcd-946b-81ada104fa4b",
+        "wall_ms": 4968
+      },
+      {
+        "n": 2,
+        "ok": false,
+        "http": 502,
+        "error": "browser_fetch_failed",
+        "rid": "7cf6c8ce-4703-4834-80bb-a08102be67cc",
+        "wall_ms": 6794
+      },
+      {
+        "n": 3,
+        "ok": false,
+        "http": 502,
+        "error": "browser_fetch_failed",
+        "rid": "5935f8ee-e581-421c-a20a-8c4249f0e308",
+        "wall_ms": 3006
+      }
+    ],
+    "success": 0,
+    "len_min": null,
+    "len_max": null,
+    "len_median": null,
+    "len_range": null,
+    "cv_pct": 0
+  },
+  {
+    "slug": "bnu",
+    "name": "北京师范大学",
+    "url": "https://www.bnu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 2012,
+        "links": 65,
+        "rid": "d854df96-766a-47f3-9409-d5f0a71e6ae2",
+        "server_ms": 4825,
+        "wall_ms": 5043
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 2012,
+        "links": 65,
+        "rid": "7e8f41c2-14fc-4b56-870a-140ef23d70ca",
+        "server_ms": 6268,
+        "wall_ms": 6501
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 2012,
+        "links": 65,
+        "rid": "3b05382e-8df6-4709-986b-d34411fb4952",
+        "server_ms": 4661,
+        "wall_ms": 4896
+      }
+    ],
+    "success": 3,
+    "len_min": 2012,
+    "len_max": 2012,
+    "len_median": 2012,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "tongji",
+    "name": "同济大学",
+    "url": "https://www.tongji.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 3337,
+        "links": 100,
+        "rid": "dcf0f9c8-968e-4549-af0f-8ee0a1a270ad",
+        "server_ms": 2784,
+        "wall_ms": 3000
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 3337,
+        "links": 100,
+        "rid": "b3ea4aee-eae0-45e0-a782-8b67ad22850c",
+        "server_ms": 4857,
+        "wall_ms": 5089
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 3337,
+        "links": 100,
+        "rid": "0b9d0057-f744-4c16-893a-89128ce2fe24",
+        "server_ms": 2596,
+        "wall_ms": 2810
+      }
+    ],
+    "success": 3,
+    "len_min": 3337,
+    "len_max": 3337,
+    "len_median": 3337,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "seu",
+    "name": "东南大学",
+    "url": "https://www.seu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 6473,
+        "links": 100,
+        "rid": "1ff4ffdb-f383-4b14-b896-b7f26ba0bed9",
+        "server_ms": 2494,
+        "wall_ms": 2731
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 6473,
+        "links": 100,
+        "rid": "074d96bb-39cf-4296-bb48-d8d4e12d0f07",
+        "server_ms": 3244,
+        "wall_ms": 3501
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 6473,
+        "links": 100,
+        "rid": "4d00fb54-3f0e-4bd3-8f6b-408bb377f581",
+        "server_ms": 5715,
+        "wall_ms": 5988
+      }
+    ],
+    "success": 3,
+    "len_min": 6473,
+    "len_max": 6473,
+    "len_median": 6473,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "xjtu",
+    "name": "西安交通大学",
+    "url": "https://www.xjtu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 1674,
+        "links": 100,
+        "rid": "7e250fdd-f799-4501-b8f2-2358014e9f49",
+        "server_ms": 3736,
+        "wall_ms": 4014
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 1674,
+        "links": 100,
+        "rid": "3a4ee90d-81ab-4be2-b52c-c7e7b2fa9151",
+        "server_ms": 3622,
+        "wall_ms": 3850
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 1674,
+        "links": 100,
+        "rid": "fc3c54a6-cb66-4c8a-9058-260bfa2f36a4",
+        "server_ms": 6452,
+        "wall_ms": 6713
+      }
+    ],
+    "success": 3,
+    "len_min": 1674,
+    "len_max": 1674,
+    "len_median": 1674,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "nankai",
+    "name": "南开大学",
+    "url": "https://www.nankai.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 1638,
+        "links": 89,
+        "rid": "7e0c3523-1ed2-4588-9461-1440fcfed4b9",
+        "server_ms": 8121,
+        "wall_ms": 8335
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 1638,
+        "links": 89,
+        "rid": "102d1ec1-fdd5-4fa4-a8dc-ef82a2f8e611",
+        "server_ms": 4851,
+        "wall_ms": 5047
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 1638,
+        "links": 89,
+        "rid": "9698e69b-7701-4ec1-af0b-880f7cde2788",
+        "server_ms": 5679,
+        "wall_ms": 5901
+      }
+    ],
+    "success": 3,
+    "len_min": 1638,
+    "len_max": 1638,
+    "len_median": 1638,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "sysu",
+    "name": "中山大学",
+    "url": "https://www.sysu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 1726,
+        "links": 81,
+        "rid": "c9e8efbc-f6dc-4199-9aba-6a2a3dc4ef96",
+        "server_ms": 5768,
+        "wall_ms": 6011
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 1726,
+        "links": 81,
+        "rid": "4e823983-3db9-4bb4-9790-377d6fe2f078",
+        "server_ms": 7782,
+        "wall_ms": 7989
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 1726,
+        "links": 81,
+        "rid": "7ac67344-3313-4bfb-9bce-df1e30254573",
+        "server_ms": 6897,
+        "wall_ms": 7093
+      }
+    ],
+    "success": 3,
+    "len_min": 1726,
+    "len_max": 1726,
+    "len_median": 1726,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "scut",
+    "name": "华南理工大学",
+    "url": "https://www.scut.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 1540,
+        "links": 41,
+        "rid": "9a8f5a8d-bd85-4cbd-a4fe-8a73c1ffde94",
+        "server_ms": 7195,
+        "wall_ms": 7417
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 1540,
+        "links": 41,
+        "rid": "c9fbae4a-3ca9-44c4-ba93-01fd91cbfe76",
+        "server_ms": 7560,
+        "wall_ms": 7793
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 1540,
+        "links": 41,
+        "rid": "d1800d2e-32ee-4c7b-b09a-822cdcff5fb8",
+        "server_ms": 8178,
+        "wall_ms": 8405
+      }
+    ],
+    "success": 3,
+    "len_min": 1540,
+    "len_max": 1540,
+    "len_median": 1540,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "hit",
+    "name": "哈尔滨工业大学",
+    "url": "https://www.hit.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": false,
+        "http": 502,
+        "error": "browser_fetch_failed",
+        "rid": "73e94615-cd33-419a-bb60-98eafc371abf",
+        "wall_ms": 6047
+      },
+      {
+        "n": 2,
+        "ok": false,
+        "http": 502,
+        "error": "browser_fetch_failed",
+        "rid": "f948463e-0293-44e3-9363-fe31ba163cbc",
+        "wall_ms": 5246
+      },
+      {
+        "n": 3,
+        "ok": false,
+        "http": 502,
+        "error": "browser_fetch_failed",
+        "rid": "14d2d4c6-8707-4761-8642-2d7955641f99",
+        "wall_ms": 3389
+      }
+    ],
+    "success": 0,
+    "len_min": null,
+    "len_max": null,
+    "len_median": null,
+    "len_range": null,
+    "cv_pct": 0
+  },
+  {
+    "slug": "cqu",
+    "name": "重庆大学",
+    "url": "https://www.cqu.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 2601,
+        "links": 100,
+        "rid": "5177a8c6-d957-49b0-add9-1290ff639aba",
+        "server_ms": 3589,
+        "wall_ms": 3804
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 2601,
+        "links": 100,
+        "rid": "a9a4d3ba-0277-4c01-a875-b4f423986e6a",
+        "server_ms": 3395,
+        "wall_ms": 3605
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 2601,
+        "links": 100,
+        "rid": "a3d36fd6-52c1-474c-92a1-f8ae165b0232",
+        "server_ms": 2875,
+        "wall_ms": 3108
+      }
+    ],
+    "success": 3,
+    "len_min": 2601,
+    "len_max": 2601,
+    "len_median": 2601,
+    "len_range": 0,
+    "cv_pct": 0.0
+  },
+  {
+    "slug": "uestc",
+    "name": "电子科技大学",
+    "url": "https://www.uestc.edu.cn",
+    "times": 3,
+    "runs": [
+      {
+        "n": 1,
+        "ok": true,
+        "http": 200,
+        "text_len": 3389,
+        "links": 46,
+        "rid": "d83d8f88-80a4-4a61-8f7b-84101907eadc",
+        "server_ms": 2567,
+        "wall_ms": 2793
+      },
+      {
+        "n": 2,
+        "ok": true,
+        "http": 200,
+        "text_len": 3389,
+        "links": 46,
+        "rid": "da531a8e-d136-486a-ae47-11aa12bd54c0",
+        "server_ms": 6488,
+        "wall_ms": 6690
+      },
+      {
+        "n": 3,
+        "ok": true,
+        "http": 200,
+        "text_len": 3389,
+        "links": 46,
+        "rid": "a0d01a7a-09c6-44d6-885e-01e789865bab",
+        "server_ms": 2538,
+        "wall_ms": 2807
+      }
+    ],
+    "success": 3,
+    "len_min": 3389,
+    "len_max": 3389,
+    "len_median": 3389,
+    "len_range": 0,
+    "cv_pct": 0.0
+  }
+]

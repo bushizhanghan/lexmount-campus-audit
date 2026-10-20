@@ -1,0 +1,769 @@
+{
+  "_site": {
+    "slug": "nankai",
+    "name": "南开大学",
+    "url": "https://www.nankai.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.nankai.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 6198,
+    "sent_at": "2026-10-20T10:57:47+0800"
+  },
+  "metadata": {
+    "dom_id": "855524",
+    "template_id": "x53:46504154475c541b565a5858405b5c414c0f424242185b545b5e545c1850514018565b185d5a585075041b051b05",
+    "server_elapsed_ms": 5985
+  },
+  "request_id": "5f8fe9bb-0d14-4856-adae-b24da8c5598c",
+  "result": {
+    "url": "https://www.nankai.edu.cn",
+    "final_url": "https://www.nankai.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:57:47.829099519Z",
+    "title": "南开大学首页",
+    "description": "南开大学官方网站首页，包含最新动态、通知公告、学术活动、媒体南开、影像南开等栏目，共抓取22条内容条目。",
+    "main_text": "【图片新闻】\n2019/07/05 【专题】习近平总书记视察南开大学\n2025/11/11 【专题】深入学习贯彻党的二十届四中全会精神\n【最新动态】\n10月20日 根脉相连 共襄发展 南开大学致贺重庆南开中学建校90周年\n10月20日 共话国际主权债务风险与全球货币治理 第十五届国际货币论坛在...\n10月20日 南开大学—普林斯顿大学“中文+社会语言学”调研项目启动\n10月19日 1996届校友回校“省亲” 共忆南开流金岁月\n10月19日 南开大学首期“励能班”选调生校友返校培训举行\n10月19日 南开大学数学科学学院人才培养工作暨省身班创办40周年发展研...\n10月19日 《我们的南开大学》《南开大学外事工作资料汇编》 正式推出\n【通知公告】\n2026-07-08 南开大学2026年暑假值班表\n2026-07-05 2026年暑假后勤服务指南\n2026-06-10 全国大学英语四、六级考试期间教学楼统一管理的通知\n2026-05-31 2026年南开大学幼儿园托班招生简章\n2026-05-30 情况通报\n2026-05-22 关于举办2026年南开大学科技周活动的通知\n2026-05-16 南开大学幼儿园（八里台）2026年招生工作通知\n2026-05-01 情况说明\n2026-04-29 南开大学附属小学2026年招生登记工作通知\n【学术活动】\n中国世界经济学会2026年年会 2026-10-30 08:30 经济学院 严兵（活动负责人） 八里台校区 田家炳音乐厅\n高质量发展背景下的“投资于物与投资于人” 2026-10-29 16:35 马克思主义学院 周洁 津南校区 马院208教室\nFrom killed BBM with drift to BBM: the extremal process 2026-10-23 16:00 统计与数据科学学院 杨帆 八里台校区 范孙楼 116教室\nCharacters of GL(n,q) and vertex operators 2026-10-16 16:00 陈省身数学研究所 景乃桓 八里台校区 省身楼216教室\nOn R-matrix presentation of quantum algebra 2026-10-16 10:00 陈省身数学研究所 刘明 八里台校区 省身楼203教室\n南开经济研究所双周学术讨论会：以科技强国为导向的中国科技创新体制 2026-10-15 14:30 经济学院 刘刚 八里台校区 经济学院八楼大会议室\n【媒体南开】\n2026-10-19 中央电视台：《青年科创+》南开校友佟泽栋进行项目路演\n2026-10-19 新华社客户端：天津这场“头脑风暴”让科技金融双向赋能\n2026-10-19 中国商报：金融与科技双向奔赴 一批产融合作成果落地 ——202...\n2026-10-19 经济日报客户端：2026天津五大道金融论坛举办\n2026-10-19 中国证券报：2026天津五大道金融论坛举行 共探大国创新与金融...\n2026-10-19 大公文匯網：五大道金融論壇在天津舉行 聚焦大國創新與金融強國\n2026-10-19 经济日报客户端：天津市科技金融路演河西中心签约揭牌\n【校情通报】\n2026-07-02 校情通报（2026-18）\n2026-06-27 校情通报（2026-17）\n2026-06-27 校情通报（2026-16）\n2026-06-11 校情通报（2026-15）\n2026-05-31 校情通报（2026-14）\n2026-05-29 校情通报（2026-13）\n【影像南开】\n南开大学电视新闻2025年11月13日\n南开大学电视新闻2025年11月6日\n南开大学电视新闻2025年10月23日\n光阴弦歌，此声越山海\n念念不忘\n生生不息\n亭亭而立\n南开大学电视新闻2026年4月10日\n南开大学电视新闻2025年11月20日",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "南开就业信息网",
+        "href": "http://career.nankai.edu.cn"
+      },
+      {
+        "text": "继续教育",
+        "href": "http://edp.nankai.edu.cn/"
+      },
+      {
+        "text": "研究生教育",
+        "href": "http://graduate.nankai.edu.cn"
+      },
+      {
+        "text": "国际交流",
+        "href": "http://international.nankai.edu.cn/"
+      },
+      {
+        "text": "本科教育",
+        "href": "http://jwc.nankai.edu.cn/"
+      },
+      {
+        "text": "仪器设备",
+        "href": "http://less.nankai.edu.cn/"
+      },
+      {
+        "text": "南开新闻网",
+        "href": "http://news.nankai.edu.cn/"
+      },
+      {
+        "text": "南开大学电视新闻2025年10月23日",
+        "href": "http://news.nankai.edu.cn/sp/system/2025/10/23/030069270.shtml"
+      },
+      {
+        "text": "南开大学电视新闻2025年11月6日",
+        "href": "http://news.nankai.edu.cn/sp/system/2025/11/07/030069518.shtml"
+      },
+      {
+        "text": "南开大学电视新闻2025年11月13日",
+        "href": "http://news.nankai.edu.cn/sp/system/2025/11/14/030069638.shtml"
+      },
+      {
+        "text": "南开大学电视新闻2025年11月20日",
+        "href": "http://news.nankai.edu.cn/sp/system/2025/11/24/030069781.shtml"
+      },
+      {
+        "text": "南开大学电视新闻2026年4月10日",
+        "href": "http://news.nankai.edu.cn/sp/system/2026/04/10/030071365.shtml"
+      },
+      {
+        "text": "",
+        "href": "http://news.nankai.edu.cn/xlzt/system/2019/06/12/030033996.shtml"
+      },
+      {
+        "text": "",
+        "href": "http://news.nankai.edu.cn/xlzt/system/2021/12/16/030049551.shtml"
+      },
+      {
+        "text": "",
+        "href": "http://news.nankai.edu.cn/xlzt/system/2022/05/20/030051378.shtml"
+      },
+      {
+        "text": "",
+        "href": "http://news.nankai.edu.cn/xlzt/system/2022/10/04/030053022.shtml"
+      },
+      {
+        "text": "人事人才",
+        "href": "http://rsc.nankai.edu.cn/"
+      },
+      {
+        "text": "博士后",
+        "href": "http://rsc.nankai.edu.cn/13714/list.htm"
+      },
+      {
+        "text": "人才招聘",
+        "href": "http://rsc.nankai.edu.cn/main.htm"
+      },
+      {
+        "text": "社会科学",
+        "href": "http://ssrm.nankai.edu.cn/"
+      },
+      {
+        "text": "社会科学研究机构",
+        "href": "http://ssrm.nankai.edu.cn/kyjg.htm"
+      },
+      {
+        "text": "自然科学",
+        "href": "http://std.nankai.edu.cn/"
+      },
+      {
+        "text": "自然科学研究机构",
+        "href": "http://std.nankai.edu.cn/_t28/889/list.htm"
+      },
+      {
+        "text": "南开大学报",
+        "href": "http://weekly.nankai.edu.cn/"
+      },
+      {
+        "text": "学校概况",
+        "href": "http://www.nankai.edu.cn/162/list.htm"
+      },
+      {
+        "text": "English",
+        "href": "https://en.nankai.edu.cn/"
+      },
+      {
+        "text": "中外合作硕士项目",
+        "href": "https://graduate.nankai.edu.cn/73/list.htm"
+      },
+      {
+        "text": "远程教育",
+        "href": "https://icell.nankai.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "href": "https://lib.nankai.edu.cn/"
+      },
+      {
+        "text": "登录邮箱",
+        "href": "https://nankai.edu.cn"
+      },
+      {
+        "text": "经济日报客户端：天津市科技金融路演河西中心签约揭牌",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074911.shtml"
+      },
+      {
+        "text": "中央电视台：《青年科创+》南开校友佟泽栋进行项目路演",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074913.shtml"
+      },
+      {
+        "text": "经济日报客户端：2026天津五大道金融论坛举办",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074917.shtml"
+      },
+      {
+        "text": "大公文匯網：五大道金融論壇在天津舉行 聚焦大國創新與金融強國",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074925.shtml"
+      },
+      {
+        "text": "中国证券报：2026天津五大道金融论坛举行 共探大国创新与金融...",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074926.shtml"
+      },
+      {
+        "text": "新华社客户端：天津这场“头脑风暴”让科技金融双向赋能",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074928.shtml"
+      },
+      {
+        "text": "中国商报：金融与科技双向奔赴 一批产融合作成果落地 ——202...",
+        "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074933.shtml"
+      },
+      {
+        "text": "",
+        "href": "https://news.nankai.edu.cn/xlzt/system/2025/03/20/030066024.shtml"
+      },
+      {
+        "text": "【专题】深入学习贯彻党的二十届四中全会精神",
+        "href": "https://news.nankai.edu.cn/xlzt/system/2025/11/11/030069564.shtml"
+      },
+      {
+        "text": "南开大学首期“励能班”选调生校友返校培训举行",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074898.shtml"
+      },
+      {
+        "text": "南开大学数学科学学院人才培养工作暨省身班创办40周年发展研...",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074901.shtml"
+      },
+      {
+        "text": "《我们的南开大学》《南开大学外事工作资料汇编》 正式推出",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074908.shtml"
+      },
+      {
+        "text": "1996届校友回校“省亲” 共忆南开流金岁月",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074912.shtml"
+      },
+      {
+        "text": "根脉相连 共襄发展 南开大学致贺重庆南开中学建校90周年",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/20/030074950.shtml"
+      },
+      {
+        "text": "共话国际主权债务风险与全球货币治理 第十五届国际货币论坛在...",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/20/030074952.shtml"
+      },
+      {
+        "text": "南开大学—普林斯顿大学“中文+社会语言学”调研项目启动",
+        "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/20/030074956.shtml"
+      },
+      {
+        "text": "校友入校",
+        "href": "https://nkuaa.nankai.edu.cn/info/1020/8203.htm"
+      },
+      {
+        "text": "留学生招生",
+        "href": "https://sie.nankai.edu.cn"
+      },
+      {
+        "text": "国际教育学院",
+        "href": "https://sie.nankai.edu.cn/"
+      },
+      {
+        "text": "学校简介",
+        "href": "https://www.nankai.edu.cn/162/list.htm"
+      },
+      {
+        "text": "历史回眸",
+        "href": "https://www.nankai.edu.cn/169/list.htm"
+      },
+      {
+        "text": "现任领导",
+        "href": "https://www.nankai.edu.cn/178/list.htm"
+      },
+      {
+        "text": "历届领导",
+        "href": "https://www.nankai.edu.cn/191/list.htm"
+      },
+      {
+        "text": "亭亭而立",
+        "href": "https://www.nankai.edu.cn/2023/0901/c17475a518439/page.htm"
+      },
+      {
+        "text": "生生不息",
+        "href": "https://www.nankai.edu.cn/2023/0902/c17475a518507/page.htm"
+      },
+      {
+        "text": "念念不忘",
+        "href": "https://www.nankai.edu.cn/2025/1009/c17475a580748/page.htm"
+      },
+      {
+        "text": "光阴弦歌，此声越山海",
+        "href": "https://www.nankai.edu.cn/2025/1017/c17475a581499/page.htm"
+      },
+      {
+        "text": "南开大学附属小学2026年招生登记工作通知",
+        "href": "https://www.nankai.edu.cn/2026/0429/c17471a593993/page.htm"
+      },
+      {
+        "text": "情况说明",
+        "href": "https://www.nankai.edu.cn/2026/0501/c17471a594175/page.htm"
+      },
+      {
+        "text": "南开大学幼儿园（八里台）2026年招生工作通知",
+        "href": "https://www.nankai.edu.cn/2026/0515/c17471a595365/page.htm"
+      },
+      {
+        "text": "关于举办2026年南开大学科技周活动的通知",
+        "href": "https://www.nankai.edu.cn/2026/0522/c17471a596037/page.htm"
+      },
+      {
+        "text": "情况通报",
+        "href": "https://www.nankai.edu.cn/2026/0530/c17471a596704/page.htm"
+      },
+      {
+        "text": "2026年南开大学幼儿园托班招生简章",
+        "href": "https://www.nankai.edu.cn/2026/0530/c17471a596705/page.htm"
+      },
+      {
+        "text": "全国大学英语四、六级考试期间教学楼统一管理的通知",
+        "href": "https://www.nankai.edu.cn/2026/0610/c17471a598039/page.htm"
+      },
+      {
+        "text": "2026年暑假后勤服务指南",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17471a599773/page.htm"
+      },
+      {
+        "text": "校情通报（2026-13）",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17473a599784/page.htm"
+      },
+      {
+        "text": "校情通报（2026-14）",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17473a599785/page.htm"
+      },
+      {
+        "text": "校情通报（2026-15）",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17473a599786/page.htm"
+      },
+      {
+        "text": "校情通报（2026-16）",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17473a599787/page.htm"
+      },
+      {
+        "text": "校情通报（2026-17）",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17473a599788/page.htm"
+      },
+      {
+        "text": "校情通报（2026-18）",
+        "href": "https://www.nankai.edu.cn/2026/0705/c17473a599789/page.htm"
+      },
+      {
+        "text": "南开新闻",
+        "href": "https://www.nankai.edu.cn/208/list.htm"
+      },
+      {
+        "text": "院系机构",
+        "href": "https://www.nankai.edu.cn/212/list.htm"
+      },
+      {
+        "text": "专业学院",
+        "href": "https://www.nankai.edu.cn/213/list.htm"
+      },
+      {
+        "text": "职能部门",
+        "href": "https://www.nankai.edu.cn/214/list.htm"
+      },
+      {
+        "text": "直属和后勤单位",
+        "href": "https://www.nankai.edu.cn/216/list.htm"
+      },
+      {
+        "text": "研究机构",
+        "href": "https://www.nankai.edu.cn/217/list.htm"
+      },
+      {
+        "text": "人才师资",
+        "href": "https://www.nankai.edu.cn/218/list.htm"
+      },
+      {
+        "text": "教育教学",
+        "href": "https://www.nankai.edu.cn/223/list.htm"
+      },
+      {
+        "text": "科学研究",
+        "href": "https://www.nankai.edu.cn/230/list.htm"
+      },
+      {
+        "text": "国际交流",
+        "href": "https://www.nankai.edu.cn/236/list.htm"
+      },
+      {
+        "text": "招生就业",
+        "href": "https://www.nankai.edu.cn/239/list.htm"
+      },
+      {
+        "text": "【专题】习近平总书记视察南开大学",
+        "href": "https://www.nankai.edu.cn/_redirect?siteId=264&columnId=18056&articleId=238957"
+      },
+      {
+        "text": "服务指南",
+        "href": "https://www.nankai.edu.cn/bgdhcs/main.htm"
+      },
+      {
+        "text": "办公网",
+        "href": "https://xb.nankai.edu.cn"
+      },
+      {
+        "text": "南开大学2026年暑假值班表",
+        "href": "https://xb.nankai.edu.cn/upload/20260708161615/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A62026%E5%B9%B4%E6%9A%91%E5%81%87%E5%80%BC%E7%8F%AD%E8%A1%A8.pdf"
+      },
+      {
+        "text": "信息公开",
+        "href": "https://xxgk.nankai.edu.cn/"
+      },
+      {
+        "text": "研究生招生",
+        "href": "https://yzb.nankai.edu.cn"
+      },
+      {
+        "text": "本科招生",
+        "href": "https://zsb.nankai.edu.cn/"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/02/74/18889a304b1d95fdb15a10886b16/680f95fc-658b-4a1b-8d25-ae47a1bd8aff.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/1d/a8/8d9dafbc450f8e10fd2d65d45c05/583a8908-4ac9-4f57-9ea8-1f03a9372f34.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/4c/b9/da1c7e3045fea58c9a833784fc48/208cbf85-1d4e-4fdc-af72-3415abdca9b9.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/4c/cc/715ed93543fb822fdeb18ddccb37/ca869093-d9ba-4637-9e22-f12b2cca9406.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/4e/63/79dc74604b17b67b2d8128f898dd/59775568-ee6d-4240-a3ef-65178b027899.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/56/dd/7ff385c947d4b012f23980160504/621aa47b-f1e7-472a-abb6-8d6f408217f7.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/57/88/2a3f51954ea1a8ccc380620263ca/e3e3a15d-45a4-44c2-8636-6db47e2269ba.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/73/3d/bd9a8d2048518a4508e620171211/78842884-cd55-495f-bf30-0976d150eb1b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/74/ed/46a2123e4751b4e726b1ab6242c2/fae27996-a9d5-4119-a627-30ac7373d226.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/7e/9a/7f336f3c453daeea80eca2ba53b1/88d9d721-eb22-410a-8e0b-4df59ea2d611.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/8a/20/395610df48dda3910fbfe8b7469c/893972aa-1a1f-42e6-b571-462e41df1466.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/95/f2/6865e9f34f95b80dc155de399cd2/39202467-8e34-46c7-affa-c1aac2f2270a.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/a4/b8/a1b4e8b84b4fa9140fe3584b5960/e53bb9ce-978a-4fae-b236-155d447d6b17.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/d0/a5/afeabfef47eca76054762e147cac/cdf8667e-a9f5-4939-afd1-1b35dd88a97d.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/e4/f9/86fc64564c58bef7ab5387dec850/2b46b873-9d5f-4eee-b3ea-61fd99fb5c68.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/ea/2d/ee04bf7e437db6d675e68c800461/bbc531c9-2009-4079-8ccb-4b9ef03e427b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.nankai.edu.cn/_upload/article/images/f3/03/6cfd26ff4fc3bd7f64c5ffb315a5/91bcfafa-f8e5-4530-bae3-89de3e12e4e5.png",
+        "alt": ""
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "855524",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 2434, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.nankai.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-20T02:57:47.625636Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.nankai.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m660",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "academic_activities": [
+        {
+          "host": "经济学院 严兵（活动负责人）",
+          "place": "八里台校区 田家炳音乐厅",
+          "time": "2026-10-30 08:30",
+          "title": "中国世界经济学会2026年年会"
+        },
+        {
+          "host": "马克思主义学院 周洁",
+          "place": "津南校区 马院208教室",
+          "time": "2026-10-29 16:35",
+          "title": "高质量发展背景下的“投资于物与投资于人”"
+        },
+        {
+          "host": "统计与数据科学学院 杨帆",
+          "place": "八里台校区 范孙楼 116教室",
+          "time": "2026-10-23 16:00",
+          "title": "From killed BBM with drift to BBM: the extremal process"
+        },
+        {
+          "host": "陈省身数学研究所 景乃桓",
+          "place": "八里台校区 省身楼216教室",
+          "time": "2026-10-16 16:00",
+          "title": "Characters of GL(n,q) and vertex operators"
+        },
+        {
+          "host": "陈省身数学研究所 刘明",
+          "place": "八里台校区 省身楼203教室",
+          "time": "2026-10-16 10:00",
+          "title": "On R-matrix presentation of quantum algebra"
+        },
+        {
+          "host": "经济学院 刘刚",
+          "place": "八里台校区 经济学院八楼大会议室",
+          "time": "2026-10-15 14:30",
+          "title": "南开经济研究所双周学术讨论会：以科技强国为导向的中国科技创新体制"
+        }
+      ],
+      "campus_bulletins": [
+        {
+          "date": "2026-07-02",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17473a599789/page.htm",
+          "title": "校情通报（2026-18）"
+        },
+        {
+          "date": "2026-06-27",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17473a599788/page.htm",
+          "title": "校情通报（2026-17）"
+        },
+        {
+          "date": "2026-06-27",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17473a599787/page.htm",
+          "title": "校情通报（2026-16）"
+        },
+        {
+          "date": "2026-06-11",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17473a599786/page.htm",
+          "title": "校情通报（2026-15）"
+        },
+        {
+          "date": "2026-05-31",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17473a599785/page.htm",
+          "title": "校情通报（2026-14）"
+        },
+        {
+          "date": "2026-05-29",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17473a599784/page.htm",
+          "title": "校情通报（2026-13）"
+        }
+      ],
+      "featured_news": [
+        {
+          "date": "2019/07/05",
+          "href": "https://www.nankai.edu.cn/_redirect?siteId=264&columnId=18056&articleId=238957",
+          "title": "【专题】习近平总书记视察南开大学"
+        },
+        {
+          "date": "2025/11/11",
+          "href": "https://news.nankai.edu.cn/xlzt/system/2025/11/11/030069564.shtml",
+          "title": "【专题】深入学习贯彻党的二十届四中全会精神"
+        }
+      ],
+      "latest_news": [
+        {
+          "date": "10月20日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/20/030074950.shtml",
+          "title": "根脉相连 共襄发展 南开大学致贺重庆南开中学建校90周年"
+        },
+        {
+          "date": "10月20日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/20/030074952.shtml",
+          "title": "共话国际主权债务风险与全球货币治理 第十五届国际货币论坛在..."
+        },
+        {
+          "date": "10月20日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/20/030074956.shtml",
+          "title": "南开大学—普林斯顿大学“中文+社会语言学”调研项目启动"
+        },
+        {
+          "date": "10月19日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074912.shtml",
+          "title": "1996届校友回校“省亲” 共忆南开流金岁月"
+        },
+        {
+          "date": "10月19日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074898.shtml",
+          "title": "南开大学首期“励能班”选调生校友返校培训举行"
+        },
+        {
+          "date": "10月19日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074901.shtml",
+          "title": "南开大学数学科学学院人才培养工作暨省身班创办40周年发展研..."
+        },
+        {
+          "date": "10月19日",
+          "href": "https://news.nankai.edu.cn/ywsd/system/2026/10/19/030074908.shtml",
+          "title": "《我们的南开大学》《南开大学外事工作资料汇编》 正式推出"
+        }
+      ],
+      "media_coverage": [
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074913.shtml",
+          "title": "中央电视台：《青年科创+》南开校友佟泽栋进行项目路演"
+        },
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074928.shtml",
+          "title": "新华社客户端：天津这场“头脑风暴”让科技金融双向赋能"
+        },
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074933.shtml",
+          "title": "中国商报：金融与科技双向奔赴 一批产融合作成果落地 ——202..."
+        },
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074917.shtml",
+          "title": "经济日报客户端：2026天津五大道金融论坛举办"
+        },
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074926.shtml",
+          "title": "中国证券报：2026天津五大道金融论坛举行 共探大国创新与金融..."
+        },
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074925.shtml",
+          "title": "大公文匯網：五大道金融論壇在天津舉行 聚焦大國創新與金融強國"
+        },
+        {
+          "date": "2026-10-19",
+          "href": "https://news.nankai.edu.cn/mtnk/system/2026/10/19/030074911.shtml",
+          "title": "经济日报客户端：天津市科技金融路演河西中心签约揭牌"
+        }
+      ],
+      "notices": [
+        {
+          "date": "2026-07-08",
+          "href": "https://xb.nankai.edu.cn/upload/20260708161615/%E5%8D%97%E5%BC%80%E5%A4%A7%E5%AD%A62026%E5%B9%B4%E6%9A%91%E5%81%87%E5%80%BC%E7%8F%AD%E8%A1%A8.pdf",
+          "title": "南开大学2026年暑假值班表"
+        },
+        {
+          "date": "2026-07-05",
+          "href": "https://www.nankai.edu.cn/2026/0705/c17471a599773/page.htm",
+          "title": "2026年暑假后勤服务指南"
+        },
+        {
+          "date": "2026-06-10",
+          "href": "https://www.nankai.edu.cn/2026/0610/c17471a598039/page.htm",
+          "title": "全国大学英语四、六级考试期间教学楼统一管理的通知"
+        },
+        {
+          "date": "2026-05-31",
+          "href": "https://www.nankai.edu.cn/2026/0530/c17471a596705/page.htm",
+          "title": "2026年南开大学幼儿园托班招生简章"
+        },
+        {
+          "date": "2026-05-30",
+          "href": "https://www.nankai.edu.cn/2026/0530/c17471a596704/page.htm",
+          "title": "情况通报"
+        },
+        {
+          "date": "2026-05-22",
+          "href": "https://www.nankai.edu.cn/2026/0522/c17471a596037/page.htm",
+          "title": "关于举办2026年南开大学科技周活动的通知"
+        },
+        {
+          "date": "2026-05-16",
+          "href": "https://www.nankai.edu.cn/2026/0515/c17471a595365/page.htm",
+          "title": "南开大学幼儿园（八里台）2026年招生工作通知"
+        },
+        {
+          "date": "2026-05-01",
+          "href": "https://www.nankai.edu.cn/2026/0501/c17471a594175/page.htm",
+          "title": "情况说明"
+        },
+        {
+          "date": "2026-04-29",
+          "href": "https://www.nankai.edu.cn/2026/0429/c17471a593993/page.htm",
+          "title": "南开大学附属小学2026年招生登记工作通知"
+        }
+      ],
+      "site_name": "南开大学",
+      "site_url": "https://www.nankai.edu.cn/",
+      "special_topics": [
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/xlzt/system/2019/06/12/030033996.shtml",
+          "title": ""
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/xlzt/system/2022/05/20/030051378.shtml",
+          "title": ""
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/xlzt/system/2021/12/16/030049551.shtml",
+          "title": ""
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/xlzt/system/2022/10/04/030053022.shtml",
+          "title": ""
+        },
+        {
+          "date": "",
+          "href": "https://news.nankai.edu.cn/xlzt/system/2025/11/11/030069564.shtml",
+          "title": ""
+        },
+        {
+          "date": "",
+          "href": "https://news.nankai.edu.cn/xlzt/system/2025/03/20/030066024.shtml",
+          "title": ""
+        }
+      ],
+      "videos": [
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/sp/system/2025/11/14/030069638.shtml",
+          "title": "南开大学电视新闻2025年11月13日"
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/sp/system/2025/11/07/030069518.shtml",
+          "title": "南开大学电视新闻2025年11月6日"
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/sp/system/2025/10/23/030069270.shtml",
+          "title": "南开大学电视新闻2025年10月23日"
+        },
+        {
+          "date": "",
+          "href": "https://www.nankai.edu.cn/2025/1017/c17475a581499/page.htm",
+          "title": "光阴弦歌，此声越山海"
+        },
+        {
+          "date": "",
+          "href": "https://www.nankai.edu.cn/2025/1009/c17475a580748/page.htm",
+          "title": "念念不忘"
+        },
+        {
+          "date": "",
+          "href": "https://www.nankai.edu.cn/2023/0902/c17475a518507/page.htm",
+          "title": "生生不息"
+        },
+        {
+          "date": "",
+          "href": "https://www.nankai.edu.cn/2023/0901/c17475a518439/page.htm",
+          "title": "亭亭而立"
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/sp/system/2026/04/10/030071365.shtml",
+          "title": "南开大学电视新闻2026年4月10日"
+        },
+        {
+          "date": "",
+          "href": "http://news.nankai.edu.cn/sp/system/2025/11/24/030069781.shtml",
+          "title": "南开大学电视新闻2025年11月20日"
+        }
+      ]
+    }
+  },
+  "_ok": true
+}

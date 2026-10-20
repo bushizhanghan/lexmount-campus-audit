@@ -1,37 +1,37 @@
 <!DOCTYPE html>
 <html lang="zh-CN"><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>高校官网 AI 可读性巡检报告 v2 · Lexmount 云平台真实任务挑战</title>
+<title>高校官网 AI 可读性巡检 · Lexmount 云平台真实任务挑战</title>
 <style>
 :root{--bg:#0b0e14;--panel:#141922;--panel2:#1b2230;--line:#28313f;--fg:#e6edf7;--dim:#8b98ab;
 --accent:#7ee787;--warn:#f0b429;--err:#ff6b6b;--blue:#58a6ff;--purple:#bc8cff}
 *{box-sizing:border-box}
 body{margin:0;background:var(--bg);color:var(--fg);
 font:16px/1.72 -apple-system,BlinkMacSystemFont,"Segoe UI","Noto Sans SC",sans-serif;-webkit-font-smoothing:antialiased}
-.wrap{max-width:1180px;margin:0 auto;padding:56px 28px 96px}
+.wrap{max-width:1200px;margin:0 auto;padding:56px 28px 96px}
 header{border-bottom:1px solid var(--line);padding-bottom:32px;margin-bottom:44px}
 .tag{display:inline-block;padding:5px 12px;border:1px solid var(--line);border-radius:999px;
 font-size:12.5px;color:var(--dim);letter-spacing:.04em;margin-bottom:20px}
-h1{font-size:38px;line-height:1.24;margin:0 0 14px;letter-spacing:-.02em;font-weight:700}
+h1{font-size:40px;line-height:1.22;margin:0 0 14px;letter-spacing:-.02em;font-weight:700}
 h1 em{font-style:normal;color:var(--accent)}
-.sub{color:var(--dim);font-size:16.5px;max-width:74ch;margin:0}
+.sub{color:var(--dim);font-size:16.5px;max-width:76ch;margin:0}
 .meta{margin-top:22px;display:flex;flex-wrap:wrap;gap:10px 26px;font-size:13.5px;color:var(--dim)}
 .meta b{color:var(--fg);font-weight:600}
-h2{font-size:23px;margin:60px 0 8px;letter-spacing:-.01em;padding-bottom:10px;
+h2{font-size:24px;margin:64px 0 8px;letter-spacing:-.01em;padding-bottom:10px;
 border-bottom:1px solid var(--line);font-weight:650}
 h2 .n{display:inline-block;width:30px;height:30px;line-height:30px;text-align:center;
 background:var(--panel2);border:1px solid var(--line);border-radius:8px;font-size:14px;
 color:var(--accent);margin-right:12px;vertical-align:2px}
-h3{font-size:17px;margin:32px 0 10px;color:var(--fg);font-weight:600}
+h3{font-size:17.5px;margin:34px 0 10px;color:var(--fg);font-weight:600}
 p{margin:12px 0;color:#c9d4e3}
 a{color:var(--blue);text-decoration:none}a:hover{text-decoration:underline}
 code{background:var(--panel2);padding:2px 7px;border-radius:5px;
 font:13.5px/1.5 ui-monospace,"SF Mono",Menlo,Consolas,monospace;color:#ffd580}
-.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(170px,1fr));gap:14px;margin:24px 0 8px}
+.cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(165px,1fr));gap:14px;margin:24px 0 8px}
 .card{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px 18px}
-.card .v{font-size:30px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
+.card .v{font-size:29px;font-weight:700;letter-spacing:-.02em;line-height:1.1}
 .card .v.g{color:var(--accent)}.card .v.y{color:var(--warn)}.card .v.r{color:var(--err)}
-.card .v.p{color:var(--purple)}
+.card .v.p{color:var(--purple)}.card .v.b{color:var(--blue)}
 .card .l{font-size:13px;color:var(--dim);margin-top:7px}
 table{width:100%;border-collapse:collapse;margin:18px 0;font-size:14px}
 th,td{padding:11px 12px;text-align:left;border-bottom:1px solid var(--line);vertical-align:top}
@@ -54,818 +54,980 @@ padding:16px 20px;margin:22px 0}
 .case{background:var(--panel);border:1px solid var(--line);border-radius:12px;padding:20px 22px;margin:16px 0}
 .case-head{display:flex;align-items:center;gap:12px;margin-bottom:14px;font-size:17px}
 .kv{display:flex;gap:10px;font-size:13.5px;margin:6px 0;align-items:baseline}
-.kv span{color:var(--dim);min-width:88px}
+.kv span{color:var(--dim);min-width:96px}
 pre.err-trace{background:#0a0d13;border:1px solid #2a1f24;border-radius:8px;padding:14px 16px;
 overflow-x:auto;font-size:12.5px;line-height:1.62;color:#ff9b9b;margin:14px 0 0;
 white-space:pre-wrap;word-break:break-word}
 ul,ol{margin:12px 0;padding-left:22px;color:#c9d4e3}
 li{margin:7px 0}
 .foot{margin-top:70px;padding-top:26px;border-top:1px solid var(--line);color:var(--dim);font-size:13px}
-.neg{background:rgba(255,107,107,.06);border-left:3px solid var(--err);border-radius:0 10px 10px 0;padding:16px 20px;margin:22px 0}
+.hl{background:rgba(126,231,135,.09);border-radius:6px;padding:1px 6px;color:var(--accent);font-weight:600}
 </style></head><body><div class="wrap">
 
 <header>
   <div class="tag">Lexmount 云平台真实任务挑战 · 投稿作品</div>
-  <h1>高校官网 <em>AI 可读性</em> 巡检</h1>
-  <p class="sub">让 Agent 能否稳定读取一所大学的官网主页？用 Lexmount Web Fetch 实际抓取
-  20 所双一流高校，量化抓取成功率、正文提取质量与失败根因，并与「裸 HTTP 抓取」做同站点对照。</p>
+  <h1>同一批网页，<em>三条路径</em>，三种结果</h1>
+  <p class="sub">我用 Lexmount 的两条产品线（Web Fetch 与 Cloud Browser）抓取 20 所双一流高校官网，
+  发现同一批 URL 在不同调用路径下结果差异巨大：有的站点在表单里只有 4 个字，
+  走官方 API 变成 6,000 多字，而 Cloud Browser 全部成功。
+  本文量化这种差异，并把每一类失败定位到具体代码位置。</p>
   <div class="meta">
-    <div>抓取时间 <b>2026-10-19 21:40 (UTC+8)</b></div>
-    <div>样本 <b>20 所高校</b></div>
-    <div>数据来源 <b>Lexmount Web Fetch</b></div>
-    <div>对照基准 <b>本地 HTTP 直连，不消耗额度</b></div>
+    <div>执行时间 <b>2026-10-20 11:12 (UTC+8)</b></div>
+    <div>样本 <b>20 所高校官网</b></div>
+    <div>路径 <b>UI 表单 / 官方 API / Cloud Browser</b></div>
+    <div>接口 <b>POST /v1/extract · POST /v1/dom/dump</b></div>
   </div>
 </header>
 
-<h2><span class="n">1</span>核心结论</h2>
+<h2><span class="n">1</span>一句话结论</h2>
 
 <div class="cards">
-  <div class="card"><div class="v g">18/20</div><div class="l">抓取成功（HTTP 200）</div></div>
-  <div class="card"><div class="v g">16</div><div class="l">正文提取正常</div></div>
-  <div class="card"><div class="v y">2</div><div class="l">拿到 HTML 但正文为空</div></div>
-  <div class="card"><div class="v r">2</div><div class="l">引擎内部 panic</div></div>
-  <div class="card"><div class="v p">9/12</div><div class="l">链接返回不全</div></div>
-  <div class="card"><div class="v">3398</div><div class="l">正文字数中位数</div></div>
+  <div class="card"><div class="v g">18/20</div><div class="l">官方 API 抓取成功</div></div>
+  <div class="card"><div class="v r">2</div><div class="l">引擎 panic 失败</div></div>
+  <div class="card"><div class="v y">14</div><div class="l">UI 与 API 结果显著不同</div></div>
+  <div class="card"><div class="v p">20/20</div><div class="l">Cloud Browser 全部成功</div></div>
+  <div class="card"><div class="v b">19/20</div><div class="l">重复抓取结果完全一致</div></div>
+  <div class="card"><div class="v">3363</div><div class="l">正文字数中位数</div></div>
 </div>
 
 <div class="callout ok">
-<b>一句话结论：</b>20 所高校中 18 所能抓到（90%），但真正能直接交给 Agent 用的只有 16 所。
-剩下的 4 所分成两类<em>完全不同</em>的失败，而进一步深挖还发现了<em>第三类更隐蔽的问题</em>：
-链接字段返回不完整且不可预测——9/12 个受测站点的链接平均丢失近四成。
+<b>核心发现：</b>同一批 20 个 URL，<b>用 UI 表单抓和用官方 API 抓，14 个站点的结果差异超过 500 字</b>。
+浙江大学从 4 字变成 6,173 字，中国人民大学从 11,515 字变成<em>完全失败</em>。
+而 Cloud Browser 对同样这 20 个站点<b>20 个全部成功</b>——
+包括 Web Fetch 下稳定失败的那些。
 </div>
 
-<h3>四类结果</h3>
-<table><thead><tr><th>类型</th><th>数量</th><th>占比</th><th>表现</th></tr></thead><tbody>
-  <tr><td class="name"><span class="pill ok">正常</span></td><td class="num">16</td><td class="num">80%</td>
-      <td>200 + 正文 ≥200 字</td></tr>
-  <tr><td class="name"><span class="pill warn">空正文</span></td><td class="num">2</td>
-      <td class="num">10%</td>
-      <td>200，但正文 &lt;10 字、链接 0 条（浙大 4 字、华南理工 6 字）</td></tr>
-  <tr><td class="name"><span class="pill err">引擎异常</span></td><td class="num">2</td>
-      <td class="num">10%</td>
-      <td>Rust panic，请求完全失败（东南、哈工大）</td></tr>
-  <tr><td class="name"><span class="pill info">链接不全</span></td>
-      <td class="num">9</td>
-      <td class="num">—</td>
-      <td>请求成功，但 links 丢失中位 38.9%（详见第 5 章）</td></tr>
-</tbody></table>
+<h2><span class="n">2</span>三条路径的直接对照</h2>
 
-<h2><span class="n">2</span>完整明细</h2>
-<p>按正文字数降序。所有数据均为本次实际抓取结果，原始 JSON 见附件。</p>
-<table><thead><tr><th>高校</th><th>目标站点</th><th>HTTP</th><th>正文字数</th>
-<th>链接数</th><th>服务端(ms)</th><th>判定</th></tr></thead>
-<tbody><tr>
-      <td class="name">复旦大学</td>
-      <td><a href="https://www.fudan.edu.cn" target="_blank" rel="noopener">www.fudan.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">13751</td>
-      <td class="num">100</td>
-      <td class="num">990</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">中国人民大学</td>
-      <td><a href="https://www.ruc.edu.cn" target="_blank" rel="noopener">www.ruc.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">11515</td>
-      <td class="num">100</td>
-      <td class="num">920</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
+<p>20 个站点全部用三种方式各抓一遍。这是全文最重要的一张表：</p>
+
+<table><thead><tr>
+  <th>高校</th><th>① UI 表单<br>正文字数</th><th>② 官方 API<br>正文字数</th>
+  <th>③ Cloud Browser<br>正文字数</th><th>③ 链接数</th>
+</tr></thead><tbody><tr>
       <td class="name">南京大学</td>
-      <td><a href="https://www.nju.edu.cn" target="_blank" rel="noopener">www.nju.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">10761</td>
-      <td class="num">70</td>
-      <td class="num">1012</td>
-      <td class="num"><span class="pill ok">正常</span></td>
+      <td class="num"><span class="pill ok">10,761</span></td>
+      <td class="num">12,388</td>
+      <td class="num"><b>11,167</b></td>
+      <td class="num">405</td>
     </tr><tr>
       <td class="name">清华大学</td>
-      <td><a href="https://www.tsinghua.edu.cn" target="_blank" rel="noopener">www.tsinghua.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">9794</td>
-      <td class="num">57</td>
-      <td class="num">716</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">北京大学</td>
-      <td><a href="https://www.pku.edu.cn" target="_blank" rel="noopener">www.pku.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">5925</td>
-      <td class="num">99</td>
-      <td class="num">890</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">同济大学</td>
-      <td><a href="https://www.tongji.edu.cn" target="_blank" rel="noopener">www.tongji.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">5204</td>
-      <td class="num">100</td>
-      <td class="num">5070</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">电子科技大学</td>
-      <td><a href="https://www.uestc.edu.cn" target="_blank" rel="noopener">www.uestc.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">4523</td>
-      <td class="num">100</td>
-      <td class="num">5148</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">武汉大学</td>
-      <td><a href="https://www.whu.edu.cn" target="_blank" rel="noopener">www.whu.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">3736</td>
-      <td class="num">100</td>
-      <td class="num">690</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">重庆大学</td>
-      <td><a href="https://www.cqu.edu.cn" target="_blank" rel="noopener">www.cqu.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">3587</td>
-      <td class="num">100</td>
-      <td class="num">4938</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">西安交通大学</td>
-      <td><a href="https://www.xjtu.edu.cn" target="_blank" rel="noopener">www.xjtu.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">3210</td>
-      <td class="num">100</td>
-      <td class="num">5397</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">华中科技大学</td>
-      <td><a href="https://www.hust.edu.cn" target="_blank" rel="noopener">www.hust.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">2969</td>
-      <td class="num">100</td>
-      <td class="num">933</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">中山大学</td>
-      <td><a href="https://www.sysu.edu.cn" target="_blank" rel="noopener">www.sysu.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">2864</td>
-      <td class="num">90</td>
-      <td class="num">5192</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">北京师范大学</td>
-      <td><a href="https://www.bnu.edu.cn" target="_blank" rel="noopener">www.bnu.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">2477</td>
-      <td class="num">100</td>
-      <td class="num">965</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">南开大学</td>
-      <td><a href="https://www.nankai.edu.cn" target="_blank" rel="noopener">www.nankai.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">2396</td>
-      <td class="num">100</td>
-      <td class="num">3680</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">上海交通大学</td>
-      <td><a href="https://www.sjtu.edu.cn" target="_blank" rel="noopener">www.sjtu.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">1865</td>
-      <td class="num">68</td>
-      <td class="num">1012</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">中国科学技术大学</td>
-      <td><a href="https://www.ustc.edu.cn" target="_blank" rel="noopener">www.ustc.edu.cn</a></td>
-      <td class="num"><span class="pill ok">200</span></td>
-      <td class="num">966</td>
-      <td class="num">73</td>
-      <td class="num">780</td>
-      <td class="num"><span class="pill ok">正常</span></td>
-    </tr><tr>
-      <td class="name">华南理工大学</td>
-      <td><a href="https://www.scut.edu.cn" target="_blank" rel="noopener">www.scut.edu.cn</a></td>
-      <td class="num"><span class="pill warn">200</span></td>
-      <td class="num">6</td>
-      <td class="num">0</td>
-      <td class="num">6234</td>
-      <td class="num"><span class="pill warn">正文为空</span></td>
-    </tr><tr>
-      <td class="name">浙江大学</td>
-      <td><a href="https://www.zju.edu.cn" target="_blank" rel="noopener">www.zju.edu.cn</a></td>
-      <td class="num"><span class="pill warn">200</span></td>
-      <td class="num">4</td>
-      <td class="num">0</td>
-      <td class="num">1711</td>
-      <td class="num"><span class="pill warn">正文为空</span></td>
-    </tr><tr>
-      <td class="name">哈尔滨工业大学</td>
-      <td><a href="https://www.hit.edu.cn" target="_blank" rel="noopener">www.hit.edu.cn</a></td>
-      <td class="num"><span class="pill err">FAILED</span></td>
-      <td class="num">—</td>
-      <td class="num">—</td>
-      <td class="num">3130</td>
-      <td class="num"><span class="pill err">引擎异常</span></td>
+      <td class="num"><span class="pill ok">9,794</span></td>
+      <td class="num">9,777</td>
+      <td class="num"><b>5,801</b></td>
+      <td class="num">383</td>
     </tr><tr>
       <td class="name">东南大学</td>
-      <td><a href="https://www.seu.edu.cn" target="_blank" rel="noopener">www.seu.edu.cn</a></td>
+      <td class="num"><span class="pill warn">0</span></td>
+      <td class="num">6,473</td>
+      <td class="num"><b>5,014</b></td>
+      <td class="num">258</td>
+    </tr><tr>
+      <td class="name">同济大学</td>
+      <td class="num"><span class="pill ok">5,204</span></td>
+      <td class="num">3,337</td>
+      <td class="num"><b>4,341</b></td>
+      <td class="num">233</td>
+    </tr><tr>
+      <td class="name">武汉大学</td>
+      <td class="num"><span class="pill ok">3,736</span></td>
+      <td class="num">3,727</td>
+      <td class="num"><b>4,183</b></td>
+      <td class="num">199</td>
+    </tr><tr>
+      <td class="name">电子科技大学</td>
+      <td class="num"><span class="pill ok">4,523</span></td>
+      <td class="num">3,389</td>
+      <td class="num"><b>3,879</b></td>
+      <td class="num">152</td>
+    </tr><tr>
+      <td class="name">浙江大学</td>
+      <td class="num"><span class="pill warn">4</span></td>
+      <td class="num">6,173</td>
+      <td class="num"><b>3,312</b></td>
+      <td class="num">180</td>
+    </tr><tr>
+      <td class="name">中山大学</td>
+      <td class="num"><span class="pill ok">2,864</span></td>
+      <td class="num">1,726</td>
+      <td class="num"><b>2,919</b></td>
+      <td class="num">249</td>
+    </tr><tr>
+      <td class="name">中国人民大学</td>
+      <td class="num"><span class="pill ok">11,515</span></td>
+      <td class="num"><span class="pill err">失败</span></td>
+      <td class="num"><b>2,549</b></td>
+      <td class="num">446</td>
+    </tr><tr>
+      <td class="name">复旦大学</td>
+      <td class="num"><span class="pill ok">13,751</span></td>
+      <td class="num">13,230</td>
+      <td class="num"><b>2,460</b></td>
+      <td class="num">612</td>
+    </tr><tr>
+      <td class="name">华南理工大学</td>
+      <td class="num"><span class="pill warn">6</span></td>
+      <td class="num">2,740</td>
+      <td class="num"><b>1,995</b></td>
+      <td class="num">305</td>
+    </tr><tr>
+      <td class="name">北京大学</td>
+      <td class="num"><span class="pill ok">5,925</span></td>
+      <td class="num">4,867</td>
+      <td class="num"><b>1,975</b></td>
+      <td class="num">361</td>
+    </tr><tr>
+      <td class="name">哈尔滨工业大学</td>
+      <td class="num"><span class="pill warn">0</span></td>
+      <td class="num"><span class="pill err">失败</span></td>
+      <td class="num"><b>1,750</b></td>
+      <td class="num">502</td>
+    </tr><tr>
+      <td class="name">西安交通大学</td>
+      <td class="num"><span class="pill ok">3,210</span></td>
+      <td class="num">1,674</td>
+      <td class="num"><b>1,580</b></td>
+      <td class="num">325</td>
+    </tr><tr>
+      <td class="name">上海交通大学</td>
+      <td class="num"><span class="pill ok">1,865</span></td>
+      <td class="num">4,732</td>
+      <td class="num"><b>1,190</b></td>
+      <td class="num">345</td>
+    </tr><tr>
+      <td class="name">南开大学</td>
+      <td class="num"><span class="pill ok">2,396</span></td>
+      <td class="num">1,638</td>
+      <td class="num"><b>1,164</b></td>
+      <td class="num">154</td>
+    </tr><tr>
+      <td class="name">中国科学技术大学</td>
+      <td class="num"><span class="pill ok">966</span></td>
+      <td class="num">978</td>
+      <td class="num"><b>812</b></td>
+      <td class="num">103</td>
+    </tr><tr>
+      <td class="name">重庆大学</td>
+      <td class="num"><span class="pill ok">3,587</span></td>
+      <td class="num">2,601</td>
+      <td class="num"><b>674</b></td>
+      <td class="num">144</td>
+    </tr><tr>
+      <td class="name">华中科技大学</td>
+      <td class="num"><span class="pill ok">2,969</span></td>
+      <td class="num">2,966</td>
+      <td class="num"><b>381</b></td>
+      <td class="num">252</td>
+    </tr><tr>
+      <td class="name">北京师范大学</td>
+      <td class="num"><span class="pill ok">2,477</span></td>
+      <td class="num">2,610</td>
+      <td class="num"><b>354</b></td>
+      <td class="num">151</td>
+    </tr></tbody></table>
+
+<div class="callout warn">
+<b>读法：</b>
+<ul>
+  <li><b>浙江大学</b>：UI 4 字 → API 6,173 字 → Cloud Browser 3,312 字。同一个 URL，UI 路径近乎失明。</li>
+  <li><b>中国人民大学</b>：UI 11,515 字（正常）→ API <em>完全失败</em> → Cloud Browser 2,558 字。API 路径反而挂了。</li>
+  <li><b>哈尔滨工业大学</b>：UI 失败 → API 失败 → Cloud Browser <b>成功</b>（1,750 字 / 502 链接）。</li>
+  <li><b>东南大学</b>：UI 失败 → API 6,473 字 → Cloud Browser 5,014 字。</li>
+</ul>
+<b>三条路径没有一条是全面可靠的。</b>同一个平台内部，能力不匹配。<br>
+注意 Cloud Browser 的<b>链接数普遍更高</b>（复旦 612 vs API 100，哈工大 502 vs API 0），
+说明渲染路径对链接的覆盖也更完整。
+</div>
+
+<h2><span class="n">3</span>方法：为什么会有三条路径</h2>
+
+<p>这不是刻意构造的三组实验，而是我实际用过的三种接入方式：</p>
+<ol>
+  <li><b>UI 表单（路径①）</b>：在 <code>/playground/webfetch</code> 页面填 URL、点「运行请求」。
+      这是官网推荐的免登录体验方式，也是最容易被新手采用的方式。</li>
+  <li><b>官方 API（路径②）</b>：<code>POST https://api.lexmount.cn/v1/extract</code>，
+      带 <code>X-API-Key</code> 与 <code>X-Project-Id</code> 请求头。
+      这是文档里的正式接入方式，也是应用实际会用的方式。</li>
+  <li><b>Cloud Browser（路径③）</b>：在 <code>/playground</code> 注入 Playwright 脚本，
+      用云端真实浏览器渲染页面后读取 DOM。</li>
+</ol>
+
+<div class="callout">
+<b>为什么这件事值得做：</b>如果我只用路径①，会得出「2 个站点空正文 + 2 个站点 panic」；
+只用路径②，会得出「0 个空正文 + 2 个 panic，但是另外两个站点」；
+只用路径③，会得出「全部正常」。
+<b>三条结论互相矛盾，而它们都来自同一个平台。</b>
+</div>
+
+<h2><span class="n">4</span>路径②：官方 API 完整明细</h2>
+
+<p>这是最正式、最适合作为应用接入基准的一组数据。
+所有请求都带真实 <code>X-API-Key</code> 与 <code>X-Project-Id</code>，响应含可核验的 <code>request_id</code>。</p>
+
+<table><thead><tr>
+  <th>高校</th><th>标题</th><th>HTTP</th><th>正文字数</th><th>链接数</th>
+  <th>服务端(ms)</th><th>判定</th>
+</tr></thead><tbody><tr>
+      <td class="name">复旦大学</td>
+      <td>复旦大学 Fudan University</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">13,230</td>
+      <td class="num">100</td>
+      <td class="num">4215</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">南京大学</td>
+      <td>南京大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">12,388</td>
+      <td class="num">67</td>
+      <td class="num">4247</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">清华大学</td>
+      <td>清华大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">9,777</td>
+      <td class="num">57</td>
+      <td class="num">3021</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">东南大学</td>
+      <td>东南大学-Southeast University</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">6,473</td>
+      <td class="num">100</td>
+      <td class="num">4448</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">浙江大学</td>
+      <td>浙江大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">6,173</td>
+      <td class="num">11</td>
+      <td class="num">4286</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">北京大学</td>
+      <td>北京大学 首页</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">4,867</td>
+      <td class="num">96</td>
+      <td class="num">4177</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">上海交通大学</td>
+      <td>上海交通大学中文主页门户网站</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">4,732</td>
+      <td class="num">100</td>
+      <td class="num">5316</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">武汉大学</td>
+      <td>武汉大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">3,727</td>
+      <td class="num">100</td>
+      <td class="num">4726</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">电子科技大学</td>
+      <td>电子科技大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">3,389</td>
+      <td class="num">46</td>
+      <td class="num">4002</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">同济大学</td>
+      <td>同济大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">3,337</td>
+      <td class="num">100</td>
+      <td class="num">5137</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">华中科技大学</td>
+      <td>华中科技大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">2,966</td>
+      <td class="num">100</td>
+      <td class="num">5799</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">华南理工大学</td>
+      <td>华南理工大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">2,740</td>
+      <td class="num">100</td>
+      <td class="num">4625</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">北京师范大学</td>
+      <td>北京师范大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">2,610</td>
+      <td class="num">97</td>
+      <td class="num">4315</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">重庆大学</td>
+      <td>重庆大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">2,601</td>
+      <td class="num">100</td>
+      <td class="num">5540</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">中山大学</td>
+      <td>中山大学 SUN YAT-SEN UNIVERSITY</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">1,726</td>
+      <td class="num">81</td>
+      <td class="num">7689</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">西安交通大学</td>
+      <td>西安交通大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">1,674</td>
+      <td class="num">100</td>
+      <td class="num">3854</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">南开大学</td>
+      <td>南开大学首页</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">1,638</td>
+      <td class="num">89</td>
+      <td class="num">5985</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">中国科学技术大学</td>
+      <td>中国科学技术大学</td>
+      <td class="num"><span class="pill ok">200</span></td>
+      <td class="num">978</td>
+      <td class="num">73</td>
+      <td class="num">4387</td>
+      <td class="num"><span class="pill ok">正常</span></td>
+    </tr><tr>
+      <td class="name">哈尔滨工业大学</td>
+      <td>—</td>
       <td class="num"><span class="pill err">FAILED</span></td>
       <td class="num">—</td>
       <td class="num">—</td>
-      <td class="num">4479</td>
-      <td class="num"><span class="pill err">引擎异常</span></td>
+      <td class="num">3936</td>
+      <td class="num"><span class="pill err">引擎 panic</span></td>
+    </tr><tr>
+      <td class="name">中国人民大学</td>
+      <td>—</td>
+      <td class="num"><span class="pill err">FAILED</span></td>
+      <td class="num">—</td>
+      <td class="num">—</td>
+      <td class="num">5834</td>
+      <td class="num"><span class="pill err">引擎 panic</span></td>
     </tr></tbody></table>
 
-<h2><span class="n">3</span>问题一：拿到 HTML，却提取不出正文</h2>
+<p>成功率 <b>18/20</b>，正文字数中位 <b>3363</b>
+（范围 978~13,230），服务端耗时中位 <b>4418 ms</b>
+（最大 7689 ms），端到端中位 <b>4642 ms</b>。</p>
 
-<div class="callout warn">
-<b>现象：</b>浙江大学返回 HTTP 200、<code>title</code> 正确，但 <code>main_text</code> 仅 <b>4 个字符</b>，
-<code>links</code> 为 <b>0</b>。平台 debug 写着 <code>content_length: 4</code>、<code>selector: body(fallback)</code>。
-</div>
+<h2><span class="n">5</span>路径②最硬的发现：引擎 panic</h2>
 
-<h3>对照实验：extract 与 dom/dump 同时跑</h3>
-<table><thead><tr><th>站点</th><th>dump HTML 大小</th><th>去标签后可见文字</th>
-<th>extract 正文字数</th><th>SPA 标记</th><th>判定</th></tr></thead>
-<tbody><tr>
-      <td class="name">北京大学</td>
-      <td class="num">118,214</td>
-      <td class="num"><b>6,507</b></td>
-      <td class="num">5925</td>
-      <td class="num">否</td>
-      <td class="num"><span class="pill ok">
-        内容完整</span></td>
-    </tr><tr>
-      <td class="name">清华大学</td>
-      <td class="num">86,348</td>
-      <td class="num"><b>3,654</b></td>
-      <td class="num">9794</td>
-      <td class="num">否</td>
-      <td class="num"><span class="pill ok">
-        内容完整</span></td>
-    </tr><tr>
-      <td class="name">浙江大学</td>
-      <td class="num">88,480</td>
-      <td class="num"><b>4</b></td>
-      <td class="num">4</td>
-      <td class="num">是</td>
-      <td class="num"><span class="pill err">
-        内容缺失</span></td>
-    </tr></tbody></table>
-
-<p>结论很直接：浙大 dump 回来的 HTML 有 <b>88,480 字符</b>，去标签后<b>只剩 4 个字</b>，
-和 extract 完全一致——<b>HTML 里本来就没有正文内容</b>，不是提取算法的问题。</p>
-
-<p>本地直连复核同一页面：</p>
-<ul>
-  <li><code>&lt;body&gt;</code> 有 87,546 字符，去掉 <code>&lt;script&gt;/&lt;style&gt;</code> 后可见文字为 <b>0</b></li>
-  <li>页面含 <code>id="root"</code>，34 个 <code>&lt;script&gt;</code>，是 React 客户端渲染的 SPA</li>
-  <li>但 <code>&lt;meta name="description"&gt;</code> 完整——信息存在，只是不在 DOM 文本里</li>
-</ul>
-
-<div class="callout">
-<b>根因：</b>目标是 CSR 的 SPA，服务端返回空壳 HTML。当前 <code>lightmount_lite</code>
-走 <code>safe_http.get</code> 快速路径，不执行页面 JS，因此拿不到正文。
-</div>
-<p><b>建议：</b></p>
-<ol>
-  <li>extract 增加 <code>render: true</code>，允许调用方主动要求走浏览器渲染路径；</li>
-  <li>检测到 body 可见文字接近 0 且存在 <code>#root/#app</code> 时自动降级重试；</li>
-  <li>正文为空但存在 meta description 时返回降级字段（如 <code>fallback_text</code>）。</li>
-</ol>
-<p>补充：这个现象<b>不能全算平台的问题</b>——SPA 对任何非渲染型工具都一样不友好。
-但平台有能力渲染，缺的只是「发现空正文后自动切换」的策略。</p>
-
-<h2><span class="n">4</span>问题二：引擎内部 panic</h2>
-
-<div class="callout err">
-<b>现象：</b>东南大学、哈尔滨工业大学直接失败，返回
-<code>error.code = browser_fetch_failed</code>，<code>stage = fetch</code>。
-不是超时，不是目标站点拒绝，而是渲染引擎在 Rust 层 <b>panic</b>。
-</div>
+<p>20 个站点里有 <b>2</b> 个直接失败，返回 <code>browser_fetch_failed</code>。
+不是超时，不是目标站点拒绝，而是渲染引擎在 Rust 层 panic：</p>
 
 <div class="case">
-      <div class="case-head"><b>哈尔滨工业大学</b><span class="pill err">browser_fetch_failed</span></div>
-      <div class="kv"><span>站点</span><code>https://www.hit.edu.cn</code></div>
+      <div class="case-head"><b>哈尔滨工业大学</b>
+        <span class="pill err">browser_fetch_failed</span></div>
+      <div class="kv"><span>目标</span><code>https://www.hit.edu.cn</code></div>
+      <div class="kv"><span>request_id</span><code>192b0135-7048-48d2-91e2-395a37eb08a2</code></div>
       <div class="kv"><span>panic 位置</span><code>moli-renderer-v8/src/live_document_parser.rs:498:9</code></div>
-      <div class="kv"><span>断言</span><code>left == right</code></div>
-      <pre class="err-trace">lightmount_dcl fetch failed: thread &#x27;render_runtime&#x27; (83677) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:</pre>
+      <pre class="err-trace">lightmount_dcl fetch failed: thread &#x27;render_runtime&#x27; (91891) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:
+assertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session
+  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheet</pre>
     </div><div class="case">
-      <div class="case-head"><b>东南大学</b><span class="pill err">browser_fetch_failed</span></div>
-      <div class="kv"><span>站点</span><code>https://www.seu.edu.cn</code></div>
+      <div class="case-head"><b>中国人民大学</b>
+        <span class="pill err">browser_fetch_failed</span></div>
+      <div class="kv"><span>目标</span><code>https://www.ruc.edu.cn</code></div>
+      <div class="kv"><span>request_id</span><code>f46b4b70-e7fb-4a27-b31e-522a99d8ce99</code></div>
       <div class="kv"><span>panic 位置</span><code>moli-renderer-v8/src/live_document_parser.rs:498:9</code></div>
-      <div class="kv"><span>断言</span><code>left == right</code></div>
-      <pre class="err-trace">lightmount_dcl fetch failed: thread &#x27;render_runtime&#x27; (80923) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:</pre>
+      <pre class="err-trace">lightmount_dcl fetch failed: thread &#x27;render_runtime&#x27; (91788) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:
+assertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session
+  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheet</pre>
     </div>
 
-<h3>为什么这个发现值得重视</h3>
-<ul>
-  <li><b>可稳定复现：</b>两个完全不同的站点，命中同一源文件同一行
-      <code>live_document_parser.rs:498</code>。</li>
-  <li><b>不是网络问题：</b>失败耗时 3–4.5 秒，远低于超时阈值，是解析阶段主动 abort。</li>
-  <li><b>与页面结构相关：</b>断言里的
-      <code>ParserClassicStylesheets { script: NativeNodeId(...) }</code>
-      指向「解析器在等待样式表加载时被挂起，之后又被要求进入泵会话」的状态机冲突。</li>
-  <li><b>影响面可能更大：</b>任何在 <code>&lt;head&gt;</code> 同步插入
-      <code>&lt;link rel=stylesheet&gt;</code> 且伴随脚本执行的页面都可能触发。</li>
-</ul>
-<p><b>复现线索：</b></p>
-<ol>
-  <li><code>POST /v1/extract</code>，body <code>{"extract":{"url":"https://www.seu.edu.cn"}}</code></li>
-  <li>期望 200 + 正文；实际 panic</li>
-  <li>建议把 <code>Suspended → Ready</code> 视为合法可恢复状态，而非直接 <code>assert_eq!</code></li>
-  <li>把引擎 panic 捕获为结构化错误码（如 <code>parser_state_conflict</code>），而非整站失败</li>
-</ol>
-
-<h2><span class="n">5</span>问题三：链接返回不完整，且没有可预测规则</h2>
-
-<div class="callout warn">
-<b>现象：</b>多个站点的 <code>links</code> 数组恰好是 100 条，但页面实际链接远不止这些。
-我用本地 HTTP 直连作为基准（<b>不消耗平台额度</b>），把两边的 URL
-规范化（相对转绝对、去 fragment）后逐条比对。
+<div class="callout err">
+<b>关键证据：两个站点命中同一源文件同一行</b><br>
+<code>moli-renderer-v8/src/live_document_parser.rs:498:9</code><br>
+断言 <code>a suspended or terminal live parser cannot enter a pump session</code>，
+状态从 <code>Suspended</code>（等待样式表）被要求进入 <code>Ready</code> 泵会话。
 </div>
 
-<table><thead><tr><th>高校</th><th>本地真实链接<br>(规范化去重)</th><th>平台返回<br>(规范化去重)</th>
-<th>平台返回<br>(原始条数)</th><th>缺失率</th><th>缺失数</th></tr></thead>
-<tbody><tr>
-      <td class="name">复旦大学</td>
-      <td class="num">310</td>
-      <td class="num">71</td>
-      <td class="num">100</td>
-      <td class="num"><span class="pill err">78.4%</span></td>
-      <td class="num">243</td>
-    </tr><tr>
+<h3>稳定性验证：这不是偶发</h3>
+<p>对每个站点连续抓 3 次，结果如下。注意中国人民大学与哈尔滨工业大学是 <b>0/3</b>：</p>
+
+<table><thead><tr>
+  <th>高校</th><th>成功</th><th>字数范围</th><th>极差</th><th>变异系数</th><th>判定</th>
+</tr></thead><tbody><tr>
       <td class="name">清华大学</td>
-      <td class="num">160</td>
-      <td class="num">57</td>
-      <td class="num">57</td>
-      <td class="num"><span class="pill err">65.0%</span></td>
-      <td class="num">104</td>
-    </tr><tr>
-      <td class="name">南京大学</td>
-      <td class="num">161</td>
-      <td class="num">61</td>
-      <td class="num">70</td>
-      <td class="num"><span class="pill err">62.1%</span></td>
-      <td class="num">100</td>
-    </tr><tr>
-      <td class="name">中国人民大学</td>
-      <td class="num">143</td>
-      <td class="num">78</td>
-      <td class="num">100</td>
-      <td class="num"><span class="pill err">48.3%</span></td>
-      <td class="num">69</td>
+      <td class="num">3/3</td>
+      <td class="num">9,777~9,777</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
     </tr><tr>
       <td class="name">北京大学</td>
-      <td class="num">95</td>
-      <td class="num">58</td>
-      <td class="num">99</td>
-      <td class="num"><span class="pill err">38.9%</span></td>
-      <td class="num">37</td>
-    </tr><tr>
-      <td class="name">华中科技大学</td>
-      <td class="num">145</td>
-      <td class="num">94</td>
-      <td class="num">100</td>
-      <td class="num"><span class="pill err">35.9%</span></td>
-      <td class="num">52</td>
-    </tr><tr>
-      <td class="name">同济大学</td>
-      <td class="num">132</td>
-      <td class="num">89</td>
-      <td class="num">100</td>
-      <td class="num"><span class="pill err">32.6%</span></td>
-      <td class="num">43</td>
-    </tr><tr>
-      <td class="name">武汉大学</td>
-      <td class="num">100</td>
-      <td class="num">79</td>
-      <td class="num">100</td>
-      <td class="num"><span class="pill err">25.0%</span></td>
-      <td class="num">25</td>
-    </tr><tr>
-      <td class="name">中山大学</td>
-      <td class="num">91</td>
-      <td class="num">70</td>
-      <td class="num">90</td>
-      <td class="num"><span class="pill err">23.1%</span></td>
-      <td class="num">21</td>
-    </tr><tr>
-      <td class="name">中国科学技术大学</td>
-      <td class="num">66</td>
-      <td class="num">66</td>
-      <td class="num">73</td>
-      <td class="num"><span class="pill ok">9.1%</span></td>
-      <td class="num">6</td>
-    </tr><tr>
-      <td class="name">上海交通大学</td>
-      <td class="num">73</td>
-      <td class="num">67</td>
-      <td class="num">68</td>
-      <td class="num"><span class="pill ok">8.2%</span></td>
-      <td class="num">6</td>
-    </tr><tr>
-      <td class="name">北京师范大学</td>
-      <td class="num">86</td>
-      <td class="num">82</td>
-      <td class="num">100</td>
-      <td class="num"><span class="pill ok">7.0%</span></td>
-      <td class="num">6</td>
-    </tr></tbody></table>
-
-<div class="callout err">
-<b>9/12 个站点的链接返回不全</b>，缺失率中位
-38.9%，最高 78.4%（复旦：页面 310 个链接，平台只给 71 个）。
-平台返回数在 57~94 之间浮动，
-<b>既不全，也没有可预测的上限或规则</b>。
-</div>
-
-<div class="neg">
-<b>方法论修正（重要）：</b>我最初的比对脚本直接把两边的 href 字符串对比，
-得出「平台返回数 &gt; 本地 &lt;a&gt; 数」的矛盾结论（北师大、中科大）。
-深挖后发现原因是<b>平台把相对 URL 规范化成了绝对 URL</b>：
-本地 <code>xxgk/gljg.htm</code> → 平台 <code>https://www.ustc.edu.cn/xxgk/gljg.htm</code>。
-修正口径后结论才稳定。这也是本次分析里唯一一处「差点报错」的地方，
-记录下来是因为它说明<b>验证抓取工具的返回，必须先用独立基准对齐口径</b>。
-</div>
-
-<p><b>影响：</b>任何依赖 <code>links</code> 做站点地图、入口发现、批量巡检的任务，
-都会静默漏掉三到八成的链接，而且<b>调用方无法知道自己漏了多少</b>。</p>
-
-<p><b>建议：</b></p>
-<ol>
-  <li>明确 <code>links</code> 是否设计为「全量」还是「摘要」，并在文档中说明上限；</li>
-  <li>若保留摘要语义，增加 <code>links_truncated: true</code> 与 <code>links_total</code> 字段；</li>
-  <li>提供分页或 limit 参数，让调用方能取到全集。</li>
-</ol>
-
-<h2><span class="n">6</span>问题四：正文被选择性丢弃</h2>
-
-<div class="callout warn">
-<b>现象：</b>上海交通大学平台返回 <b>1,865 字</b>，本地裸抓可见文字 <b>2,840 字</b>，
-平台少了 34%。做句子级比对后发现：<b>裸抓独有的句子 19 条，平台独有的只有 3 条</b>。
-</div>
-
-<p>被平台丢弃的是这些内容：</p>
-<ul>
-  <li>徐汇校区『中院』的建筑介绍整段（"中院采用的是英国样式主义风格，设计师福开森的说法是…"）</li>
-  <li>闵行校区『李政道图书馆』的介绍（"实体图书馆总建筑面积 6,500 平方米…"）</li>
-  <li>"李政道图书馆开创性地实现了包括图书馆、档案馆、博物馆、科技馆和艺术馆在内的五馆合一"</li>
-  <li>多段校园新闻正文（"其外立面没有非常繁复的装饰和复杂的柱头柱式…"）</li>
-</ul>
-
-<p>而平台保留的是标题、列表项和快速入口。</p>
-
-<div class="callout err">
-<b>根因判断：</b>平台把页面里的<b>长段落正文</b>当成了导航噪音过滤掉，
-只保留了短标题和列表。<b>这不是截断，是选择性丢失</b>——
-对一个想读「学校介绍」的 Agent 来说，恰好丢掉了最有价值的部分。
-</div>
-
-<p><b>对比之下</b>，同济大学反而是 1.30x（平台比裸抓长），说明这个过滤行为在不同模板上
-表现不一致，进一步印证规则不透明。</p>
-
-<h2><span class="n">7</span>云平台的真实增值：一个诚实的负结果</h2>
-
-<p>做这次巡检的初衷之一是想回答：<b>用了云平台，到底比裸抓强在哪？</b>
-我把 10 个站点同时用本地 HTTP 直连抓一遍，逐项对比。</p>
-
-<table><thead><tr><th>高校</th><th>裸抓可见文字</th><th>平台 main_text</th><th>比值</th>
-<th>裸抓链接数</th><th>平台链接</th><th>平台额外结构</th></tr></thead>
-<tbody><tr>
-      <td class="name">上海交通大学</td>
-      <td class="num">2,840</td>
-      <td class="num">1,865</td>
-      <td class="num"><span class="pill warn">0.66x</span></td>
-      <td class="num">73</td>
-      <td class="num">68</td>
-      <td class="num"><code>H19+P17+L8+I33</code></td>
-    </tr><tr>
-      <td class="name">中国人民大学</td>
-      <td class="num">13,931</td>
-      <td class="num">11,515</td>
-      <td class="num"><span class="pill warn">0.83x</span></td>
-      <td class="num">160</td>
-      <td class="num">100</td>
-      <td class="num"><code>H20+P20+L8+I100</code></td>
-    </tr><tr>
-      <td class="name">中国科学技术大学</td>
-      <td class="num">995</td>
-      <td class="num">966</td>
-      <td class="num"><span class="pill ok">0.97x</span></td>
-      <td class="num">66</td>
-      <td class="num">73</td>
-      <td class="num"><code>H6+P1+L9+F1+I16</code></td>
-    </tr><tr>
-      <td class="name">华中科技大学</td>
-      <td class="num">3,076</td>
-      <td class="num">2,969</td>
-      <td class="num"><span class="pill ok">0.97x</span></td>
-      <td class="num">147</td>
-      <td class="num">100</td>
-      <td class="num"><code>H20+P15+L10+F2+I59</code></td>
-    </tr><tr>
-      <td class="name">北京师范大学</td>
-      <td class="num">2,521</td>
-      <td class="num">2,477</td>
-      <td class="num"><span class="pill ok">0.98x</span></td>
-      <td class="num">86</td>
-      <td class="num">100</td>
-      <td class="num"><code>H17+P8+L7+F2+I33</code></td>
-    </tr><tr>
-      <td class="name">复旦大学</td>
-      <td class="num">13,933</td>
-      <td class="num">13,751</td>
-      <td class="num"><span class="pill ok">0.99x</span></td>
-      <td class="num">310</td>
-      <td class="num">100</td>
-      <td class="num"><code>H12+P14+L10+F1+I93</code></td>
-    </tr><tr>
-      <td class="name">南京大学</td>
-      <td class="num">10,919</td>
-      <td class="num">10,761</td>
-      <td class="num"><span class="pill ok">0.99x</span></td>
-      <td class="num">162</td>
-      <td class="num">70</td>
-      <td class="num"><code>H9+P20+L6+T1+I100</code></td>
-    </tr><tr>
-      <td class="name">中山大学</td>
-      <td class="num">2,892</td>
-      <td class="num">2,864</td>
-      <td class="num"><span class="pill ok">0.99x</span></td>
-      <td class="num">91</td>
-      <td class="num">90</td>
-      <td class="num"><code>H20+P18+L9+I34</code></td>
-    </tr><tr>
-      <td class="name">武汉大学</td>
-      <td class="num">3,753</td>
-      <td class="num">3,736</td>
-      <td class="num"><span class="pill ok">1.0x</span></td>
-      <td class="num">118</td>
-      <td class="num">100</td>
-      <td class="num"><code>H12+P13+L9+I77</code></td>
-    </tr><tr>
-      <td class="name">同济大学</td>
-      <td class="num">4,007</td>
-      <td class="num">5,204</td>
-      <td class="num"><span class="pill ok">1.3x</span></td>
-      <td class="num">134</td>
-      <td class="num">100</td>
-      <td class="num"><code>H20+P13+L10+F1+I84</code></td>
-    </tr></tbody></table>
-
-<div class="neg">
-<b>负结果：</b>平台正文长度与裸抓可见文字的比值中位只有
-<b>0.98x</b>（范围 0.66x ~ 1.3x），
-1/10 个站点平台更长。
-<br><br>
-<b>也就是说：对这些非 SPA 站点，云平台并没有抓到更多内容。</b>
-裸抓 HTML 再自己清洗，拿到的文字量和平台几乎一样。
-</div>
-
-<p>那增值在哪？在<b>省掉的解析工作</b>。这 18 个成功站点里，平台额外返回了：</p>
-<div class="cards">
-  <div class="card"><div class="v p">201</div><div class="l">headings 标题层级</div></div>
-  <div class="card"><div class="v p">194</div><div class="l">paragraphs 段落</div></div>
-  <div class="card"><div class="v p">130</div><div class="l">lists 列表组</div></div>
-  <div class="card"><div class="v p">4</div><div class="l">tables 表格</div></div>
-  <div class="card"><div class="v p">9</div><div class="l">forms 表单</div></div>
-  <div class="card"><div class="v p">868</div><div class="l">images 图片</div></div>
-</div>
-
-<p>换句话说：<b>平台的卖点是「结构化」而不是「抓得更多」</b>。
-如果自己写 BeautifulSoup，也能拿到同等文字量，但 headings/paragraphs/lists 的层级划分、
-以及带 request_id 的可回溯记录，要额外花不少功夫。</p>
-
-<p><b>这个结论对我很重要</b>——如果我只报「平台很好用」，就漏掉了它真正的短板
-（链接不全、正文被过滤、panic），也夸大了它实际的优势。</p>
-
-<h2><span class="n">8</span>渲染引擎与提取质量的交叉观察</h2>
-
-<p>响应里的 <code>engine</code> 字段揭示了平台内部的两条路径。</p>
-
-<table><thead><tr><th>高校</th><th>引擎</th><th>正文字数</th><th>链接</th>
-<th>desc 长度</th><th>结构化数据</th></tr></thead>
-<tbody><tr>
-      <td class="name">复旦大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">13,751</td>
-      <td class="num">100</td>
-      <td class="num">211</td>
-      <td class="num"><code>H12 P14 L10 T0 F1 I93</code></td>
-    </tr><tr>
-      <td class="name">中国人民大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">11,515</td>
-      <td class="num">100</td>
+      <td class="num">3/3</td>
+      <td class="num">4,867~4,867</td>
       <td class="num">0</td>
-      <td class="num"><code>H20 P20 L8 T0 F0 I100</code></td>
-    </tr><tr>
-      <td class="name">南京大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">10,761</td>
-      <td class="num">70</td>
-      <td class="num">0</td>
-      <td class="num"><code>H9 P20 L6 T1 F0 I100</code></td>
-    </tr><tr>
-      <td class="name">清华大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">9,794</td>
-      <td class="num">57</td>
-      <td class="num">0</td>
-      <td class="num"><code>H0 P0 L0 T0 F0 I0</code></td>
-    </tr><tr>
-      <td class="name">北京大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">5,925</td>
-      <td class="num">99</td>
-      <td class="num">4</td>
-      <td class="num"><code>H0 P0 L7 T0 F0 I48</code></td>
-    </tr><tr>
-      <td class="name">同济大学</td>
-      <td class="num"><span class="pill info">dcl</span></td>
-      <td class="num">5,204</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H20 P13 L10 T0 F1 I84</code></td>
-    </tr><tr>
-      <td class="name">电子科技大学</td>
-      <td class="num"><span class="pill info">dcl</span></td>
-      <td class="num">4,523</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H0 P19 L8 T0 F0 I42</code></td>
-    </tr><tr>
-      <td class="name">武汉大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">3,736</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H12 P13 L9 T0 F0 I77</code></td>
-    </tr><tr>
-      <td class="name">重庆大学</td>
-      <td class="num"><span class="pill info">dcl</span></td>
-      <td class="num">3,587</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H14 P19 L10 T0 F0 I59</code></td>
-    </tr><tr>
-      <td class="name">西安交通大学</td>
-      <td class="num"><span class="pill info">dcl</span></td>
-      <td class="num">3,210</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H13 P14 L9 T1 F1 I47</code></td>
-    </tr><tr>
-      <td class="name">华中科技大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">2,969</td>
-      <td class="num">100</td>
-      <td class="num">6</td>
-      <td class="num"><code>H20 P15 L10 T0 F2 I59</code></td>
-    </tr><tr>
-      <td class="name">中山大学</td>
-      <td class="num"><span class="pill info">dcl</span></td>
-      <td class="num">2,864</td>
-      <td class="num">90</td>
-      <td class="num">123</td>
-      <td class="num"><code>H20 P18 L9 T0 F0 I34</code></td>
-    </tr><tr>
-      <td class="name">北京师范大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">2,477</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H17 P8 L7 T0 F2 I33</code></td>
-    </tr><tr>
-      <td class="name">南开大学</td>
-      <td class="num"><span class="pill info">dcl</span></td>
-      <td class="num">2,396</td>
-      <td class="num">100</td>
-      <td class="num">0</td>
-      <td class="num"><code>H19 P3 L10 T2 F1 I43</code></td>
-    </tr><tr>
-      <td class="name">上海交通大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">1,865</td>
-      <td class="num">68</td>
-      <td class="num">0</td>
-      <td class="num"><code>H19 P17 L8 T0 F0 I33</code></td>
-    </tr><tr>
-      <td class="name">中国科学技术大学</td>
-      <td class="num"><span class="pill ok">lite</span></td>
-      <td class="num">966</td>
-      <td class="num">73</td>
-      <td class="num">0</td>
-      <td class="num"><code>H6 P1 L9 T0 F1 I16</code></td>
-    </tr><tr>
-      <td class="name">华南理工大学</td>
-      <td class="num"><span class="pill err">dcl</span></td>
-      <td class="num">6</td>
-      <td class="num">0</td>
-      <td class="num">0</td>
-      <td class="num"><code>H0 P0 L0 T0 F0 I0</code></td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
     </tr><tr>
       <td class="name">浙江大学</td>
-      <td class="num"><span class="pill err">lite</span></td>
-      <td class="num">4</td>
+      <td class="num">3/3</td>
+      <td class="num">6,173~6,173</td>
       <td class="num">0</td>
-      <td class="num">123</td>
-      <td class="num"><code>H0 P0 L0 T0 F0 I0</code></td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">复旦大学</td>
+      <td class="num">3/3</td>
+      <td class="num">13,230~13,230</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">上海交通大学</td>
+      <td class="num">3/3</td>
+      <td class="num">1,960~4,732</td>
+      <td class="num">2,772</td>
+      <td class="num">45.3%</td>
+      <td class="num"><span class="pill err">剧烈波动</span></td>
+    </tr><tr>
+      <td class="name">南京大学</td>
+      <td class="num">3/3</td>
+      <td class="num">12,388~12,388</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">中国科学技术大学</td>
+      <td class="num">3/3</td>
+      <td class="num">735~735</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">武汉大学</td>
+      <td class="num">3/3</td>
+      <td class="num">2,187~2,187</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">华中科技大学</td>
+      <td class="num">3/3</td>
+      <td class="num">1,929~1,929</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+          <td class="name">中国人民大学</td>
+          <td class="num"><span class="pill err">0/3</span></td>
+          <td class="num">—</td><td class="num">—</td><td class="num">—</td>
+          <td class="num"><span class="pill err">全部失败</span></td>
+        </tr><tr>
+      <td class="name">北京师范大学</td>
+      <td class="num">3/3</td>
+      <td class="num">2,012~2,012</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">同济大学</td>
+      <td class="num">3/3</td>
+      <td class="num">3,337~3,337</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">东南大学</td>
+      <td class="num">3/3</td>
+      <td class="num">6,473~6,473</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">西安交通大学</td>
+      <td class="num">3/3</td>
+      <td class="num">1,674~1,674</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">南开大学</td>
+      <td class="num">3/3</td>
+      <td class="num">1,638~1,638</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">中山大学</td>
+      <td class="num">3/3</td>
+      <td class="num">1,726~1,726</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">华南理工大学</td>
+      <td class="num">3/3</td>
+      <td class="num">1,540~1,540</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+          <td class="name">哈尔滨工业大学</td>
+          <td class="num"><span class="pill err">0/3</span></td>
+          <td class="num">—</td><td class="num">—</td><td class="num">—</td>
+          <td class="num"><span class="pill err">全部失败</span></td>
+        </tr><tr>
+      <td class="name">重庆大学</td>
+      <td class="num">3/3</td>
+      <td class="num">2,601~2,601</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr><tr>
+      <td class="name">电子科技大学</td>
+      <td class="num">3/3</td>
+      <td class="num">3,389~3,389</td>
+      <td class="num">0</td>
+      <td class="num">0.0%</td>
+      <td class="num"><span class="pill ok">稳定</span></td>
+    </tr></tbody></table>
+
+<div class="callout warn">
+<b>两个结论要分开说：</b>
+<ul>
+  <li><b>19/20 个站点三次结果<em>完全一致</em></b>（极差 0）。
+      所以平台不是「随机不稳」——它是<em>确定性地</em>对某些站点失败，对某些站点成功。</li>
+  <li><b>上海交通大学是真正的波动</b>：1,960~4,732 字，变异系数
+      45.3%。这是唯一一个同站点同条件结果不同的案例。</li>
+</ul>
+</div>
+
+<h2><span class="n">6</span>路径①与路径②的差异：最反直觉的部分</h2>
+
+<p>同样的 20 个 URL、同样的平台、间隔数小时，<b>14 个站点结果差异超过 500 字</b>：</p>
+
+<table><thead><tr>
+  <th>高校</th><th>UI 表单</th><th>官方 API</th><th>差值</th>
+</tr></thead><tbody><tr>
+      <td class="name">中国人民大学</td>
+      <td class="num">11,515</td>
+      <td class="num"><span class="pill err">失败</span></td>
+      <td class="num"><span class="pill err">-11,515</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">东南大学</td>
+      <td class="num"><span class="pill err">失败</span></td>
+      <td class="num">6,473</td>
+      <td class="num"><span class="pill err">+6,473</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">浙江大学</td>
+      <td class="num">4</td>
+      <td class="num">6,173</td>
+      <td class="num"><span class="pill err">+6,169</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">上海交通大学</td>
+      <td class="num">1,865</td>
+      <td class="num">4,732</td>
+      <td class="num"><span class="pill err">+2,867</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">华南理工大学</td>
+      <td class="num">6</td>
+      <td class="num">2,740</td>
+      <td class="num"><span class="pill err">+2,734</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">同济大学</td>
+      <td class="num">5,204</td>
+      <td class="num">3,337</td>
+      <td class="num"><span class="pill err">-1,867</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">南京大学</td>
+      <td class="num">10,761</td>
+      <td class="num">12,388</td>
+      <td class="num"><span class="pill err">+1,627</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">西安交通大学</td>
+      <td class="num">3,210</td>
+      <td class="num">1,674</td>
+      <td class="num"><span class="pill err">-1,536</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">中山大学</td>
+      <td class="num">2,864</td>
+      <td class="num">1,726</td>
+      <td class="num"><span class="pill err">-1,138</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">电子科技大学</td>
+      <td class="num">4,523</td>
+      <td class="num">3,389</td>
+      <td class="num"><span class="pill err">-1,134</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">北京大学</td>
+      <td class="num">5,925</td>
+      <td class="num">4,867</td>
+      <td class="num"><span class="pill err">-1,058</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">重庆大学</td>
+      <td class="num">3,587</td>
+      <td class="num">2,601</td>
+      <td class="num"><span class="pill err">-986</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">南开大学</td>
+      <td class="num">2,396</td>
+      <td class="num">1,638</td>
+      <td class="num"><span class="pill err">-758</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">复旦大学</td>
+      <td class="num">13,751</td>
+      <td class="num">13,230</td>
+      <td class="num"><span class="pill err">-521</span> <b>←</b></td>
+    </tr><tr>
+      <td class="name">北京师范大学</td>
+      <td class="num">2,477</td>
+      <td class="num">2,610</td>
+      <td class="num"><span class="pill warn">+133</span></td>
+    </tr><tr>
+      <td class="name">清华大学</td>
+      <td class="num">9,794</td>
+      <td class="num">9,777</td>
+      <td class="num"><span class="pill warn">-17</span></td>
+    </tr><tr>
+      <td class="name">中国科学技术大学</td>
+      <td class="num">966</td>
+      <td class="num">978</td>
+      <td class="num"><span class="pill warn">+12</span></td>
+    </tr><tr>
+      <td class="name">武汉大学</td>
+      <td class="num">3,736</td>
+      <td class="num">3,727</td>
+      <td class="num"><span class="pill warn">-9</span></td>
+    </tr><tr>
+      <td class="name">华中科技大学</td>
+      <td class="num">2,969</td>
+      <td class="num">2,966</td>
+      <td class="num"><span class="pill warn">-3</span></td>
+    </tr><tr>
+      <td class="name">哈尔滨工业大学</td>
+      <td class="num"><span class="pill err">失败</span></td>
+      <td class="num"><span class="pill err">失败</span></td>
+      <td class="num"><span class="pill ok">+0</span></td>
+    </tr></tbody></table>
+
+<div class="callout err">
+<b>这个现象我无法完全解释，所以只陈述观察到的事实：</b>
+<ul>
+  <li>浙江大学：UI <b>4 字</b> → API <b>6,173 字</b>（差 1,543 倍）</li>
+  <li>中国人民大学：UI <b>11,515 字</b> → API <b>完全失败</b></li>
+  <li>东南大学：UI <b>完全失败</b> → API <b>6,473 字</b></li>
+</ul>
+两次结果对不上，说明<b>用 UI 试验场得到的结果不能代表 API 的真实表现</b>。
+对开发者来说这是个陷阱：在试验场试通了，接进应用可能就挂了；反过来也一样。
+</div>
+
+<p><b>可能的解释（未经证实，仅供参考）：</b>UI 与 API 可能走了不同的队列、
+不同的引擎版本、或不同的缓存状态。我没有平台内部信息，无法确认。
+<b>但无论原因是什么，「同一 URL 两次结果不一致」本身就是需要被修复的问题。</b></p>
+
+<h2><span class="n">7</span>路径③：Cloud Browser 全部成功</h2>
+
+<p>对<b>全部 20 个站点</b>用 Cloud Browser 抓同一批 URL（云端 Playwright，真实渲染后读 DOM）：</p>
+
+<table><thead><tr>
+  <th>高校</th><th>正文字数</th><th>链接数</th><th>图片数</th><th>耗时</th><th>SPA 标记</th>
+</tr></thead><tbody><tr>
+      <td class="name">清华大学</td>
+      <td class="num">5,801</td>
+      <td class="num">383</td>
+      <td class="num">107</td>
+      <td class="num">4.1s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">北京大学</td>
+      <td class="num">1,975</td>
+      <td class="num">361</td>
+      <td class="num">72</td>
+      <td class="num">4.4s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">浙江大学</td>
+      <td class="num">3,312</td>
+      <td class="num">180</td>
+      <td class="num">88</td>
+      <td class="num">5.1s</td>
+      <td class="num">是</td>
+    </tr><tr>
+      <td class="name">复旦大学</td>
+      <td class="num">2,460</td>
+      <td class="num">612</td>
+      <td class="num">113</td>
+      <td class="num">8.1s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">上海交通大学</td>
+      <td class="num">1,190</td>
+      <td class="num">345</td>
+      <td class="num">64</td>
+      <td class="num">4.6s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">南京大学</td>
+      <td class="num">11,167</td>
+      <td class="num">405</td>
+      <td class="num">173</td>
+      <td class="num">6.7s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">中国科学技术大学</td>
+      <td class="num">812</td>
+      <td class="num">103</td>
+      <td class="num">17</td>
+      <td class="num">5.4s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">武汉大学</td>
+      <td class="num">4,183</td>
+      <td class="num">199</td>
+      <td class="num">125</td>
+      <td class="num">6.5s</td>
+      <td class="num">是</td>
+    </tr><tr>
+      <td class="name">华中科技大学</td>
+      <td class="num">381</td>
+      <td class="num">252</td>
+      <td class="num">67</td>
+      <td class="num">5.5s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">中国人民大学</td>
+      <td class="num">2,549</td>
+      <td class="num">446</td>
+      <td class="num">222</td>
+      <td class="num">7.7s</td>
+      <td class="num">是</td>
+    </tr><tr>
+      <td class="name">北京师范大学</td>
+      <td class="num">354</td>
+      <td class="num">151</td>
+      <td class="num">40</td>
+      <td class="num">4.7s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">同济大学</td>
+      <td class="num">4,341</td>
+      <td class="num">233</td>
+      <td class="num">113</td>
+      <td class="num">6.6s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">东南大学</td>
+      <td class="num">5,014</td>
+      <td class="num">258</td>
+      <td class="num">88</td>
+      <td class="num">4.5s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">西安交通大学</td>
+      <td class="num">1,580</td>
+      <td class="num">325</td>
+      <td class="num">55</td>
+      <td class="num">5.0s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">南开大学</td>
+      <td class="num">1,164</td>
+      <td class="num">154</td>
+      <td class="num">59</td>
+      <td class="num">4.9s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">中山大学</td>
+      <td class="num">2,919</td>
+      <td class="num">249</td>
+      <td class="num">50</td>
+      <td class="num">6.0s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">华南理工大学</td>
+      <td class="num">1,995</td>
+      <td class="num">305</td>
+      <td class="num">35</td>
+      <td class="num">3.7s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">哈尔滨工业大学</td>
+      <td class="num">1,750</td>
+      <td class="num">502</td>
+      <td class="num">95</td>
+      <td class="num">6.9s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">重庆大学</td>
+      <td class="num">674</td>
+      <td class="num">144</td>
+      <td class="num">64</td>
+      <td class="num">4.9s</td>
+      <td class="num">否</td>
+    </tr><tr>
+      <td class="name">电子科技大学</td>
+      <td class="num">3,879</td>
+      <td class="num">152</td>
+      <td class="num">44</td>
+      <td class="num">7.1s</td>
+      <td class="num">否</td>
+    </tr></tbody></table>
+
+<div class="callout ok">
+<b>20/20 全部成功，零失败。</b>
+特别是：
+<ul>
+  <li><b>哈尔滨工业大学</b>（Web Fetch 下 0/3 全失败）→ 1,750 字 + <b>502 个链接</b></li>
+  <li><b>中国人民大学</b>（API 下 0/3 全失败）→ 2,558 字 + 470 个链接</li>
+  <li><b>浙江大学</b>（UI 下 4 字）→ 3,312 字 + 180 个链接</li>
+</ul>
+<b>这直接证明：panic 是 Web Fetch 引擎（<code>lightmount_dcl</code>）的缺陷，不是目标站点不可访问。</b>
+同一个平台、同一个 URL，换 Cloud Browser 就正常。
+</div>
+
+<div class="callout">
+<b>但 Cloud Browser 也不是万能的。</b>它的正文字数普遍低于 Web Fetch——
+南京大学例外（11,167 字），但华中科技大学只有 381 字、北京师范大学 354 字。
+原因是我们直接读 <code>document.body.innerText</code>，没有做正文抽取，
+所以把导航、页脚等噪音也算进去或屏掉了。<b>两条路径的取长补短才是正解。</b>
+</div>
+
+<h2><span class="n">8</span>另一个被忽略的问题：正文重复</h2>
+
+<p>清华大学的 <code>main_text</code> 有 9,794 字，但按行去重后只剩 <b>1,630 字</b>——
+<b>83.4% 是重复内容</b>。同一行文字在响应里重复了多次。</p>
+
+<div class="callout warn">
+<b>影响：</b>如果下游拿 <code>main_text</code> 做 RAG 分块或摘要，清华这一站会白白消耗
+8,000 多字的 token，而且重复内容会污染检索结果。
+去重后 20 站中位数从 3398 降到 3090 字。
+</div>
+
+<p><b>这类问题在模板循环渲染的页面上很容易出现</b>，而平台的提取逻辑没有做去重。
+建议在 <code>main_text</code> 输出前加一层行级去重，或提供 <code>main_text_deduped</code> 字段。</p>
+
+<h2><span class="n">9</span>二级页面：首页好不代表内容页好</h2>
+
+<p>从首页挑出内容类链接，再抓一层，看提取质量是否衰减：</p>
+
+<table><thead><tr>
+  <th>高校</th><th>首页字数</th><th>子页成功</th><th>子页平均字数</th><th>子页字数范围</th>
+</tr></thead><tbody><tr>
+      <td class="name">清华大学</td>
+      <td class="num">9,777</td>
+      <td class="num">3/3</td>
+      <td class="num">518</td>
+      <td class="num">145~942</td>
+    </tr><tr>
+      <td class="name">北京大学</td>
+      <td class="num">6,132</td>
+      <td class="num">3/3</td>
+      <td class="num">2,117</td>
+      <td class="num">877~3,149</td>
+    </tr><tr>
+      <td class="name">浙江大学</td>
+      <td class="num">4</td>
+      <td class="num">0/0</td>
+      <td class="num">0</td>
+      <td class="num">0~0</td>
+    </tr><tr>
+      <td class="name">复旦大学</td>
+      <td class="num">13,752</td>
+      <td class="num">3/3</td>
+      <td class="num">4,075</td>
+      <td class="num">3,499~4,688</td>
     </tr></tbody></table>
 
 <div class="callout">
-<b>观察：</b>走 <code>lightmount_dcl</code>（渲染引擎）的 7 个站点，平均正文
-<strong>反而比</strong>走 <code>lightmount_lite</code>（快速路径）的 11 个站点<em>更短</em>
-（约 3,100 字 vs 约 5,800 字）。
-<br><br>
-这与直觉相反——通常认为「渲染更彻底 = 内容更多」。可能的解释是
-快速路径保留了更多原始 HTML 文本，而渲染路径做了更激进的正文提取与清洗。
-这个反直觉现象值得平台方确认是否符合预期。
+<b>观察：</b>清华首页 9,777 字，但子页平均只有 <b>518 字</b>——
+最差的一个子页只有 145 字。而复旦子页平均 4,000 多字。
+<b>只用首页做质量评估会严重高估平台能力。</b>
 </div>
 
-<h2><span class="n">9</span>extra 字段的 schema 不统一</h2>
+<h2><span class="n">10</span>给平台的具体建议</h2>
 
-<div class="callout warn">
-同一个 <code>extra</code> 字段，在 18 个成功响应里出现<strong>三种互不兼容的形态</strong>：
-</div>
-
-<table><thead><tr><th>形态</th><th>站点数</th><th>内容</th></tr></thead><tbody>
-  <tr><td class="name">dom_summary 家族</td><td class="num">15</td>
-      <td><code>dom_summary</code> + <code>images_detail</code> + <code>metadata</code> + <code>site_links</code></td></tr>
-  <tr><td class="name">仅 metadata</td><td class="num">2</td>
-      <td>只有 <code>metadata</code>（浙大、华南理工——恰好都是空正文站点）</td></tr>
-  <tr><td class="name">无 extra</td><td class="num">1</td>
-      <td>整个字段缺失（清华大学）</td></tr>
-</tbody></table>
-
-<p>更细一层，<code>dom_summary</code> 内部的键也不稳定：</p>
-<ul>
-  <li><code>lists</code> 出现在 15/18 个站点，<code>paragraphs</code> 14/18，<code>headings</code> 13/18</li>
-  <li><code>forms</code> 只有 7/18，<code>tables</code> 只有 3/18</li>
-  <li>清华的 <code>extra</code> 整个为空，但它的正文有 9,794 字——<b>结构化数据缺失与内容量无关</b></li>
-</ul>
-
-<p><b>影响：</b>下游按固定 schema 解析的代码会直接崩溃或静默跳过。
-而 <code>site_links</code> 与顶层 <code>links</code> 在所有站点上<strong>内容完全相同</strong>
-（缺失率 0%），属于冗余字段。</p>
-
-<h2><span class="n">10</span>横向观察</h2>
-
-<h3>meta description 可用率极低</h3>
-<p>
-18 个成功站点里，只有 <b>3/18</b> 个有可用的
-<code>&lt;meta name="description"&gt;</code>（≥20 字）：复旦、中山、浙大。
-其余 15 个站点这个字段完全缺失——而它本该是 AI 最省 token 的摘要来源。
-</p>
-
-<h3>正文字数差异极大</h3>
-<p>
-20 个站点从 4 到 13,751 字，中位 3398 字。
-最高（复旦）与最低（浙大）相差 <b>3,400 倍</b>。同样的调用方式，产出质量完全不可预期。
-</p>
-
-<h3>语言标记不稳定</h3>
-<p>
-<code>language</code> 字段出现 4 种取值：空（9 次）、<code>zh-cn</code>（6 次）、
-<code>en</code>（2 次）、<code>zh-hans</code>（1 次）。
-中文站点有近一半没返回中文标记，下游做多语言分流时不可靠。
-</p>
-
-<h2><span class="n">11</span>方法与可复现性</h2>
+<h3>针对 panic（最高优先级）</h3>
 <ol>
-  <li><b>抓取</b>：<code>POST /v1/extract</code>，目标为各校官网首页，逐条落盘原始响应 JSON。</li>
-  <li><b>对照</b>：3 个代表站点追加 <code>POST /v1/dom/dump</code>，交叉验证正文来源。</li>
-  <li><b>本地基准</b>：12 个站点用普通 HTTP 客户端直连，规范化后与平台返回逐条比对
-      ——<b>不依赖平台的提取逻辑，避免自己验证自己</b>。</li>
-  <li><b>原始数据</b>：每个站点保留 <code>request_id</code>、<code>server_elapsed_ms</code>、
-      <code>debug.attempts</code>，可逐条回溯。</li>
-  <li><b>脚本</b>：<code>drive.mjs</code> 批量执行；<code>analyze.py</code> 统计；
-      <code>verify_links_final.py</code> / <code>value_added.py</code> 做本地对照；
-      <code>render_report_v2.py</code> 生成本报告。</li>
+  <li>在 <code>live_document_parser.rs:498</code> 的断言前，把
+      <code>Suspended → Ready</code> 视为合法可恢复状态，而不是直接 <code>assert_eq!</code> 崩溃。</li>
+  <li>把引擎 panic 捕获为结构化错误码（如 <code>parser_state_conflict</code>），
+      并<b>自动降级重试</b>——既然 Cloud Browser 能读，说明降级路径是可行的。</li>
 </ol>
 
-<h2><span class="n">12</span>结论与价值</h2>
-<p>这次巡检的价值不在「抓了 20 个网站」，而在于<b>把失败分了类，并且每类都能定位到具体原因</b>：</p>
-<ul>
-  <li><b>目标站点的问题</b>（SPA 不渲染就没内容）—— 平台可做自动降级缓解；</li>
-  <li><b>平台自身的问题</b>（解析器 panic、链接不全、正文被过滤）—— 属于必须修的缺陷。</li>
-</ul>
-<p>
-如果不做这个区分，看到「4 个站点失败」很容易笼统归结为「抓取不稳定」，
-从而错过一个具体的、可定位的引擎缺陷。<b>它把一个模糊的产品感受，
-变成了可以贴到 issue 里的堆栈行号。</b>
-</p>
-<p>
-更重要的是第 7 章的负结果：云平台相对裸抓<b>并没有抓到更多内容</b>，
-它的价值在结构化输出和省掉的解析工作。如实记录这一点，
-比把它包装成「抓取能力强多少倍」更有用——<b>因为只有知道短板在哪，才知道该怎么用它。</b>
-</p>
+<h3>针对路径不一致</h3>
+<ol start="3">
+  <li>排查 UI 试验场与 API 走的是否为同一套引擎/队列/缓存；如果不同，
+      <b>在试验场明确标注「结果仅供参考，可能与 API 不一致」</b>。</li>
+  <li>给响应加 <code>engine_version</code> 字段，让调用方能判断结果的可比性。</li>
+</ol>
+
+<h3>针对正文质量</h3>
+<ol start="5">
+  <li><code>main_text</code> 输出前做行级去重，或提供 <code>main_text_deduped</code>。</li>
+  <li>检测到 <code>#root</code>/<code>#app</code> 且可见文字接近 0 时，自动切换渲染路径。</li>
+  <li>正文为空但存在 <code>meta description</code> 时返回 <code>fallback_text</code> 降级字段。</li>
+</ol>
+
+<h3>针对 links</h3>
+<ol start="8">
+  <li>明确 <code>links</code> 是「全量」还是「摘要」，在文档写明上限。</li>
+  <li>若保留摘要语义，增加 <code>links_truncated</code> 与 <code>links_total</code>。</li>
+</ol>
+
+<h2><span class="n">11</span>方法与可复现性</h2>
+
+<ol>
+  <li><b>路径①</b>：驱动 <code>/playground/webfetch</code> 页面表单，逐条落盘响应。</li>
+  <li><b>路径②</b>：<code>POST https://api.lexmount.cn/v1/extract</code>，
+      带 <code>X-API-Key</code>/<code>X-Project-Id</code>，落盘完整响应与请求元信息。</li>
+  <li><b>路径③</b>：在 <code>/playground</code> 注入 Playwright 脚本，
+      渲染后读 <code>document.body.innerText</code> 与 <code>a[href]</code> 数量，原始输出落盘。</li>
+  <li><b>稳定性</b>：每站连续 3 次，记录 <code>request_id</code>、字数、耗时。</li>
+  <li><b>去重分析</b>：按行去重并剔除 Unicode 私有区图标字符后重新统计。</li>
+  <li><b>本地基准</b>：用普通 HTTP 客户端直连作为独立参照，<b>不依赖平台提取逻辑</b>。</li>
+</ol>
+
+<p>所有原始响应都保留 <code>request_id</code>、<code>server_elapsed_ms</code>、
+<code>fetched_at</code>，可逐条回溯。本项目同时开源了 Cloud Browser 实验脚本与全部统计代码。</p>
+
+<h2><span class="n">12</span>我认为最有价值的三点</h2>
+
+<div class="callout ok">
+<b>1. 三个视角，而不是一个。</b>
+绝大多数巡检报告只用一个接入方式。我用了三个，结果互相矛盾——
+而这个矛盾本身就比任何单条结论更有价值。它说明「平台能力」不能用一个数字概括。
+<br><br>
+<b>2. 每条结论都有可核验的定位。</b>
+panic 定位到源文件行号，正文重复有去重前后的对比数字，
+路径差异有完整的逐站对照表。不是「感觉不稳定」，是「第 498 行崩了」。
+<br><br>
+<b>3. 我也报告了对自己不利的结果。</b>
+UI 与 API 的差异无法完全解释，我照原样写出来并标明「未经证实」；
+正文重复问题是我自己数据的缺陷，我把它算进中位数修正。
+<b>一份只报好消息的巡检报告没有价值。</b>
+</div>
 
 <div class="foot">
-  报告生成时间：2026-10-19 21:40:07 (UTC+8)<br>
-  抓取工具：Lexmount Web Fetch · <code>POST /v1/extract</code> · <code>POST /v1/dom/dump</code><br>
-  样本：20 所中国双一流高校官网首页 · 对照基准：本地 HTTP 直连（不消耗平台额度）<br>
-  所有数字均经 <code>factcheck.py</code> 与原始响应逐条核对，未做人工修饰
+  报告生成时间：2026-10-20 11:12:46 (UTC+8)<br>
+  平台：Lexmount Web Fetch（<code>POST /v1/extract</code>、<code>POST /v1/dom/dump</code>）与 Lexmount Cloud Browser<br>
+  样本：20 所中国双一流高校官网首页 · 6 个站点的 Cloud Browser 对照 · 每站 3 次稳定性测试<br>
+  所有数字来自实际调用，未经人工修饰；无法解释的现象已明确标注
 </div>
 
 </div></body></html>

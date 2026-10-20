@@ -1,0 +1,34 @@
+{
+  "error": {
+    "code": "browser_fetch_failed",
+    "message": "lightmount_dcl fetch failed: thread 'render_runtime' (83677) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:\nassertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session\n  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheets { script: NativeNodeId(116) } }\n right: Ready\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace",
+    "stage": "fetch",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stderr": "Traceback (most recent call last):\n  File \"/app/fetch_core.py\", line 701, in fetch_payload\n    result = fetch_moli(\n             ^^^^^^^^^^^\n  File \"/app/fetch_core.py\", line 552, in fetch_moli\n    raise RuntimeError(message)\nRuntimeError: thread 'render_runtime' (83677) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:\nassertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session\n  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheets { script: NativeNodeId(116) } }\n right: Ready\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n",
+            "error": "thread 'render_runtime' (83677) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:\nassertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session\n  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheets { script: NativeNodeId(116) } }\n right: Ready\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace",
+            "succeeded": false
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "server_elapsed_ms": 3130
+  },
+  "request_id": "46a8985f-4286-4d76-a8a7-aaf6cc14e341",
+  "_site": {
+    "slug": "hit",
+    "name": "哈尔滨工业大学",
+    "url": "https://www.hit.edu.cn"
+  },
+  "_run": {
+    "mode": "extract",
+    "ran_at": "2026-10-19T13:15:05.425Z",
+    "wall_ms": 9222
+  }
+}

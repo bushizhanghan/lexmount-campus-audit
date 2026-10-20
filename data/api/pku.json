@@ -1,0 +1,842 @@
+{
+  "_site": {
+    "slug": "pku",
+    "name": "北京大学",
+    "url": "https://www.pku.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.pku.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 4390,
+    "sent_at": "2026-10-20T10:56:41+0800"
+  },
+  "metadata": {
+    "dom_id": "855500",
+    "template_id": "x53:46504154475c541b565a5858405b5c414c0f42424218455e401850514018565b75041b051b05",
+    "server_elapsed_ms": 4177
+  },
+  "request_id": "47524015-4a51-4dd5-99a6-e94e2a3588e5",
+  "result": {
+    "url": "https://www.pku.edu.cn",
+    "final_url": "https://www.pku.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:56:41.834765363Z",
+    "title": "北京大学 首页",
+    "description": "北京大学官方网站首页（www.pku.edu.cn），首页焦点：深切缅怀楼宇烈先生；热烈庆祝中华人民共和国成立77周年；庆祝第42个教师节；碧瓦朱檐栖云影 苍枝翠叶掩晴光；全国校园网络文明月集中展示活动；“北京大学洪堡大学日”暨两校合作40周年庆祝活动举行。栏目涵盖北大概况、招生、学部与院系、教育教学、科学研究、合作交流、校园生活、通知公告、北大史苑与档案馆藏等。",
+    "main_text": "【首页焦点】\n深切缅怀楼宇烈先生 热烈庆祝中华人民共和国成立77周年 庆祝第42个教师节 碧瓦朱檐栖云影 苍枝翠叶掩晴光 全国校园网络文明月集中展示活动 “北京大学洪堡大学日”暨两校合作40周年庆祝活动举行\n【关于 · 北大（学校数据）】\n关于 · 北大 爱国 进步 民主 科学 1898北大创办时间 73两院院士 53946全日制学生 3887教师 19444本科生 34502研究生 182本科招生专业 349博士招生专业 2541外国留学生 1000图书馆藏书（余万册） 截止时间：2026.1 var is_admin = \"\"; if( is_admin ){ $('#home_home2_newtext div div').find('button').css({'left':'-180px','bottom':'-20px'}); }\n【专题 · 网站】\n专题 · 网站 查看更多 中国共产党北京大学第十三次党员 代表大会 了解更多 研究生教育综合改革 了解更多 思政热点面对面 了解更多 新闻网纪念五四百年专题网 了解更多\n【北大 · 人物 / 北大 · 院士】\n北大 · 名人 更多 北大 · 院士 更多 吴汝纶 吴汝纶（1840—1903）安徽桐城人。同治进士。1902年任京师大学堂总教习。 张百熙 张百熙（1847—1907）湖南长沙人。同治进士。 孙家鼐 孙家鼐（1827—1909）安徽寿州（今寿县）人。咸丰状元。曾为光绪皇帝授教。 张亨嘉 张亨嘉（1847—1911）福建侯官（今福州）人。光绪进士。 林 纾 林纾（1852—1924）福建闽县（今福州）人。文学家、翻译家。曾在北京大学任教。能诗，工画，并曾从事小说、戏曲创作。 严 复 严复（1854—1921）福建侯官（今福州）人。思想家、学者、教育家。曾任京师大学堂总监督，1912年出任北京大学首任校长。 蔡元培 蔡元培（1868—1940）浙江绍兴人。民主革命家、教育家、思想家。 钟观光 钟观光（1869—1940）浙江镇海人。生物学家。曾任北京大学等校教授。 葛利普 葛利普（AmadeusWilliamGrabau）(1870—1946)美国威斯康辛州人。地质学家、古生物学家。 梁启超 梁启超（1873—1929）广东新会人。学者、思想家、政治活动家。戊戌维新运动的主要代表人物之一。 钱崇澍 钱崇澍（1883—1965）浙江海宁人。生物学家。学部委员。曾任北京大学等校教授。中国近代植物学的奠基人之一。长期从事植物学的研究和教学工作。 何育杰 何育杰（1882—1939）浙江慈谿人。物理学家。京师大学堂学生。曾任京师大学堂教习、北京大学等校教授。中国近代物理学教育的拓荒者之一。 马寅初 马寅初（1882—1982）浙江嵊县人。经济学家、教育家。学部委员。曾任北京大学教授、教务长、校长、名誉校长等。 鲁 迅 鲁迅（1881—1936）浙江绍兴人。文学家、思想家。曾受聘北京大学讲师、北大研究所国学门委员会委员。 章士钊 章士钊（1881—1973）湖南长沙人。学者、爱国民主人士。曾任北京大学教授兼图书馆主任等。1903年担任《苏报》主笔，宣传反清革命。 马 衡 马衡（1881—1955）浙江鄞县人。金石学家、考古学家。曾任北京大学教授、北大研究所国学门考古研究室主任兼导师。 陈 垣 陈垣（1880—1971）广东新会人。历史学家。学部委员。曾任北京大学教授、北大研究所国学门导师，辅仁大学及北京师范大学校长等。 冯祖荀 冯祖荀（1880—约1940）浙江杭州人。数学家。京师大学堂学生。曾任北京大学教授、系主任。中国近代高等数学教学体系的奠基人之一。 章鸿钊 章鸿钊（1877—1951）浙江湖州人。地质学家。曾任京师大学堂教习、北京大学教授等。中国近代地质学的奠基人之一。 俞同奎 俞同奎（1876—1962）浙江德清人。化学家。早年入京师大学堂学习。曾任京师大学堂教习、北京大学教授、化学系主任等。 马叙伦 马叙伦（1884—1970）浙江杭州人。语言文字学家、教育家。学部委员。曾任北京大学教授。 刘师培 刘师培（1884—1919）江苏仪征人。学者。曾任北京大学教授。1905年参与编辑《国粹学报》，为主要撰稿人。 夏元瑮 夏元瑮（1884—1944）浙江杭州人。物理学家。历任北京大学教授、理科学长、物理系主任等。中国近代物理学教育的拓荒者之一。 萧友梅 萧友梅（1884—1940）广东香山（今中山）人。音乐家。曾任北京大学国文系讲师、音乐研究会导师、音乐传习所教务主任等。 熊十力 熊十力（1884—1968）湖北黄冈人。哲学家。曾任北京大学等校教授。 马文昭 马文昭（1886—1965）河北保定人。医学家。学部委员。曾任北京大学医学院教授、院长，中国解剖学会理事长等。 任鸿隽 任鸿隽（1886—1961）浙江吴兴（今湖州）人。化学家、教育家。曾任北京大学教授，中央研究院总干事兼化学研究所所长等。 沈兼士 沈兼士（1886—1947）浙江吴兴（今湖州）人。语言学家。曾任北京大学国文系教授、北大研究所国学门主任。 秉 志 秉志（1886—1965）河南开封人。满族。生物学家。学部委员。京师大学堂毕业。曾任北京大学教授。中国近代生物学的奠基人之一。 赵柏林 赵柏林，1929年4月生，辽宁辽中人。大气科学和遥感学家、教育家、中国科学院院士。1952年起在北京大学工作，1979年起任教授。 了解更多 叶大年 叶大年，男，1939年7月生，汉族，中共党员，民盟盟员，广东省鹤山市人。 了解更多 陶 澍 陶澍，1950年8月生，江苏无锡人。地理学家、环境学家、教育家，中国科学院院士。 了解更多 翟中和 翟中和(1930.8.18-2023.2.10)，男，汉族，江苏凓阳人，中共党员。1950-1951年在清华大学学习。 了解更多 吴立新 吴立新，男，1966年9月生，汉族，安徽桐城人。 了解更多 韩济生 韩济生，1928年7月生，浙江萧山人。神经生理学家，疼痛学家，中国科学院院士。1953年毕业于上海医学院。 了解更多 韩启德 韩启德，1945年7月生，浙江慈溪人。病理生理学家，中国科学院院士，发展中国家科学院院士，美国医学科学院外籍院士。 了解更多 许智宏 许智宏，1942年10月生，江苏无锡人。植物生理学家、教育家，中国科学院院士。1965年毕业于北京大学。 了解更多 郑永飞 郑永飞，男，1959年10月生，民族汉，安徽省长丰县人。 了解更多 朱作言 朱作言，男，1941年9月出生，汉族，湖南省澧县人。1965年毕业于北京大学生物系，1980年毕业于中国科学院研究生院。 了解更多 方精云 方精云，1959年7月生，安徽怀宁人。生态学家、教育家，中国科学院院士、欧洲科学院外籍院士、发展中国家科学院院士。 了解更多 童坦君 童坦君（1934.8.15-2022.12.25），男，汉族，浙江慈溪人。 了解更多 周忠和 周忠和，男，1965年1月出生，江苏扬州人。 了解更多 张培震 张培震，男，中共党员，1955年12月出生，河南省淮滨县人。 了解更多\n【北大 · 史苑】\n北大 · 史苑 讲述北大的历史故事与精神传承 京师大学堂与民国初年的北京大学 北京大学创建于1898年，初名京师大学堂，是中国近代史上第一所国立综合性大学。 五四前后的北京大学 1916年12月，著名教育家、思想家、民主主义革命家蔡元培出任北京大学校长，对北大进行了卓有成效的改革。众多革新人物和学术大师云集北大，倡导民主与科学精神，弘扬爱国与进步思想，促进新思潮的传播和学术的繁荣，使北大成为新文化运动的中心，五四运动的发祥地，传播马克思主义和创建北方地区中国共产党组织的最初基地。这是北大发展史上一个辉煌时期，奠定了北大的光荣革命传统和优良学术传统。 三十年代的北京大学 1927至1929年，北京大学处于动荡之中。奉系军阀攫取北京政权后，实行恐怖统治，悍然杀害了北大教授李大钊等人，把具有民主传统的北京大学视为眼中钉，1927年8月颁令将北京大学与北京其他国立八校合并组成国立京师大学校。 西南联合大学时期的北京大学 1937年7月7日，卢沟桥事变爆发。月底，北平、天津相继陷落。9月，奉教育部令，北京大学与清华大学、南开大学南迁至湘，合组长沙临时大学。 复员后的北京大学 复员后的北京大学迁回北平原校址。1946年7月，新任校长胡适（蒋梦麟辞去北大校长职务后，1945年9月由胡适接替，胡适到任前由傅斯年代行）宣布北大重要教职员人选。1946年7、8月，北大奉教育部令先后接收了北平临时大学补习班一至四分班及第六分班，1947年8月，北洋大学北平部并入北京大学。 新中国成立后十七年的北京大学 1949年10月1日，中华人民共和国成立，北京大学步入新纪元。1949年1月31日，北平和平解放。2月28日，北平军事管制委员会文化接管委员会正式接管北大。5月4日，北大校务委员会成立，汤用彤任主席。 “文化大革命”时期的北京大学 1966年5月16日，中共中央通过了“五·一六通知”，标志着“文化大革命”的开始。在康生及其妻曹轶欧的策划下，哲学系聂元梓等于5月25日贴出了题为《宋硕、陆平、彭珮云在文化革命中究竟干些什么？》的大字报，诬陷、攻击北京大学党委和北京市委。6月1日，中央人民广播电台根据毛泽东主席的批示，全文播发了这张大字报。当晚，华北局派驻北京大学工作组进校。 改革开放时期的北京大学 1976年10月，中共中央一举粉碎“四人帮”，结束了十年“文革”动乱。党和政府对北京大学十分关心，邓小平等中央领导同志多次接见校领导，对北大工作作出重要指示。北京大学遵照党中央拨乱反正的方针，积极开展对教育界“两个估计”的批判；踊跃参加实践是检验真理唯一标准问题的大讨论... 步入21世纪的北京大学 创建世界一流大学是北京大学面向21世纪提出的宏伟规划，是世纪之初指导北京大学各项建设的纲领。在国家“211工程”和“985工程”建设经费的支持下，北大以创建世界一流大学为目标，坚持“追求真理、追求卓越、培养人才、繁荣学术、服务人民、造福社会”的理念... 了解更多北大史苑\n【档案 · 馆藏】\n档案 · 馆藏 了解北大的风物 风骨 风范 校史馆 地质博物馆 生物标本馆 赛克勒博物馆 档案馆\n【校园 · 生活】\n校园 · 生活 感受流光溢彩的青春 .home7 .d1{background-image:url(/Uploads/Picture/2025/09/15/s68c77d7a66e70.jpg);} 艺术与文化 #d1{background-image:url(/Uploads/Picture/2019/12/20/s5dfc40dc928fb.jpg);} 体育与健康 #d2{background-image:url(/Uploads/Picture/2025/09/17/s68ca4cd3c10bb.png);} 学生社团 校历 会议讲座 #d5{background-image:url(/Uploads/Picture/2019/12/18/s5dfa062371400.jpg);} 电影演出 #d6{background-image:url(/Uploads/Picture/2019/12/18/s5dfa063869f70.jpg);}\n【合作 · 交流】\n合作 · 交流 国际交流 国际交流 国际交流 国际交流 国际交流 国内合作 教育基金会 港澳台交流 北京论坛 查看更多\n【参观 · 导览】\n参观 · 导览 参观预约 建筑一览 校园地图 校园设施\n（注：北大要闻、学术 · 科研、通知公告、北大声明、媒体北大、德赛论坛等栏目由页面脚本动态加载，在静态页面中为空。）",
+    "author": "北京大学",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "了解更多",
+        "href": "http://news.pku.edu.cn/stkj/sp/spzj/szrdmdm/index.htm"
+      },
+      {
+        "text": "了解更多",
+        "href": "http://news.pku.edu.cn/ztrd/yjsjyzhgg/index.htm"
+      },
+      {
+        "text": "了解更多",
+        "href": "http://news.pku.edu.cn/ztrd/zggcdbjdxdsscdydbdh/index.htm"
+      },
+      {
+        "text": "了解更多",
+        "href": "http://news.pku.edu.cn/ztwz111/bnws/"
+      },
+      {
+        "text": "北京论坛",
+        "href": "http://www.bjf.pku.edu.cn/"
+      },
+      {
+        "text": "华文慕课",
+        "href": "http://www.chinesemooc.org/"
+      },
+      {
+        "text": "继续教育",
+        "href": "http://www.oce.pku.edu.cn/cms"
+      },
+      {
+        "text": "国际交流",
+        "href": "http://www.oir.pku.edu.cn/"
+      },
+      {
+        "text": "校友",
+        "href": "http://www.pku.org.cn/"
+      },
+      {
+        "text": "捐赠",
+        "href": "http://www.pkuef.org/"
+      },
+      {
+        "text": "赛克勒博物馆",
+        "href": "https://amsm.pku.edu.cn/"
+      },
+      {
+        "text": "未名BBS",
+        "href": "https://bbs.pku.edu.cn/"
+      },
+      {
+        "text": "生物标本馆",
+        "href": "https://biomus.pku.edu.cn/"
+      },
+      {
+        "text": "教学网",
+        "href": "https://course.pku.edu.cn"
+      },
+      {
+        "text": "课表查询",
+        "href": "https://dean.pku.edu.cn/service/web/courseSearch.php"
+      },
+      {
+        "text": "工学部",
+        "href": "https://fe.pku.edu.cn/"
+      },
+      {
+        "text": "地质博物馆",
+        "href": "https://geomuseum.pku.edu.cn/"
+      },
+      {
+        "text": "国内合作",
+        "href": "https://gnhz.pku.edu.cn/"
+      },
+      {
+        "text": "港澳台交流",
+        "href": "https://hmt.pku.edu.cn/"
+      },
+      {
+        "text": "招聘",
+        "href": "https://hr.pku.edu.cn/rczp/jxky/index.htm"
+      },
+      {
+        "text": "网络",
+        "href": "https://its.pku.edu.cn/"
+      },
+      {
+        "text": "燕云直播",
+        "href": "https://liveclass.org.cn"
+      },
+      {
+        "text": "邮箱",
+        "href": "https://mail.pku.edu.cn/"
+      },
+      {
+        "text": "新闻网",
+        "href": "https://news.pku.edu.cn/"
+      },
+      {
+        "text": "图片网",
+        "href": "https://photo.pku.edu.cn/"
+      },
+      {
+        "text": "新闻",
+        "href": "https://pkunews.pku.edu.cn/"
+      },
+      {
+        "text": "门户",
+        "href": "https://portal.pku.edu.cn/"
+      },
+      {
+        "text": "",
+        "href": "https://www.bjf.pku.edu.cn/"
+      },
+      {
+        "text": "医学部",
+        "href": "https://www.bjmu.edu.cn/"
+      },
+      {
+        "text": "档案馆",
+        "href": "https://www.dag.pku.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "href": "https://www.lib.pku.edu.cn"
+      },
+      {
+        "text": "",
+        "href": "https://www.oir.pku.edu.cn/"
+      },
+      {
+        "text": "标识系统",
+        "href": "https://www.pku.edu.cn/IdentificationSystem.html"
+      },
+      {
+        "text": "北大概况",
+        "href": "https://www.pku.edu.cn/about.html"
+      },
+      {
+        "text": "校园生活",
+        "href": "https://www.pku.edu.cn/campus.html"
+      },
+      {
+        "text": "管理服务",
+        "href": "https://www.pku.edu.cn/campus.html#item1"
+      },
+      {
+        "text": "艺术生活",
+        "href": "https://www.pku.edu.cn/campus.html#item2"
+      },
+      {
+        "text": "讲座演出",
+        "href": "https://www.pku.edu.cn/campus.html#item3"
+      },
+      {
+        "text": "菁菁校园",
+        "href": "https://www.pku.edu.cn/campus.html#item4"
+      },
+      {
+        "text": "体育健康",
+        "href": "https://www.pku.edu.cn/campus.html#item5"
+      },
+      {
+        "text": "社团活动",
+        "href": "https://www.pku.edu.cn/campus.html#item6"
+      },
+      {
+        "text": "校历",
+        "href": "https://www.pku.edu.cn/campus.html#p3a"
+      },
+      {
+        "text": "档案馆藏",
+        "href": "https://www.pku.edu.cn/campus.html#science3"
+      },
+      {
+        "text": "燕园特写",
+        "href": "https://www.pku.edu.cn/close-up_pku2026.html"
+      },
+      {
+        "text": "合作交流",
+        "href": "https://www.pku.edu.cn/cooperation.html"
+      },
+      {
+        "text": "学部与院系",
+        "href": "https://www.pku.edu.cn/department.html"
+      },
+      {
+        "text": "理学部",
+        "href": "https://www.pku.edu.cn/department.html#item1"
+      },
+      {
+        "text": "信息科学与技术学部",
+        "href": "https://www.pku.edu.cn/department.html#item2"
+      },
+      {
+        "text": "人文学部",
+        "href": "https://www.pku.edu.cn/department.html#item3"
+      },
+      {
+        "text": "社会科学学部",
+        "href": "https://www.pku.edu.cn/department.html#item4"
+      },
+      {
+        "text": "经济与管理学部",
+        "href": "https://www.pku.edu.cn/department.html#item5"
+      },
+      {
+        "text": "医学部",
+        "href": "https://www.pku.edu.cn/department.html#item6"
+      },
+      {
+        "text": "跨学科类",
+        "href": "https://www.pku.edu.cn/department.html#item7"
+      },
+      {
+        "text": "深圳研究生院",
+        "href": "https://www.pku.edu.cn/department.html#item8"
+      },
+      {
+        "text": "北京大学创建于1898年，初名京师大学堂，是中国近代史上第一所国立综合性大学。",
+        "href": "https://www.pku.edu.cn/detail/902.html"
+      },
+      {
+        "text": "1916年12月，著名教育家、思想家、民主主义革命家蔡元培出任北京大学校长，对北大进行了卓有成效的改革。众多革新人物和学术大师云集北大，倡导民主与科学精神，弘扬爱国与进步思想，促进新思潮的传播和学术的繁荣，使北大成为新文化运动的中心，五四运动的发祥地，传播马克思主义和创建北方地区中国共产党组织的最初基地。这是北大发展史上一个辉煌时期，奠定了北大的光荣革命传统和优良学术传统。",
+        "href": "https://www.pku.edu.cn/detail/905.html"
+      },
+      {
+        "text": "1927至1929年，北京大学处于动荡之中。奉系军阀攫取北京政权后，实行恐怖统治，悍然杀害了北大教授李大钊等人，把具有民主传统的北京大学视为眼中钉，1927年8月颁令将北京大学与北京其他国立八校合并组成国立京师大学校。",
+        "href": "https://www.pku.edu.cn/detail/907.html"
+      },
+      {
+        "text": "1937年7月7日，卢沟桥事变爆发。月底，北平、天津相继陷落。9月，奉教育部令，北京大学与清华大学、南开大学南迁至湘，合组长沙临时大学。",
+        "href": "https://www.pku.edu.cn/detail/908.html"
+      },
+      {
+        "text": "复员后的北京大学迁回北平原校址。1946年7月，新任校长胡适（蒋梦麟辞去北大校长职务后，1945年9月由胡适接替，胡适到任前由傅斯年代行）宣布北大重要教职员人选。1946年7、8月，北大奉教育部令先后接收了北平临时大学补习班一至四分班及第六分班，1947年8月，北洋大学北平部并入北京大学。",
+        "href": "https://www.pku.edu.cn/detail/909.html"
+      },
+      {
+        "text": "1949年10月1日，中华人民共和国成立，北京大学步入新纪元。1949年1月31日，北平和平解放。2月28日，北平军事管制委员会文化接管委员会正式接管北大。5月4日，北大校务委员会成立，汤用彤任主席。",
+        "href": "https://www.pku.edu.cn/detail/910.html"
+      },
+      {
+        "text": "1966年5月16日，中共中央通过了“五·一六通知”，标志着“文化大革命”的开始。在康生及其妻曹轶欧的策划下，哲学系聂元梓等于5月25日贴出了题为《宋硕、陆平、彭珮云在文化革命中究竟干些什么？》的大字报，诬陷、攻击北京大学党委和北京市委。6月1日，中央人民广播电台根据毛泽东主席的批示，全文播发了这张大字报。当晚，华北局派驻北京大学工作组进校。",
+        "href": "https://www.pku.edu.cn/detail/911.html"
+      },
+      {
+        "text": "1976年10月，中共中央一举粉碎“四人帮”，结束了十年“文革”动乱。党和政府对北京大学十分关心，邓小平等中央领导同志多次接见校领导，对北大工作作出重要指示。北京大学遵照党中央拨乱反正的方针，积极开展对教育界“两个估计”的批判；踊跃参加实践是检验真理唯一标准问题的大讨论...",
+        "href": "https://www.pku.edu.cn/detail/912.html"
+      },
+      {
+        "text": "创建世界一流大学是北京大学面向21世纪提出的宏伟规划，是世纪之初指导北京大学各项建设的纲领。在国家“211工程”和“985工程”建设经费的支持下，北大以创建世界一流大学为目标，坚持“追求真理、追求卓越、培养人才、繁荣学术、服务人民、造福社会”的理念...",
+        "href": "https://www.pku.edu.cn/detail/913.html"
+      },
+      {
+        "text": "教育教学",
+        "href": "https://www.pku.edu.cn/education.html"
+      },
+      {
+        "text": "管理部门",
+        "href": "https://www.pku.edu.cn/education.html#bdgw_bb"
+      },
+      {
+        "text": "师资队伍",
+        "href": "https://www.pku.edu.cn/education.html#p1"
+      },
+      {
+        "text": "课程设置",
+        "href": "https://www.pku.edu.cn/education.html#p2"
+      },
+      {
+        "text": "海外学习",
+        "href": "https://www.pku.edu.cn/education.html#p3"
+      },
+      {
+        "text": "证书验证",
+        "href": "https://www.pku.edu.cn/education.html#p4"
+      },
+      {
+        "text": "组织机构",
+        "href": "https://www.pku.edu.cn/group.html"
+      },
+      {
+        "text": "历史名人",
+        "href": "https://www.pku.edu.cn/historyFamous.html"
+      },
+      {
+        "text": "学生",
+        "href": "https://www.pku.edu.cn/home/student.html"
+      },
+      {
+        "text": "领导信箱",
+        "href": "https://www.pku.edu.cn/leader_email.html"
+      },
+      {
+        "text": "现任领导",
+        "href": "https://www.pku.edu.cn/leaders.html"
+      },
+      {
+        "text": "更多",
+        "href": "https://www.pku.edu.cn/mathScience.html"
+      },
+      {
+        "text": "历任领导",
+        "href": "https://www.pku.edu.cn/old_secretary.html"
+      },
+      {
+        "text": "招生",
+        "href": "https://www.pku.edu.cn/recruit.html"
+      },
+      {
+        "text": "研究生",
+        "href": "https://www.pku.edu.cn/recruit.html#graduateStudent"
+      },
+      {
+        "text": "留学生",
+        "href": "https://www.pku.edu.cn/recruit.html#overseasStudent"
+      },
+      {
+        "text": "学生奖助信息",
+        "href": "https://www.pku.edu.cn/recruit.html#prize"
+      },
+      {
+        "text": "暑期学校",
+        "href": "https://www.pku.edu.cn/recruit.html#summer"
+      },
+      {
+        "text": "本科生",
+        "href": "https://www.pku.edu.cn/recruit.html#undergraduate"
+      },
+      {
+        "text": "科学研究",
+        "href": "https://www.pku.edu.cn/scientificResearch.html"
+      },
+      {
+        "text": "科研成果",
+        "href": "https://www.pku.edu.cn/scientificResearch.html#p1"
+      },
+      {
+        "text": "研究机构",
+        "href": "https://www.pku.edu.cn/scientificResearch.html#p2"
+      },
+      {
+        "text": "管理部门",
+        "href": "https://www.pku.edu.cn/scientificResearch.html#p3"
+      },
+      {
+        "text": "了解更多北大史苑",
+        "href": "https://www.pku.edu.cn/shiYuan.html"
+      },
+      {
+        "text": "教职工",
+        "href": "https://www.pku.edu.cn/teachers.html"
+      },
+      {
+        "text": "访客",
+        "href": "https://www.pku.edu.cn/visit.html"
+      },
+      {
+        "text": "校园地图",
+        "href": "https://www.pku.edu.cn/visit.html#p2"
+      },
+      {
+        "text": "建筑一览",
+        "href": "https://www.pku.edu.cn/visit.html#p3"
+      },
+      {
+        "text": "校园设施",
+        "href": "https://www.pku.edu.cn/visit.html#p4"
+      },
+      {
+        "text": "校历",
+        "href": "https://www.pku.edu.cn/visit.html#p5"
+      },
+      {
+        "text": "捐赠",
+        "href": "https://www.pkuef.org/"
+      },
+      {
+        "text": "校史馆",
+        "href": "https://www.xsg.pku.edu.cn/"
+      },
+      {
+        "text": "信息公开",
+        "href": "https://xxgk.pku.edu.cn/"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de4f607bf653.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de500acdfc1e.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de500f9f06e1.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5012904f86.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5014090aaf.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de501516ad8e.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5016213974.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de501894e068.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5022f39e76.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5104a776fd.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de510a50473c.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5111de90d5.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5115c58d8f.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de511f9e8fa1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5123b81e45.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de51252c0e48.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5126a8d7e8.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5128b9ad22.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de512a6beccc.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de512e59addf.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de513981a55e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de513c4a5e8e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de513d996958.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de513ebbf7de.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de51400ae1ad.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de515a43b83e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de515c520884.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de515e036049.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/02/s5de5160147ada.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/03/s5de58ada3ef15.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/03/s5de58b3611072.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/03/s5de58b7aaab99.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/03/s5de58bbebf671.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/04/s5de787b4aa8e6.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/08/s5dece45448176.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/10/s5def6d259b63a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f74ac6278.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f75250718.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f7599c6d9.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f76242aa1.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f76e47b98.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f776cce7f.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f77f68035.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f7876fead.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1f78fee42b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1faac4cbd2.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1fab557116.jpg",
+        "alt": "22"
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1fac2d0547.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1faddd5026.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1faed4ff5a.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1fafeebc5b.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1fb0bd6967.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1fb1943a41.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/12/s5df1fb233e9d7.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2019/12/13/s5df3015e86a4e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/01/02/s5e0d4adcdcc62.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/05/s5e60896d4ab44.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/05/s5e6096a03c52e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/05/s5e6096b20b013.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e620562db589.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e62092b6a48f.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e6209434cb54.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e6209586b11e.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e62096d74c6f.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e6209859a2ba.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2020/03/06/s5e62099ecebc4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2023/09/08/s64fa9a8e90378.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2025/05/19/s682a984d0a989.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2025/09/08/s68be9d6248d23_2630_2627_0_1110.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2025/09/08/s68be9e2039192_831_832_0_336.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2025/09/17/s68ca46da983a4_1071_790_200_0.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2025/11/03/s6908668fcb196_1314_964_0_0.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2025/12/18/s69438057c16a4_2268_2268_0_1679.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/07/06/s6a4b52ba8c8e6_771_770_6_4.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/07/06/s6a4b52c9b30f0.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/07/24/s6a6313e3f1233.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/07/24/s6a6313f050020.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/08/31/s6a94df93288fa.gif",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/08/31/s6a94dfb74cd90.gif",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/09/07/s6a9e113b05baf.jpg",
+        "alt": "庆祝第42个教师节"
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/09/11/s6aa392bbd461e.jpg",
+        "alt": "碧瓦朱檐栖云影 苍枝翠叶掩晴光"
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/09/14/s6aa7876dd0b6f.jpg",
+        "alt": "“北京大学洪堡大学日”暨两校合作40周年庆祝活动举行"
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/09/14/s6aa7cd44c6616.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/09/23/s6ab3b434a9471.jpg",
+        "alt": "全国校园网络文明月集中展示活动"
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/09/30/s6abccc967b33e.jpg",
+        "alt": "热烈庆祝中华人民共和国成立77周年"
+      },
+      {
+        "src": "https://www.pku.edu.cn/Uploads/Picture/2026/10/10/s6ac99f331a31d.jpg",
+        "alt": "深切缅怀楼宇烈先生"
+      }
+    ],
+    "engine": "lightmount_lite",
+    "dom_id": "855500",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_lite",
+            "command": "safe_http.get",
+            "stdout": "{\"selected\": \"fast\", \"content_length\": 728, \"selector\": \"[class*=\\\"body\\\"]\", \"status\": 200, \"final_url\": \"https://www.pku.edu.cn/\"}",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "banner_headlines": [
+        "深切缅怀楼宇烈先生",
+        "热烈庆祝中华人民共和国成立77周年",
+        "庆祝第42个教师节",
+        "碧瓦朱檐栖云影 苍枝翠叶掩晴光",
+        "全国校园网络文明月集中展示活动",
+        "“北京大学洪堡大学日”暨两校合作40周年庆祝活动举行"
+      ],
+      "canonical_url": "https://www.pku.edu.cn/",
+      "meta_description": "北京大学",
+      "quick_stats": [
+        {
+          "label": "北大创办时间",
+          "value": "1898"
+        },
+        {
+          "label": "两院院士",
+          "value": "73"
+        },
+        {
+          "label": "全日制学生",
+          "value": "53946"
+        },
+        {
+          "label": "教师",
+          "value": "3887"
+        },
+        {
+          "label": "本科生",
+          "value": "19444"
+        },
+        {
+          "label": "研究生",
+          "value": "34502"
+        },
+        {
+          "label": "本科招生专业",
+          "value": "182"
+        },
+        {
+          "label": "博士招生专业",
+          "value": "349"
+        },
+        {
+          "label": "外国留学生",
+          "value": "2541"
+        },
+        {
+          "label": "图书馆藏书（余万册）",
+          "value": "1000"
+        }
+      ],
+      "site_name": "北京大学"
+    }
+  },
+  "_ok": true
+}

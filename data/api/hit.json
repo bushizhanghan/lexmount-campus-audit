@@ -1,0 +1,46 @@
+{
+  "_site": {
+    "slug": "hit",
+    "name": "哈尔滨工业大学",
+    "url": "https://www.hit.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.hit.edu.cn"
+      }
+    },
+    "http_status": 502,
+    "wall_ms": 4102,
+    "sent_at": "2026-10-20T10:58:04+0800"
+  },
+  "error": {
+    "code": "browser_fetch_failed",
+    "message": "lightmount_dcl fetch failed: thread 'render_runtime' (91891) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:\nassertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session\n  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheets { script: NativeNodeId(116) } }\n right: Ready\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace",
+    "stage": "fetch",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stderr": "Traceback (most recent call last):\n  File \"/app/fetch_core.py\", line 701, in fetch_payload\n    result = fetch_moli(\n             ^^^^^^^^^^^\n  File \"/app/fetch_core.py\", line 552, in fetch_moli\n    raise RuntimeError(message)\nRuntimeError: thread 'render_runtime' (91891) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:\nassertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session\n  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheets { script: NativeNodeId(116) } }\n right: Ready\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace\n",
+            "error": "thread 'render_runtime' (91891) panicked at moli-renderer-v8/src/live_document_parser.rs:498:9:\nassertion `left == right` failed: a suspended or terminal live parser cannot enter a pump session\n  left: Suspended { id: ParserSuspensionId(5), cause: ParserClassicStylesheets { script: NativeNodeId(116) } }\n right: Ready\nnote: run with `RUST_BACKTRACE=1` environment variable to display a backtrace",
+            "succeeded": false
+          }
+        ]
+      }
+    }
+  },
+  "metadata": {
+    "server_elapsed_ms": 3936
+  },
+  "request_id": "192b0135-7048-48d2-91e2-395a37eb08a2",
+  "_ok": false
+}

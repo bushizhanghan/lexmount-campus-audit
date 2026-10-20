@@ -1,0 +1,47 @@
+{
+  "metadata": {
+    "dom_id": "846362",
+    "server_elapsed_ms": 6234
+  },
+  "request_id": "d939864d-e5fa-4f66-8bf4-619c8b9f74d3",
+  "result": {
+    "url": "https://www.scut.edu.cn",
+    "final_url": "https://www.scut.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T13:14:56.303509101Z",
+    "title": "华南理工大学",
+    "main_text": "华南理工大学",
+    "engine": "lightmount_dcl",
+    "dom_id": "846362",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 6, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.scut.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-19T13:14:55.320975Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.scut.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m12",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "metadata": {
+        "title_candidates": [
+          "华南理工大学"
+        ]
+      }
+    }
+  },
+  "_site": {
+    "slug": "scut",
+    "name": "华南理工大学",
+    "url": "https://www.scut.edu.cn"
+  },
+  "_run": {
+    "mode": "extract",
+    "ran_at": "2026-10-19T13:14:56.202Z",
+    "wall_ms": 13805
+  }
+}

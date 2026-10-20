@@ -1,0 +1,109 @@
+{
+  "_site": {
+    "slug": "zju",
+    "name": "浙江大学",
+    "url": "https://www.zju.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.zju.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 4459,
+    "sent_at": "2026-10-20T10:56:46+0800"
+  },
+  "metadata": {
+    "dom_id": "855501",
+    "template_id": "x53:46504154475c541b52505b5047544150510f424242184f5f401850514018565b75041b051b07",
+    "server_elapsed_ms": 4286
+  },
+  "request_id": "cc010719-2401-4422-a78c-4763e920ebc6",
+  "result": {
+    "url": "https://www.zju.edu.cn",
+    "final_url": "https://www.zju.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:56:46.43853631Z",
+    "title": "浙江大学",
+    "description": "浙江大学（Zhejiang University），简称“浙大”，位于浙江省杭州市，是中华人民共和国教育部直属的综合性全国重点大学，位列国家“双一流”、“211工程”、“985工程”，是九校联盟（C9）、中国大学校长联谊会、环太平洋大学联盟...",
+    "main_text": "main._newsJson11 = [ { id: '1', image: '/_upload/article/images/28/21/893a7f4246f98da85808d37a9ae0/b7ec0105-5d04-4157-86a2-42544051c3af_s.jpg', title: '浙江大学与余杭区合作签约仪式举行', text: JSON.stringify(`10月16日，浙江大学与余杭区深化战略合作框架协议签约仪式在余杭区政府举行。浙江大学党委书记任少波、校长马琰铭，杭州市委常委、余杭区委书记董毓民出席、讲话并见签。浙江大学常务副校长王立忠、副校长陈刚分别代...`), time:'2026-10-17', href: '/2026/1017/c94374a3215958/page.htm', open: '_blank' }, { id: '2', image: '/_upload/article/images/4a/d2/734ac4034e3a8d5a8e16584fcffb/877cbdfc-da3a-43b7-a876-b6ca348d9c21_s.jpg', title: '校长马琰铭会见《自然》期刊代表团', text: JSON.stringify(`10月15日，《自然》期刊总编辑玛格达莱娜·斯基珀（Magdalena Skipper）博士一行访问浙江大学，校长马琰铭院士在紫金港校区会见来宾。马琰铭对代表团来访表示欢迎，并介绍了学校发展情况。他表示，浙江大学高度重视科...`), time:'2026-10-16', href: '/2026/1016/c94374a3215959/page.htm', open: '_blank' }, { id: '3', image: '/_upload/article/images/e3/38/b86645bf4a4f92e683df092cd2eb/3bf351ba-324d-421f-9010-588b00a6f90b_s.png', title: '新时代高校“具身报国 智启未来”育人共同体成立大会举行', text: JSON.stringify(`10月10日，新时代高校“具身报国 智启未来”育人共同体成立大会在浙江大学举行。大会以立德树人为根本任务，聚焦具身智能、人工智能、机器人等领域，助力打通从基础研究到产业应用的人才培养全链条。教育部思想政治...`), time:'2026-10-13', href: '/2026/1013/c94374a3214123/page.htm', open: '_blank' }, {} ]; main._newsJson11.pop()\nmain._linkNews1 = [ { id: \"1\", colName: \"树立和践行正确政绩观\", title: '浙江大学召开树立和践行正确政绩观学习教育总结会议', text: '9月2日，浙江大学召开党委常委会暨党的建设和全面从严治党工作领导小组会议。校党委书记任少波主持并讲话，...', image: '', time: '2026-09-03', href: '/2026/0904/c91513a3198649/page.htm', open: '_blank' }, { id: \"2\", colName: \"树立和践行正确政绩观\", title: '浙江大学2026年暑期工作会议召开', text: '', image: '', time: '2026-09-03', href: 'https://mp.weixin.qq.com/s/0GXgjo7otlDix0LcIzGbuw', open: '_blank' }, { id: \"3\", colName: \"树立和践行正确政绩观\", title: '笃行实干谋长远！这是浙大交出的实干答卷', text: '教育是国之大计、党之大计，正确政绩观是办学兴教的定盘星。置身强国建设、民族复兴的宏伟征程中，唯有校准...', image: '', time: '2026-09-01', href: '/2026/0901/c91513a3198014/page.htm', open: '_blank' }, { id: \"4\", colName: \"树立和践行正确政绩观\", title: '接好“天线”，铺好“地线”', text: '', image: '', time: '2026-08-17', href: 'https://mp.weixin.qq.com/s/McFWofSj1OMVsLU8w4YL0g', open: '_blank' }, {} ]; main._linkNews1.pop()\nmain._linkNews2 = [ { id: \"1\", colName: \"教育强国 浙大何为\", title: '在回答“四个之问”中彰显浙大之为', text: '在回答“四个之问”中彰显浙大之为', image: '', time: '2026-09-17', href: 'https://mp.weixin.qq.com/s/RzX4AmuPwJ9UkM07XBOtMw?scene=1&click_id=1963208609', open: '_blank' }, { id: \"2\", colName: \"教育强国 浙大何为\", title: '十年育才，未来卓越工程师从这里出发！', text: '金秋染岁序，十载育匠才。今天，浙江大学工程师学院迎来建院十周年。十年间，工程师学院以“求是”为本破育人壁垒，以“创新”为魂立育人新篇，走出了一条卓越工程师自主培养的“浙大之路”，有力回答了“工程教育，浙大何为”的时代之问。', image: '', time: '2026-09-12', href: 'https://mp.weixin.qq.com/s/mu5NFh53Ld_90I5ki_lidw', open: '_blank' }, { id: \"3\", colName: \"教育强国 浙大何为\", title: '再创新高！浙大获全国教材领域最高荣誉', text: '全国教材建设奖是我国教材工作领域的最高奖项，由国家教材委员会主办、教育部承办，每四年评选一次。', image: '', time: '2026-09-11', href: 'https://mp.weixin.qq.com/s/R3_iDxjrhVdxkdAe2-Kk7A?scene=1&click_id=1609803508', open: '_blank' }, { id: \"4\", colName: \"教育强国 浙大何为\", title: '浙江大学强化基础研究服务高水平科技自立自强', text: '浙江大学认真学习贯彻习近平总书记在基础研究座谈会上的重要讲话精神，把基础研究作为学校工作的重中之重，以“四个强化”为抓手，着力打造基础研究的主力军和基础研究人才培养的主阵地，努力为教育强国、科技强国、人才强国建设作出积极贡献。 一、强化高峰引领，夯实基础研究学科根基 （一）精准发力打造学科高峰。实施“一流骨干基础学科建设支持计划”，重点支持数理化天地生等基础学科建设，给予长期稳定经费支持和政策...', image: '', time: '2026-09-11', href: '/2026/0914/c91514a3202089/page.htm', open: '_blank' }, {} ]; main._linkNews2.pop()\nmain._linkNews4 = [ { id: \"1\", colName: \"文脉千秋 盛世修典\", title: '山海与城垣共赏｜西安建大、舟山普陀“中国历代绘画大系”双特展同步启幕', text: '9月15日，“盛世修典——‘中国历代绘画大系’成果展·西安建筑科技大学特展”在西安建筑科技大学草堂校区图书馆正式开展。作为学校办学130年、并校70周年校庆系列重点文化活动之一，展览以“中国历代绘画大系”丰厚的图像资源为基础，让千年丹青走进校园，也让古代绘画与建筑、人文、地域文化展开一场跨越时空的对话。', image: '', time: '2026-09-16', href: 'https://mp.weixin.qq.com/s/wp4P1i-LxXA6f8jvxQr4Ww?scene=1&click_id=1501376628', open: '_blank' }, { id: \"2\", colName: \"文脉千秋 盛世修典\", title: '2026“良渚·世界文明对话” 文化交流与传播系列活动走进俄罗斯', text: '当地时间9月7日，2026“良渚·世界文明对话”文化交流与传播系列活动在莫斯科大学成功举办。', image: '', time: '2026-09-11', href: 'https://mp.weixin.qq.com/s/srciKyLy1j1GMSTS-7LuCQ?scene=1&click_id=102021511', open: '_blank' }, { id: \"3\", colName: \"文脉千秋 盛世修典\", title: '教师节，跟随古画回望师道传承', text: '三尺讲台存日月，一支粉笔写春秋今天是第42个教师节', image: '', time: '2026-09-10', href: 'https://mp.weixin.qq.com/s/hEbx_Gpt_K47rDsg1HEf3A', open: '_blank' }, { id: \"4\", colName: \"文脉千秋 盛世修典\", title: '中国美学惊艳亮相莫斯科！', text: '2026年9月2日至6日，第39届莫斯科国际书展中国主宾国活动在莫斯科“商栈”展览馆举行。', image: '', time: '2026-09-07', href: 'https://mp.weixin.qq.com/s/RC2DGFwaJqEns8k-ynmX2Q?scene=1&click_id=56633348', open: '_blank' }, {} ]; main._linkNews4.pop()\n请点击进入浙江大学官方微博\n请点击进入浙江大学校报电子版\n学习强国\n下载“学习强国”App, 关注“浙江大学”\n哔哩哔哩\n校情总览\n学校概况\n历史沿革\n历任领导\n求是书院至浙江高等学校时期\n国立第三中山大学至国立浙江大学时期\n浙江大学时期\n原杭州大学（含浙江师范学院）历任校（院）长\n原浙江农业大学（含浙江农学院）历任校（院）长\n浙江医科大学（含浙江医学院）历任校（院）长\n学校章程\n现任领导\n学校标识\n统计公报\n信息公开\n信息公开专栏首页\n信息公开事项清单\n依申请公开\n信息公开年度报告\n信息公开意见箱\n信息公开指南\n最新通知\n重大制度意见征求与解读平台\n规范性文件信息库\n责任清单\n审批清单\n服务清单\n教学信息公开\n求是新闻\n学校机构\n党群机构\n行政机构\n学术机构\n学院（系）\n人文学部\n社会科学学部\n信息学部\n农业生命环境学部\n医药学部\n附属医院\n校区机构\n直属单位\n全国重点实验室\n有关企业\n校设研究机构\n教师队伍\n两院院士\n文科资深教授\n教育部教学名师\n教师个人主页\n入职浙大\n教育教学\n本科教育\n研究生教育\n国际教育\n继续教育\n科学研究\n科研基地\n社会科学\n自然科学\n科学技术研究院\n社会科学研究院\n技术转化研究院\n农业技术推广中心\n学术进展\n学术期刊\n招生就业\n本科生招生\n研究生招生\n国际学生招生\n就业指导服务\n合作交流\n校地合作\n校企合作\n国际合作\n走进浙大\n文化校园\n云游浙大\n浙大图库\n浙大印象\n艺术与考古博物馆\n1020 纳米级“积木”搭出超强材料\n1017 秋风送爽 桂香满园\n1013 校园赛车文化嘉年华\n浙江大学与余杭区合作签约仪式举行\n校长马琰铭会见《自然》期刊代表团\n新时代高校“具身报国 智启未来”育人共同体成立大会举行\n中国民主促进会浙江大学第七次代表大会举行\n纪念朱祖祥院士诞辰110周年研讨会暨全国资源与环境交叉前沿论坛举行\n面向未来的跨境教育论坛举行\n浙江大学与中国建设银行举行战略合作会谈\n“数字存在”的哲学阐释\n光明日报\n迈向均衡普惠、优质高效的健康中国\n长三角高校网球争霸赛在上海举办 以球会友促青年交流\n中国新闻网\n高校如何培育学生人工智能素养\n中国教育报\n浙江大学数学高等研究院与之江实验室联合发起“未来数学计划”\n青年蹲点“浙中蜜蜂村”：大山里的“青春必修课”\n《科学》+1！浙大团队发现电子自旋的手性之“舞”\n两块六毛的老药有新用！浙大医学最新发现\n《自然》+1！浙大用纳米级“积木”搭出超强材料\n化学造镜，读透细胞！浙大超分辨化学显微镜登《自然》\n农民不富，他不还乡\n开创浙大“陈苏学派”辉煌\n西迁路上宁扔行李不扔标本\n科学没有国界，科学家却是有祖国的\n为中国数学争口气\n一是做革命者，二是做科学家\n信仰如饴 赤心存道\n他一辈子伏案沉心译经典\n他，获得中国政府友谊奖！\n当我在AI短剧里学经济学……\n永平杰出教学贡献奖获得者！她“执灯”引路29年\n金牌！三战亚运！十二年奔跑永不止步\n全国一等奖！云卷云舒间，青春自有答案\n从山村跑道到世界赛场，她跑出青春加速度！\n亮相世界人工智能大会！他用创新模型推演世界\n贺贤土院士谈治学：知其所以然，而后创新\n失去双臂仍逐梦人生！王争校友重返母校开讲《拥抱远方》\n我回母校上一堂课！滕锦光院士解锁浙大人成长必修课\n浙大姑娘，在高原让梦想“蔚然成林”\n百代标程——悦读宋韵展\n浙江大学艺术与考古博物馆展厅四、三、二\n启真化学论坛\n2024年1月12日15:30\n紫金港校区海纳苑5幢C100\n陈立心理科学前沿讲坛\n2024年1月12日15:00\n紫金港校区海纳苑3幢415会议室\n西塞山国际交流工作坊\n2024年1月25日19:30\n湖州市西塞山路819号南太湖新区科技创新综合体B1幢B211求是学术厅\n结构生物学前沿论坛\n2024年1月17日9:00\n浙江大学医学院综合楼205\n医学免疫学前沿讲坛\n2024年1月24日10:00\n医学院综合楼705会议室\n2024年1月27日10:00\n数学科学学院2楼报告厅\n“浙大东方论坛•亚洲文明” 系列讲座第8讲\n2023年12月29日（周五）14:30\n浙江大学图书馆主馆524\n浙江大学（Zhejiang University），简称“浙大”，位于浙江省杭州市，是中华人民共和国教育部直属的综合性全国重点大学，位列国家“双一流”、“211工程”、“985工程”，是九校联盟（C9）、中国大学校长联谊会、环太平洋大学联盟...\n关键词：浙江大学",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "人才招聘",
+        "href": "http://talent.zju.edu.cn/"
+      },
+      {
+        "text": "创新2030计划",
+        "href": "http://www.innovation2030.zju.edu.cn/"
+      },
+      {
+        "text": "捐赠",
+        "href": "http://www.zuef.zju.edu.cn/"
+      },
+      {
+        "text": "校友",
+        "href": "http://zuaa.zju.edu.cn/#/"
+      },
+      {
+        "text": "图书馆",
+        "href": "https://libweb.zju.edu.cn/"
+      },
+      {
+        "text": "邮箱",
+        "href": "https://mail.zju.edu.cn/"
+      },
+      {
+        "text": "书记信箱",
+        "href": "https://my.zju.edu.cn/_web/xwfw/sjxzxx2/index.jsp?_p=YXM9MSZwPTEmbT1OJg__&xflx=sjxx"
+      },
+      {
+        "text": "校长信箱",
+        "href": "https://my.zju.edu.cn/_web/xwfw/sjxzxx2/index.jsp?_p=YXM9MSZwPTEmbT1OJg__&xflx=xzxx"
+      },
+      {
+        "text": "English",
+        "href": "https://www.zju.edu.cn/english/"
+      },
+      {
+        "text": "返回浙江大学首页",
+        "href": "https://www.zju.edu.cn/main.htm"
+      },
+      {
+        "text": "综合服务",
+        "href": "https://zhfw.zju.edu.cn"
+      }
+    ],
+    "engine": "lightmount_lite",
+    "dom_id": "855501",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_lite",
+            "command": "safe_http.get",
+            "stdout": "{\"selected\": \"fast\", \"content_length\": 4, \"selector\": \"body(fallback)\", \"status\": 200, \"final_url\": \"https://www.zju.edu.cn/\"}",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "canonical_url": "https://www.zju.edu.cn/",
+      "content_status": "recovered_embedded_content",
+      "keywords": [
+        "浙江大学"
+      ],
+      "site_name": "浙江大学",
+      "source_url": "https://www.zju.edu.cn/"
+    }
+  },
+  "_ok": true
+}

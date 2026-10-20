@@ -1,0 +1,170 @@
+{
+  "sites": [
+    {
+      "name": "北京师范大学",
+      "slug": "bnu",
+      "total": 2610,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 2610
+    },
+    {
+      "name": "重庆大学",
+      "slug": "cqu",
+      "total": 2601,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 2601
+    },
+    {
+      "name": "复旦大学",
+      "slug": "fudan",
+      "total": 13230,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 13230
+    },
+    {
+      "name": "华中科技大学",
+      "slug": "hust",
+      "total": 2966,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 2966
+    },
+    {
+      "name": "南开大学",
+      "slug": "nankai",
+      "total": 1638,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 1638
+    },
+    {
+      "name": "南京大学",
+      "slug": "nju",
+      "total": 12388,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 12388
+    },
+    {
+      "name": "北京大学",
+      "slug": "pku",
+      "total": 4867,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 4867
+    },
+    {
+      "name": "华南理工大学",
+      "slug": "scut",
+      "total": 2740,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 2740
+    },
+    {
+      "name": "东南大学",
+      "slug": "seu",
+      "total": 6473,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 6473
+    },
+    {
+      "name": "上海交通大学",
+      "slug": "sjtu",
+      "total": 4732,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 4732
+    },
+    {
+      "name": "中山大学",
+      "slug": "sysu",
+      "total": 1726,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 1726
+    },
+    {
+      "name": "同济大学",
+      "slug": "tongji",
+      "total": 3337,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 3337
+    },
+    {
+      "name": "清华大学",
+      "slug": "tsinghua",
+      "total": 9777,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 9777
+    },
+    {
+      "name": "电子科技大学",
+      "slug": "uestc",
+      "total": 3389,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 3389
+    },
+    {
+      "name": "中国科学技术大学",
+      "slug": "ustc",
+      "total": 978,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 978
+    },
+    {
+      "name": "武汉大学",
+      "slug": "whu",
+      "total": 3727,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 3727
+    },
+    {
+      "name": "西安交通大学",
+      "slug": "xjtu",
+      "total": 1674,
+      "js_chars": 0,
+      "js_line_count": 0,
+      "js_pct": 0.0,
+      "clean": 1674
+    },
+    {
+      "name": "浙江大学",
+      "slug": "zju",
+      "total": 6173,
+      "js_chars": 4324,
+      "js_line_count": 4,
+      "js_pct": 70.0,
+      "clean": 1849
+    }
+  ],
+  "polluted_count": 1,
+  "total_chars": 85026,
+  "total_js_chars": 4324,
+  "total_js_pct": 5.1
+}

@@ -1,0 +1,747 @@
+{
+  "_site": {
+    "slug": "xjtu",
+    "name": "西安交通大学",
+    "url": "https://www.xjtu.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.xjtu.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 4066,
+    "sent_at": "2026-10-20T10:57:41+0800"
+  },
+  "metadata": {
+    "dom_id": "855523",
+    "template_id": "x53:46504154475c541b565a5858405b5c414c0f424242184d5f41401850514018565b75041b051b05",
+    "server_elapsed_ms": 3854
+  },
+  "request_id": "8dc2cc46-477c-4f48-9885-a4ce591676a9",
+  "result": {
+    "url": "https://www.xjtu.edu.cn",
+    "final_url": "https://www.xjtu.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:57:41.531139158Z",
+    "title": "西安交通大学",
+    "description": "西安交通大学官方网站首页：焦点新闻 1 条，交大要闻 8 条，学术信息/通知公告/媒体交大 15 条，教学科研与国际交流动态 12 条。",
+    "main_text": "西安交通大学官方网站首页，汇总学校焦点新闻、交大要闻、学术信息、通知公告、媒体交大、教学科研与国际交流动态以及校内服务入口。\n【焦点新闻】\n习近平：传承弘扬西迁精神聚焦国家重大战略需求 为建设教育强国科技强国...\n【交大要闻】\n2026年中国—中亚公民科学素质建设交流活动在西安交大举...\n2026年中国工程热物理学会传热传质学术会议举办\n宜春市委书记蒋文定一行来校推进合作交流\n西安交大联合企业研发再生资源智慧管理系统\n西安交大辩论队首夺全国冠军30周年暨建队30周年纪念系列...\n西安交大学生航模协会在国赛中再创佳绩\n西安交大二附院举办中国医院协会人力资源2026年年会\n西安交大连续三年斩获全国大学生结构设计竞赛一等奖\n【学术信息 / 通知公告 / 媒体交大】\n2026-10-28 复杂系统临界动力学理论与应用\n2026-10-23 周惠久论坛——密排六方合金形变与强韧...\n2026-10-21 周惠久论坛——高性能铝基复合材料增材制造\n2026-10-19 周惠久论坛——Poly(2-oxazoline)s: Fro...\n2026-10-17 略论因声求义与音义匹配\n10-18 关于兴庆校区部分道路临时封闭的通知\n10-16 关于举办西安交通大学《电信T.A杯》“AI+教...\n10-16 关于2026年度“拓竹奖教金”拟获奖人选的公...\n10-16 教师教学发展中心教学研讨午餐会（总第278场...\n10-16 关于开展西安交通大学党员培训2026年下半年...\n10-13 【光明日报】科技通识课，促青年科学文化素...\n10-08 【媒体聚焦】西安交大揭牌“一中心两学院” ...\n10-08 【中央广播电视总台】《创新中国·西安篇》聚...\n09-28 【中国教育报】西安交通大学管理学院：数智...\n09-23 【媒体聚焦】西安交大举办第九届“千家单位 ...\n【教学科研与国际交流动态】\n西安交大举办纪念长征胜利90周年主题长卷书写活动\n西安交大马克思主义理论学科在2026年软科中国最好学科排名中位列全国第... 近日，高等教育评价专业机构软科正式发布2026软科中国最好学科排名。2026年马克思主义学科排名共收录398所大学，西安交大马克思主义理论学科以总分612分位列全国第十。\n【五育并举促全面发展】新港报告之美育高端论坛第35讲举办：陈建华教授...\n西安交大何刚教授团队在空间共轭紫精环蕃单分子电子学方面取得重要进展\n人文学院师生在《社会学研究》发表论文 西安交通大学人文社会科学学院社会学系帅满教授与2025级博士研究生关佳佳合作完成的论文《强激励与强约束如何共存？——房产交易平台的分支树治理结构》在AMI顶级期刊《社会学研究》2026年第...\n西安交大孟国栋教授团队在高性能光电传感器件领域取得重要进展\n公管学院团队访问塞尔维亚高校与科研机构 深化教育交流与科研合作\n管理学院团队出访罗马尼亚、格鲁吉亚——出席第34届CEEMAN年会 深化中东...\n俄罗斯高校代表团一行访问西安交通大学\n西安交大获得第九届全国大学生机械创新设计大赛10项一等奖 获奖数居全国... 2020“中铁工业杯”第九届全国大学生机械创新设计大赛决赛于11月20日至22日在西南交通大学举行，西安交大共有17项作品入围决赛，取得全国一等奖10项、二等奖7项，并有1项作品推选进入“中国...\n保卫处联合创新港微型消防站、国际教育学院开展消防疏散演练 为进一步提高消防安全工作水平，强化留学生消防安全意识，提高师生对初期火灾的应急疏散处置能力和自救能力，11月18日下午，保卫处联合创新港微型消防站、国际教育学院、新大正物业在创新港...\n交大学子在中国大学生方程式大赛中荣获佳绩\n【校内服务入口】\n办公自动化\n一网通办\n本科教务系统\n教师个人主页\n教师邮箱\n学生邮箱\n综合信息服务\n党建学习平台\n校领导信箱\n财务服务平台\n教师平台\n移动交通大学\n科研系统\n外事服务平台\n人事系统\n学科交叉平台\n法务合同系统",
+    "language": "zh-cn",
+    "links": [
+      {
+        "text": "财政专栏",
+        "href": "http://cfsp.xjtu.edu.cn/"
+      },
+      {
+        "text": "学习党的二十大",
+        "href": "http://dwzzb.xjtu.edu.cn"
+      },
+      {
+        "text": "仪器设备",
+        "href": "http://equip.xjtu.edu.cn"
+      },
+      {
+        "text": "学科交叉平台",
+        "href": "http://fusion.xjtu.edu.cn"
+      },
+      {
+        "text": "公派留学",
+        "href": "http://gongpai.xjtu.edu.cn"
+      },
+      {
+        "text": "教师个人主页",
+        "href": "http://gr.xjtu.edu.cn/"
+      },
+      {
+        "text": "招聘信息",
+        "href": "http://hr.xjtu.edu.cn/zoxxlbye.jsp?urltype=tree.TreeTempUrl&wbtreeid=1017"
+      },
+      {
+        "text": "人力资源处",
+        "href": "http://hrm.xjtu.edu.cn"
+      },
+      {
+        "text": "人事系统",
+        "href": "http://hrms.xjtu.edu.cn"
+      },
+      {
+        "text": "外事服务平台",
+        "href": "http://ims.xjtu.edu.cn"
+      },
+      {
+        "text": "综合信息服务",
+        "href": "http://info.xjtu.edu.cn/"
+      },
+      {
+        "text": "思源学习空间",
+        "href": "http://ispace.xjtu.edu.cn"
+      },
+      {
+        "text": "法务合同系统",
+        "href": "http://jdfw.xjtu.edu.cn/"
+      },
+      {
+        "text": "西迁博物馆",
+        "href": "http://jdxqmuseum.xjtu.edu.cn/"
+      },
+      {
+        "text": "就业网",
+        "href": "http://job.xjtu.edu.cn/"
+      },
+      {
+        "text": "移动交通大学",
+        "href": "http://m.xjtu.edu.cn"
+      },
+      {
+        "text": "学术资源",
+        "href": "http://meeting.xjtu.edu.cn/"
+      },
+      {
+        "text": "周惠久论坛——Poly(2-oxazoline)s: Fro...",
+        "href": "http://meeting.xjtu.edu.cn/lecturenotice/7008.htm"
+      },
+      {
+        "text": "略论因声求义与音义匹配",
+        "href": "http://meeting.xjtu.edu.cn/lecturenotice/7011.htm"
+      },
+      {
+        "text": "复杂系统临界动力学理论与应用",
+        "href": "http://meeting.xjtu.edu.cn/lecturenotice/7012.htm"
+      },
+      {
+        "text": "周惠久论坛——密排六方合金形变与强韧...",
+        "href": "http://meeting.xjtu.edu.cn/lecturenotice/7014.htm"
+      },
+      {
+        "text": "周惠久论坛——高性能铝基复合材料增材制造",
+        "href": "http://meeting.xjtu.edu.cn/lecturenotice/7015.htm"
+      },
+      {
+        "text": "俄罗斯高校代表团一行访问西安交通大学",
+        "href": "http://news.xjtu.edu.cn/info/1005/235006.htm"
+      },
+      {
+        "text": "交大学子在中国大学生方程式大赛中荣获佳绩",
+        "href": "http://news.xjtu.edu.cn/info/1009/124863.htm"
+      },
+      {
+        "text": "保卫处联合创新港微型消防站、国际教育学院开展消防疏散演练",
+        "href": "http://news.xjtu.edu.cn/info/1009/125089.htm"
+      },
+      {
+        "text": "西安交大获得第九届全国大学生机械创新设计大赛10项一等奖 获奖数居全国...",
+        "href": "http://news.xjtu.edu.cn/info/1009/125101.htm"
+      },
+      {
+        "text": "【中央广播电视总台】《创新中国·西安篇》聚...",
+        "href": "http://news.xjtu.edu.cn/info/1014/235020.htm"
+      },
+      {
+        "text": "【媒体聚焦】西安交大揭牌“一中心两学院” ...",
+        "href": "http://news.xjtu.edu.cn/info/1014/235285.htm"
+      },
+      {
+        "text": "【媒体聚焦】西安交大举办第九届“千家单位 ...",
+        "href": "http://news.xjtu.edu.cn/info/1033/235058.htm"
+      },
+      {
+        "text": "2026年中国—中亚公民科学素质建设交流活动在西安交大举...",
+        "href": "http://news.xjtu.edu.cn/info/1033/235505.htm"
+      },
+      {
+        "text": "西安交大连续三年斩获全国大学生结构设计竞赛一等奖",
+        "href": "http://news.xjtu.edu.cn/info/1033/235529.htm"
+      },
+      {
+        "text": "西安交大学生航模协会在国赛中再创佳绩",
+        "href": "http://news.xjtu.edu.cn/info/1033/235551.htm"
+      },
+      {
+        "text": "2026年中国工程热物理学会传热传质学术会议举办",
+        "href": "http://news.xjtu.edu.cn/info/1033/235552.htm"
+      },
+      {
+        "text": "西安交大二附院举办中国医院协会人力资源2026年年会",
+        "href": "http://news.xjtu.edu.cn/info/1033/235566.htm"
+      },
+      {
+        "text": "西安交大联合企业研发再生资源智慧管理系统",
+        "href": "http://news.xjtu.edu.cn/info/1033/235567.htm"
+      },
+      {
+        "text": "宜春市委书记蒋文定一行来校推进合作交流",
+        "href": "http://news.xjtu.edu.cn/info/1033/235568.htm"
+      },
+      {
+        "text": "【中国教育报】西安交通大学管理学院：数智...",
+        "href": "http://news.xjtu.edu.cn/info/1219/235127.htm"
+      },
+      {
+        "text": "公管学院团队访问塞尔维亚高校与科研机构 深化教育交流与科研合作",
+        "href": "http://news.xjtu.edu.cn/info/1219/235288.htm"
+      },
+      {
+        "text": "【光明日报】科技通识课，促青年科学文化素...",
+        "href": "http://news.xjtu.edu.cn/info/1219/235370.htm"
+      },
+      {
+        "text": "西安交大辩论队首夺全国冠军30周年暨建队30周年纪念系列...",
+        "href": "http://news.xjtu.edu.cn/info/1219/235545.htm"
+      },
+      {
+        "text": "办公自动化",
+        "href": "http://oa.xjtu.edu.cn"
+      },
+      {
+        "text": "博士后站",
+        "href": "http://pdc.xjtu.edu.cn/"
+      },
+      {
+        "text": "来华留学",
+        "href": "http://sie.xjtu.edu.cn/"
+      },
+      {
+        "text": "科研系统",
+        "href": "http://stdmis.xjtu.edu.cn"
+      },
+      {
+        "text": "学生邮箱",
+        "href": "http://stu.xjtu.edu.cn/"
+      },
+      {
+        "text": "思源学堂",
+        "href": "http://syxt.xjtu.edu.cn/"
+      },
+      {
+        "text": "数字文博平台",
+        "href": "http://szwb.xjtu.edu.cn"
+      },
+      {
+        "text": "教师平台",
+        "href": "http://tec.xjtu.edu.cn/"
+      },
+      {
+        "text": "它山之石",
+        "href": "http://tszs.xjtu.edu.cn"
+      },
+      {
+        "text": "学校标识",
+        "href": "http://vi.xjtu.edu.cn/"
+      },
+      {
+        "text": "校园VPN",
+        "href": "http://vpn.xjtu.edu.cn/"
+      },
+      {
+        "text": "教师邮箱",
+        "href": "http://webmail.xjtu.edu.cn/"
+      },
+      {
+        "text": "交大文明网",
+        "href": "http://wmw.xjtu.edu.cn/"
+      },
+      {
+        "text": "新港报告",
+        "href": "http://xgbg.xjtu.edu.cn/"
+      },
+      {
+        "text": "党建学习平台",
+        "href": "http://xjtudj.edu.cn"
+      },
+      {
+        "text": "校领导信箱",
+        "href": "http://xldxx.xjtu.edu.cn"
+      },
+      {
+        "text": "西迁精神专题网",
+        "href": "http://xq.xjtu.edu.cn/"
+      },
+      {
+        "text": "信息公开",
+        "href": "http://xxgk.xjtu.edu.cn/"
+      },
+      {
+        "text": "医院管理处",
+        "href": "http://ygc.xjtu.edu.cn"
+      },
+      {
+        "text": "科学技术与学科建设处",
+        "href": "http://yxbkjc.xjtu.edu.cn"
+      },
+      {
+        "text": "人才培养处",
+        "href": "http://yxbpyc.xjtu.edu.cn"
+      },
+      {
+        "text": "综合办公室",
+        "href": "http://yxbzhb.xjtu.edu.cn"
+      },
+      {
+        "text": "思源直播",
+        "href": "http://zhibo6.xjtu.edu.cn/"
+      },
+      {
+        "text": "大先生系列话剧",
+        "href": "http://zhibo6.xjtu.edu.cn/vod-show?tags=0_16"
+      },
+      {
+        "text": "总书记来校专题网",
+        "href": "http://zsjlx.xjtu.edu.cn/"
+      },
+      {
+        "text": "财务服务平台",
+        "href": "https://FINPortal.xjtu.edu.cn/FINPortal/"
+      },
+      {
+        "text": "“交晓智”平台",
+        "href": "https://agent.xjtu.edu.cn/"
+      },
+      {
+        "text": "习近平：传承弘扬西迁精神聚焦国家重大战略需求 为建设教育强国科技强国...",
+        "href": "https://h.xinhuaxmt.com/vh512/share/13041620?docid=13041620&newstype=1001&d=1352637&channel=weixin"
+      },
+      {
+        "text": "交大日历",
+        "href": "https://jwc.xjtu.edu.cn/xxfw/xl.htm"
+      },
+      {
+        "text": "本科教务系统",
+        "href": "https://jwxt.xjtu.edu.cn/"
+      },
+      {
+        "text": "【五育并举促全面发展】新港报告之美育高端论坛第35讲举办：陈建华教授...",
+        "href": "https://news.xjtu.edu.cn/info/1003/235403.htm"
+      },
+      {
+        "text": "西安交大马克思主义理论学科在2026年软科中国最好学科排名中位列全国第...",
+        "href": "https://news.xjtu.edu.cn/info/1003/235464.htm"
+      },
+      {
+        "text": "西安交大举办纪念长征胜利90周年主题长卷书写活动",
+        "href": "https://news.xjtu.edu.cn/info/1003/235562.htm"
+      },
+      {
+        "text": "西安交大何刚教授团队在空间共轭紫精环蕃单分子电子学方面取得重要进展",
+        "href": "https://news.xjtu.edu.cn/info/1004/234834.htm"
+      },
+      {
+        "text": "西安交大孟国栋教授团队在高性能光电传感器件领域取得重要进展",
+        "href": "https://news.xjtu.edu.cn/info/1004/235426.htm"
+      },
+      {
+        "text": "人文学院师生在《社会学研究》发表论文",
+        "href": "https://news.xjtu.edu.cn/info/1004/235443.htm"
+      },
+      {
+        "text": "管理学院团队出访罗马尼亚、格鲁吉亚——出席第34届CEEMAN年会 深化中东...",
+        "href": "https://news.xjtu.edu.cn/info/1005/235108.htm"
+      },
+      {
+        "text": "关于举办西安交通大学《电信T.A杯》“AI+教...",
+        "href": "https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SP[VTRU"
+      },
+      {
+        "text": "教师教学发展中心教学研讨午餐会（总第278场...",
+        "href": "https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SP[VVZQ"
+      },
+      {
+        "text": "关于开展西安交通大学党员培训2026年下半年...",
+        "href": "https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SP[VVZV"
+      },
+      {
+        "text": "关于2026年度“拓竹奖教金”拟获奖人选的公...",
+        "href": "https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SP[VWWR"
+      },
+      {
+        "text": "关于兴庆校区部分道路临时封闭的通知",
+        "href": "https://oa.xjtu.edu.cn/zxgg_infonew.jsp?processInsId=SP[WV[W"
+      },
+      {
+        "text": "安管平台",
+        "href": "https://sec.xjtu.edu.cn/"
+      },
+      {
+        "text": "产学研合作",
+        "href": "https://std.xjtu.edu.cn/cxyhzs/"
+      },
+      {
+        "text": "科研系统",
+        "href": "https://stdmis.xjtu.edu.cn/"
+      },
+      {
+        "text": "西安交通大学",
+        "href": "https://www.xjtu.edu.cn/"
+      },
+      {
+        "text": "崇实书院",
+        "href": "https://www.xjtu.edu.cn/bksy/cssy.htm"
+      },
+      {
+        "text": "励志书院",
+        "href": "https://www.xjtu.edu.cn/bksy/lzsy.htm"
+      },
+      {
+        "text": "南洋书院",
+        "href": "https://www.xjtu.edu.cn/bksy/nysy.htm"
+      },
+      {
+        "text": "彭康书院",
+        "href": "https://www.xjtu.edu.cn/bksy/pksy.htm"
+      },
+      {
+        "text": "启德书院",
+        "href": "https://www.xjtu.edu.cn/bksy/qdsy.htm"
+      },
+      {
+        "text": "钱学森书院",
+        "href": "https://www.xjtu.edu.cn/bksy/qxssy.htm"
+      },
+      {
+        "text": "文治书院",
+        "href": "https://www.xjtu.edu.cn/bksy/wzsy.htm"
+      },
+      {
+        "text": "宗濂书院",
+        "href": "https://www.xjtu.edu.cn/bksy/zlsy.htm"
+      },
+      {
+        "text": "仲英书院",
+        "href": "https://www.xjtu.edu.cn/bksy/zysy.htm"
+      },
+      {
+        "text": "进军创新港",
+        "href": "https://www.xjtu.edu.cn/cxgzx.htm"
+      },
+      {
+        "text": "首页",
+        "href": "https://www.xjtu.edu.cn/index.htm"
+      },
+      {
+        "text": "招生网",
+        "href": "https://www.xjtu.edu.cn/index/zsw.htm"
+      },
+      {
+        "text": "交大简介",
+        "href": "https://www.xjtu.edu.cn/jdgk/jdjj.htm"
+      },
+      {
+        "text": "统计数据",
+        "href": "https://www.xjtu.edu.cn/jdgk/tjsj.htm"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.xjtu.edu.cn/__local/2/C4/E7/A8C9DDD44B1430E69685DF309AE_F2CD8BA5_12838.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/3/42/C6/28C909EA03D85525BB232A68F0E_2D821CE9_4889C.png?e=.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/4/FE/C9/DB576CC3623C4267A618814F189_40307630_566E.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/6/18/A3/DFA8380E1712875C43D763273E9_5A12CB99_94CB.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/B/4E/C8/2D4F1CA88F182EF5558D14DC855_DB956F8D_8B36.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/B/75/7A/C543DFDFCF1D5DBF279CD5292CF_6D423CBB_A95E9.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/C/8F/CA/51A9519D847E787E6B6DD91DF06_C6CEEA59_8754.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/E/0D/79/A5E72F7F16A875368CE557EBEC6_D2701E42_CA9B.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/E/4D/30/EF828033DF45F13EAEEF68BE96C_7D1167C3_8CBA.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/E/C6/05/B648B7BFF028DDC8AAA91B7BE0D_8C39FADD_6AB17.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/__local/F/20/AE/9E9F88C1CCF32E3D5D2DA6C7872_CC0B4757_E8B4.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/11111223.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20250605001.jpeg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20260422012.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20260507013.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20260507014.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20260922.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20260924011.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/202609250111.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20261008011.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20261016011.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/202610160122.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/20261019011.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.xjtu.edu.cn/images/banner.png",
+        "alt": ""
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "855523",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 3104, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.xjtu.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-20T02:57:41.350050Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.xjtu.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m242",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "banners": [
+        {
+          "href": "http://news.xjtu.edu.cn/info/1033/230644.htm",
+          "image": "https://www.xjtu.edu.cn/images/banner.png",
+          "index": 1
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/info/1033/230644.htm",
+          "image": "https://www.xjtu.edu.cn/images/202610160122.jpg",
+          "index": 2
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/20261019011.png",
+          "index": 3
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/20261016011.jpg",
+          "index": 4
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/20261008011.jpg",
+          "index": 5
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/202609250111.jpg",
+          "index": 6
+        },
+        {
+          "href": "https://workflow.xjtu.edu.cn/reservation/fe/site/special/special?id=40",
+          "image": "https://www.xjtu.edu.cn/images/20260924011.png",
+          "index": 7
+        },
+        {
+          "href": "https://workflow.xjtu.edu.cn/reservation/fe/site/special/special?id=40",
+          "image": "https://www.xjtu.edu.cn/images/20260922.png",
+          "index": 8
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/info/1033/235261.htm",
+          "image": "https://www.xjtu.edu.cn/images/weixintupian_20260507171840_96_25.jpg",
+          "index": 9
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/info/1033/235261.htm",
+          "image": "https://www.xjtu.edu.cn/images/20260507014.png",
+          "index": 10
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/20260507013.png",
+          "index": 11
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/20260422012.jpg",
+          "index": 12
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/11111223.png",
+          "index": 13
+        },
+        {
+          "href": "",
+          "image": "https://www.xjtu.edu.cn/images/20250605001.jpeg",
+          "index": 14
+        },
+        {
+          "href": "https://mp.weixin.qq.com/s/k8lUw7XiTVogb0jTBZ_rGQ",
+          "image": "",
+          "index": 15
+        },
+        {
+          "href": "https://mp.weixin.qq.com/s/k8lUw7XiTVogb0jTBZ_rGQ",
+          "image": "",
+          "index": 16
+        },
+        {
+          "href": "https://news.xjtu.edu.cn/xwzt1/bdzt/bcfc.htm",
+          "image": "",
+          "index": 19
+        },
+        {
+          "href": "https://news.xjtu.edu.cn/xwzt1/bdzt/bcfc.htm",
+          "image": "",
+          "index": 20
+        },
+        {
+          "href": "https://news.xjtu.edu.cn/xwzt1/bdzt/qjxx.htm",
+          "image": "",
+          "index": 21
+        },
+        {
+          "href": "https://news.xjtu.edu.cn/xwzt1/bdzt/qjxx.htm",
+          "image": "",
+          "index": 22
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/xwzt1/bdzt/xkxl.htm",
+          "image": "",
+          "index": 25
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/xwzt1/bdzt/xkxl.htm",
+          "image": "",
+          "index": 26
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/info/1033/222496.htm",
+          "image": "",
+          "index": 27
+        },
+        {
+          "href": "http://news.xjtu.edu.cn/info/1033/222496.htm",
+          "image": "",
+          "index": 28
+        }
+      ],
+      "campus_news": [
+        "2026年中国—中亚公民科学素质建设交流活动在西安交大举...",
+        "2026年中国工程热物理学会传热传质学术会议举办",
+        "宜春市委书记蒋文定一行来校推进合作交流",
+        "西安交大联合企业研发再生资源智慧管理系统",
+        "西安交大辩论队首夺全国冠军30周年暨建队30周年纪念系列...",
+        "西安交大学生航模协会在国赛中再创佳绩",
+        "西安交大二附院举办中国医院协会人力资源2026年年会",
+        "西安交大连续三年斩获全国大学生结构设计竞赛一等奖"
+      ],
+      "canonical_url": "https://www.xjtu.edu.cn/",
+      "featured_news": [
+        "西安交大举办纪念长征胜利90周年主题长卷书写活动",
+        "西安交大马克思主义理论学科在2026年软科中国最好学科排名中位列全国第... 近日，高等教育评价专业机构软科正式发布2026软科中国最好学科排名。2026年马克思主义学科排名共收录398所大学，西安交大马克思主义理论学科以总分612分位列全国第十。",
+        "【五育并举促全面发展】新港报告之美育高端论坛第35讲举办：陈建华教授...",
+        "西安交大何刚教授团队在空间共轭紫精环蕃单分子电子学方面取得重要进展",
+        "人文学院师生在《社会学研究》发表论文 西安交通大学人文社会科学学院社会学系帅满教授与2025级博士研究生关佳佳合作完成的论文《强激励与强约束如何共存？——房产交易平台的分支树治理结构》在AMI顶级期刊《社会学研究》2026年第...",
+        "西安交大孟国栋教授团队在高性能光电传感器件领域取得重要进展",
+        "公管学院团队访问塞尔维亚高校与科研机构 深化教育交流与科研合作",
+        "管理学院团队出访罗马尼亚、格鲁吉亚——出席第34届CEEMAN年会 深化中东...",
+        "俄罗斯高校代表团一行访问西安交通大学",
+        "西安交大获得第九届全国大学生机械创新设计大赛10项一等奖 获奖数居全国... 2020“中铁工业杯”第九届全国大学生机械创新设计大赛决赛于11月20日至22日在西南交通大学举行，西安交大共有17项作品入围决赛，取得全国一等奖10项、二等奖7项，并有1项作品推选进入“中国...",
+        "保卫处联合创新港微型消防站、国际教育学院开展消防疏散演练 为进一步提高消防安全工作水平，强化留学生消防安全意识，提高师生对初期火灾的应急疏散处置能力和自救能力，11月18日下午，保卫处联合创新港微型消防站、国际教育学院、新大正物业在创新港...",
+        "交大学子在中国大学生方程式大赛中荣获佳绩"
+      ],
+      "focus_news": [
+        "习近平：传承弘扬西迁精神聚焦国家重大战略需求 为建设教育强国科技强国..."
+      ],
+      "keywords": [
+        "西安交通大学"
+      ],
+      "notices": [
+        "2026-10-28 复杂系统临界动力学理论与应用",
+        "2026-10-23 周惠久论坛——密排六方合金形变与强韧...",
+        "2026-10-21 周惠久论坛——高性能铝基复合材料增材制造",
+        "2026-10-19 周惠久论坛——Poly(2-oxazoline)s: Fro...",
+        "2026-10-17 略论因声求义与音义匹配",
+        "10-18 关于兴庆校区部分道路临时封闭的通知",
+        "10-16 关于举办西安交通大学《电信T.A杯》“AI+教...",
+        "10-16 关于2026年度“拓竹奖教金”拟获奖人选的公...",
+        "10-16 教师教学发展中心教学研讨午餐会（总第278场...",
+        "10-16 关于开展西安交通大学党员培训2026年下半年...",
+        "10-13 【光明日报】科技通识课，促青年科学文化素...",
+        "10-08 【媒体聚焦】西安交大揭牌“一中心两学院” ...",
+        "10-08 【中央广播电视总台】《创新中国·西安篇》聚...",
+        "09-28 【中国教育报】西安交通大学管理学院：数智...",
+        "09-23 【媒体聚焦】西安交大举办第九届“千家单位 ..."
+      ],
+      "quick_services": [
+        "办公自动化",
+        "一网通办",
+        "本科教务系统",
+        "教师个人主页",
+        "教师邮箱",
+        "学生邮箱",
+        "综合信息服务",
+        "党建学习平台",
+        "校领导信箱",
+        "财务服务平台",
+        "教师平台",
+        "移动交通大学",
+        "科研系统",
+        "外事服务平台",
+        "人事系统",
+        "学科交叉平台",
+        "法务合同系统"
+      ],
+      "site_name": "西安交通大学"
+    }
+  },
+  "_ok": true
+}

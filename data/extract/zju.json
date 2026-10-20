@@ -1,0 +1,55 @@
+{
+  "metadata": {
+    "dom_id": "845947",
+    "server_elapsed_ms": 1711
+  },
+  "request_id": "3ad6d7cf-8b06-4308-ac87-fe850fce959f",
+  "result": {
+    "url": "https://www.zju.edu.cn/",
+    "final_url": "https://www.zju.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-19T12:44:47.09895758Z",
+    "title": "浙江大学",
+    "description": "浙江大学（Zhejiang University），简称“浙大”，位于浙江省杭州市，是中华人民共和国教育部直属的综合性全国重点大学，位列国家“双一流”、“211工程”、“985工程”，是九校联盟（C9）、中国大学校长联谊会、环太平洋大学联盟...",
+    "main_text": "浙江大学",
+    "language": "zh-cn",
+    "engine": "lightmount_lite",
+    "dom_id": "845947",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_lite",
+            "command": "safe_http.get",
+            "stdout": "{\"selected\": \"fast\", \"content_length\": 4, \"selector\": \"body(fallback)\", \"status\": 200, \"final_url\": \"https://www.zju.edu.cn/\"}",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "metadata": {
+        "language": "zh-CN",
+        "title_candidates": [
+          "浙江大学"
+        ],
+        "meta_tags": {
+          "description": "浙江大学（Zhejiang University），简称“浙大”，位于浙江省杭州市，是中华人民共和国教育部直属的综合性全国重点大学，位列国家“双一流”、“211工程”、“985工程”，是九校联盟（C9）、中国大学校长联谊会、环太平洋大学联盟...",
+          "keywords": "浙江大学",
+          "renderer": "webkit",
+          "viewport": "width=device-width,user-scalable=0,initial-scale=1,minimum-scale=1,maximum-scale=1"
+        }
+      }
+    }
+  },
+  "_site": {
+    "slug": "zju",
+    "name": "浙江大学",
+    "url": "https://www.zju.edu.cn"
+  },
+  "_run": {
+    "mode": "extract",
+    "ran_at": "2026-10-19T12:44:46.577Z",
+    "wall_ms": 7676
+  }
+}

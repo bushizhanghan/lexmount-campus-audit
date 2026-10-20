@@ -1,0 +1,1391 @@
+{
+  "_site": {
+    "slug": "sjtu",
+    "name": "上海交通大学",
+    "url": "https://www.sjtu.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.sjtu.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 5553,
+    "sent_at": "2026-10-20T10:56:56+0800"
+  },
+  "metadata": {
+    "dom_id": "855503",
+    "server_elapsed_ms": 5316
+  },
+  "request_id": "613398f3-2b54-40b5-9cd5-1a918dad8dee",
+  "result": {
+    "url": "https://www.sjtu.edu.cn",
+    "final_url": "https://www.sjtu.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:56:56.427119866Z",
+    "title": "上海交通大学中文主页门户网站",
+    "main_text": "上海交通大学中文主页门户网站 ENGLISH 校历 地图 视觉交大 图书馆 院系设置 工科 船舶海洋与建筑工程学院 机械与动力工程学院 电子信息与电气工程学院 电气工程学院 自动化与感知学院 计算机学院（网络空间安全学院、密码学院） 集成电路学院（信息与电子工程学院） 材料科学与工程学院 环境科学与工程学院 生物医学工程学院 航空航天学院 理科 数学科学学院 物理与天文学院 化学化工学院 海洋学院 生命科学 生命科学技术学院 农业与生物学院 医学院 药学院 人文社科 安泰经济与管理学院 凯原法学院 外国语学院 人文学院 马克思主义学院 国际与公共事务学院 媒体与传播学院 设计学院 体育系 上海高级金融学院 国际化办学 浦江国际学院 巴黎卓越工程师学院 上海交通大学国际文化创意产业学院 中欧国际工商学院 中英国际低碳学院 交叉学科 致远学院 教育学院 智慧能源创新学院 溥渊未来技术学院 人工智能学院 心理学院 能源前沿学院 生物医药前沿学院 量子科技学院 研究院·基础研究 系统生物医学研究院 自然科学研究院 海洋研究院 李政道研究所 中国法与社会研究院 变革性分子前沿科学中心 张江高等研究院 研究院·应用基础研究 能源研究院 空天科学技术研究院 汽车工程研究院 航空发动机研究院 燃气轮机研究院 上海智能制造研究院 医疗机器人研究院 医学影像先进技术研究院 人工智能研究院 三亚崖州湾深海科技研究院 元知机器人研究院 研究院·综合交叉 Bio-X研究院 Med-X研究院 转化医学研究院 个性化医学研究院 董浩云智能管理与物流研究院（中美物流研究院） 新农村发展研究院 碳中和发展研究院 区域国别研究院 机构设置 机关部处 党政办公室 【合署： 改革与发展研究室、 安全保障委员会办公室、 地方合作办公室（乡村振兴办公室）、 大零号湾专项办公室、 特区学院协调办公室；挂靠：信访工作办公室、法律事务室、机要室】 纪检监察机构 （下设：办公室、第一纪检监察室、第二纪检监察室、综合业务室） 党委巡视工作领导小组办公室 党委组织部 （合署：党委党校、机关党委、老干部处、党委机构编制委员会办公室） 党委宣传部 （合署： 新闻中心、 精神文明办公室 ；挂靠：网络宣传与管理领导小组办公室） 党委统战部 学生工作指导委员会 （合署：学生处、人民武装部、团委；挂靠：学生事务中心、心理健康教育与咨询中心） 工会 （合署： 妇女工作委员会 ） 研究生院 （合署： 国家卓越工程师学院 ） 教务处 （合署： 招生办公室 ） 科学技术发展研究院 （合署：前沿创新研究院、先进技术与装备研究院、 先进产业技术研究院 、学术发展与成果处、 科研质量管理处、 地方研究院管理处 ） 文科建设处 （合署：国际金融学院；挂靠： 智库中心、 智慧人文社科中心 ） 国际合作与交流处 （合署： 港澳台办公室 、张江国际理工学院；挂靠： 出入境管理与服务中心、 留学生发展中心、 德国中心 ） 人力资源处 （合署： 党委教师工作部 、人才引进与服务中心；挂靠：退休人员事务中心、人才工作领导小组办公室） 财务计划处 规划发展处 （合署： 重点建设办公室 、信息化推进办公室） 审计处 信息安全管理办公室 资产管理与实验室处 （合署：实验室安全与环保中心） 国有资产监督管理委员会办公室 保卫处 基建处 发展联络处 校友总会办公室 招投标与政府采购办公室 校园管理办公室 直（附）属单位 图书馆 档案文博管理中心 （合署：李政道图书馆） 教育技术中心 网络信息中心 （挂靠：网络安全和信息化领导小组办公室） 分析测试中心 学生创新中心 教学发展中心 终身教育学院 钱学森图书馆 后勤保障中心 （合署：校医院） 附属中学 期刊中心 新加坡研究生院 长兴海洋实验室 （合署：上海海洋装备前瞻技术研究院） 转化医学研究院（大健康专项办公室） 张江高等研究院 校区建设指挥部办公室 深远海大科学设施指挥部办公室 基础教育办公室 产教融合创新平台建设指挥部办公室 桐乡高等研究院 直属研究平台 李政道研究所 系统生物医学研究院 变革性分子前沿科学中心 元知机器人研究院 廉政与法治研究院 全健康研究院 智能传播研究院 主动健康战略与发展研究院 低空科学技术研究院（低空经济产业技术研究院） 深远海科学与工程研究院 磁共振诊疗高端技术国家工程研究中心 海洋工程全国重点实验室 机械系统与振动全国重点实验室 创新免疫治疗全国重点实验室 组学与疾病全国重点实验室 肿瘤系统医学全国重点实验室 直管企业 上海交大企业发展集团有限公司 上海交通大学出版社有限公司 上海交大教育服务产业投资管理（集团）有限公司 上海交大海洋水下工程科学研究院有限公司 上海交大知识产权管理有限公司 附属医院 瑞金医院 仁济医院 新华医院 第九人民医院 上海市第一人民医院 上海市第六人民医院 上海儿童医学中心 上海市儿童医院 上海市胸科医院 上海市精神卫生中心 国际和平妇幼保健院 同仁医院 松江医院 附属学校 上海交通大学附属中学 （含嘉定分校 、 闵行分校） 上海交通大学附属闵行实验学校 上海交通大学附属闵行马桥实验学校 上海交通大学附属嘉定实验学校 上海交通大学附属中学浦东实验学校 上海交通大学附属第二中学 上海交通大学附属黄浦实验中学 上海交通大学附属浦东实验中学 上海交通大学附属浦东临港实验中学 上海交通大学附属小学 上海交通大学附属实验小学 上海交通大学附属黄浦实验小学 上海交通大学附属浦东实验小学 上海交通大学附属浦东临港实验小学 上海交通大学幼儿园 上海交通大学闵行幼儿园 上海交通大学附属闵行吴泾幼儿园 浦东新区周浦幼儿园（交医部） 访客 学生 教师 校友 ENGLISH 院系设置 机构设置 交大校历 交大地图 视觉交大 图书馆 关于交大 学校简介 历史沿革 现任领导 历任领导 交大年报 数据统计 人才培养 本科生培养 本科生选课 本科生招生 等级考试 创新实践 研究生培养 研究生选课 研究生招生 招生简章 综合服务 学生就业 海外访学 通识MOOC 学生创新 实验教学示范中心 教学信息服务网 教学发展 教育技术 非学历教育 师资建设 教学名师 人事管理 教师主页 人才招聘 科学研究 研究院 国家级科研平台 智库机构 科研管理系统 省部级科研平台 交大学术期刊 全球交大 交流动态 留学交大 海外访学 港澳台交流 孔子学院 出入境管理 大学文化 文明在线 图书馆 李政道图书馆 交大出版社 国保校园 视觉形象识别系统 交大博物馆 校史馆 钱学森图书馆 董浩云航运博物馆 程及美术馆 视觉交大 访客 学生 教师 校友 访客 学生 教师 校友 × 网站建设中 上海交通大学2026年庆祝敬老节暨表彰大会召开 上海交大携30项成果亮相第26届工博会 厚植创新策源势能赋能新质生产力 《诗行长江》——感知长江人文与自然景观 上海交大学习贯彻习近平总书记重要回信精神 国之重器“远海浮动岛”建造签约 校领导出席国际视听艺术之夜 上海交通大学2026年庆祝敬老节暨表彰大会召开 上海交大携30项成果亮相第26届工博会 厚植创新策源势能赋能新质生产力 《诗行长江》——感知长江人文与自然景观 上海交大学习贯彻习近平总书记重要回信精神 国之重器“远海浮动岛”建造签约 校领导出席国际视听艺术之夜 上海交通大学材料学科高质量发展大会暨全球材料学院院长论坛举行 2026年10月18日 自然资源部海洋预警监测司、国家海洋技术中心调研“远海浮动岛” 2026年10月16日 “上海交通大学凯原法学院习近平法治思想体系化学理化学术化研讨会暨《交大法学》习近平法治思想研究专栏建设研讨会”顺利举行 2026年10月16日 【交大名师】关增建：以科学史为舟，载学子横渡科技文明的浩瀚长河 2026年10月14日 交大要闻 专题 | 上海交大开展树立和践行正确政绩观学习教育 专题 | 聚爱思源 同心致远 上海交通大学校长丁奎岭院士为青年学子讲授思政课 上海交通大学2026级新疆籍本科新生座谈会举行 “智汇潇湘 才聚湖南”2026年上海站专场招聘活动举行 弦歌百卅 思启三百 丁奎岭校长第300期大师讲坛分享合成创造未来 常州市市长周伟一行到访上海交大 校领导带队赴航空工业通飞调研交流 上海交通大学桐乡高等研究院首批 科研平台（团队）师生入驻 上海交通大学“红途寻访”系列活动走进河南永城 更多 通知通告 关于组织全校教职工人工智能素养提升专题培训暨“AI素养大讲堂”第二讲的通知 关于中国高校第九届教学学术年会“教学学术：人工智能时代的高校课程重构与学习设计”的征稿通知 关于开放教学发展中心2026年秋季学期优秀教师公开课的通知 2026年上海市“中华文化国际传播”项目申报的通知 上海交通大学关于2026年放假及调课安排的通知 更多 媒体聚焦 【新华社】 赵军：科技竞争正从“单点突破”转向“体系能力”｜智见观察 【人民日报】 纪实性与故事性双向奔赴（坚持“两创”·关注新大众文艺） 【青年报】 全球胜任力究竟意味着什么？交大青年在跨文化实践中找寻答案 【文汇报】 他们破解生命为何只选择了“一只手” 更多 上海交大李泽晖课题组Environ. Int.报道基于异味源指纹谱的传感阵列开发与工业园区网格化精准溯源 上海交大黄勇平团队ES&T发文介绍黑水虻肠道微生物防控植物病害新思路 上海交大张礼知团队在Nature Reviews Chemistry发文总结非均相催化中的界面氢转移过程 上海交大海洋学院王风平教授团队发现古菌“吃油产气”新途径，拓展产甲烷古菌底物范围 上海交大曹心德教授团队Nat. Commun.发文揭示地表环境太阳能非生物转化关键机制及其生物地球化学效应 18 个 国家“双一流”学科 12 个 学科入选上海市高峰学科 23 个 世界Top50学科，38个世界Top100学科（QS） 30 个 世界Top50学科，41个世界Top100学科（软科） 1800 项 获2025年国家自然科学基金各类资助 61 篇 2025年CNS文章发表 5 位 交大人获国家最高科技奖 2 项一等奖 8项第一完成单位成果获2023年度国家科学技术奖 6 次 捧得全国大学生课外学术科技作品竞赛最高荣誉“挑战杯” 3 夺总冠军 ACM世界大学生计算机程序设计大赛 60 个 国家级一流本科专业建设点 近 3000 人次 2025年度，在500余项国内外学生科创大赛中摘金夺银 学术日历 交大名师 【交大名师】关增建：以科学史为舟，载学子横渡科技文明的浩瀚长河 交大名师 申岩峰：培养具有深厚家国情怀的国际化领军人才 初心·印迹 陈英明：此心不移，初心不改 交大名师 王亚光：以数为炬传薪火 笃行育人担使命 交大名师 《校企合作毕业设计》教学团队：立足产业真问题，锻造工程真本领 交大名师 陈巨兵：工程一线探力学真知，实验台前育创新英才 更多专栏 张杰所长新生第一课：如何成长为一流的科学家？ 以青春韧劲登上亚洲之巅 交大学子，4金1银2铜 盛夏交大，热力值拉满 交小鳌、交大终身+：与千万你我，共启新程 暑期参观交大，这份指南请收藏 军营归来，他们在交大书写新的答卷 交大“85后”教师，爆改乡村老宅建图书馆 快速入口 My SJTU 班车信息 图书资料 交大邮箱 教学信息服务 视觉形象识别系统 机关服务评议 校园管理 校园安全 综合信息 网络信息中心 信息公开 在线教学平台 水源社区 视觉交大",
+    "language": "zh-hans",
+    "links": [
+      {
+        "text": "人工智能研究院",
+        "href": "http://ai.sjtu.edu.cn/"
+      },
+      {
+        "text": "先进产业技术研究院",
+        "href": "http://aitri.sjtu.edu.cn/"
+      },
+      {
+        "text": "校友总会办公室",
+        "href": "http://alumni.sjtu.edu.cn/"
+      },
+      {
+        "text": "档案文博管理中心",
+        "href": "http://archives.sjtu.edu.cn/"
+      },
+      {
+        "text": "生物医学工程学院",
+        "href": "http://bme.sjtu.edu.cn"
+      },
+      {
+        "text": "保卫处",
+        "href": "http://bwc.sjtu.edu.cn/"
+      },
+      {
+        "text": "出入境管理与服务中心、",
+        "href": "http://cgcj.sjtu.edu.cn"
+      },
+      {
+        "text": "中欧国际工商学院",
+        "href": "http://cn.ceibs.edu"
+      },
+      {
+        "text": "教学发展中心",
+        "href": "http://ctld.sjtu.edu.cn/"
+      },
+      {
+        "text": "教学发展",
+        "href": "http://ctld.sjtu.edu.cn/"
+      },
+      {
+        "text": "上海交大海洋水下工程科学研究院有限公司",
+        "href": "http://cuti.sjtu.edu.cn/"
+      },
+      {
+        "text": "党政办公室",
+        "href": "http://dzb.sjtu.edu.cn/"
+      },
+      {
+        "text": "本科生选课",
+        "href": "http://electsys.sjtu.edu.cn"
+      },
+      {
+        "text": "教学信息服务网",
+        "href": "http://electsys.sjtu.edu.cn/"
+      },
+      {
+        "text": "ENGLISH",
+        "href": "http://en.sjtu.edu.cn/"
+      },
+      {
+        "text": "能源研究院",
+        "href": "http://energy.sjtu.edu.cn/"
+      },
+      {
+        "text": "教育技术",
+        "href": "http://etc.sjtu.edu.cn/"
+      },
+      {
+        "text": "教育技术中心",
+        "href": "http://etc.sjtu.edu.cn/"
+      },
+      {
+        "text": "妇女工作委员会",
+        "href": "http://fwh.sjtu.edu.cn"
+      },
+      {
+        "text": "非学历教育",
+        "href": "http://fxl.sjtu.edu.cn/"
+      },
+      {
+        "text": "改革与发展研究室、",
+        "href": "http://gfb.sjtu.edu.cn"
+      },
+      {
+        "text": "工会",
+        "href": "http://gh.sjtu.edu.cn/"
+      },
+      {
+        "text": "国际合作与交流处",
+        "href": "http://global.sjtu.edu.cn/"
+      },
+      {
+        "text": "港澳台办公室",
+        "href": "http://global.sjtu.edu.cn/hmt"
+      },
+      {
+        "text": "后勤保障中心",
+        "href": "http://houqin.sjtu.edu.cn/"
+      },
+      {
+        "text": "人力资源处",
+        "href": "http://hr.sjtu.edu.cn/"
+      },
+      {
+        "text": "分析测试中心",
+        "href": "http://iac.sjtu.edu.cn/"
+      },
+      {
+        "text": "上海交大知识产权管理有限公司",
+        "href": "http://ipm.sjtu.edu.cn/"
+      },
+      {
+        "text": "纪检监察机构",
+        "href": "http://jiwei.sjtu.edu.cn/"
+      },
+      {
+        "text": "党委巡视工作领导小组办公室",
+        "href": "http://jiwei.sjtu.edu.cn/"
+      },
+      {
+        "text": "国有资产监督管理委员会办公室",
+        "href": "http://jzb.sjtu.edu.cn/"
+      },
+      {
+        "text": "等级考试",
+        "href": "http://ks.sjtu.edu.cn"
+      },
+      {
+        "text": "凯原法学院",
+        "href": "http://law.sjtu.edu.cn"
+      },
+      {
+        "text": "地方合作办公室（乡村振兴办公室）、",
+        "href": "http://lc.sjtu.edu.cn"
+      },
+      {
+        "text": "中英国际低碳学院",
+        "href": "http://lcc.sjtu.edu.cn"
+      },
+      {
+        "text": "生命科学技术学院",
+        "href": "http://life.sjtu.edu.cn"
+      },
+      {
+        "text": "地图",
+        "href": "http://map.sjtu.edu.cn/"
+      },
+      {
+        "text": "交大地图",
+        "href": "http://map.sjtu.edu.cn/"
+      },
+      {
+        "text": "机械与动力工程学院",
+        "href": "http://me.sjtu.edu.cn"
+      },
+      {
+        "text": "",
+        "href": "http://mooc.sjtu.edu.cn"
+      },
+      {
+        "text": "船舶海洋与建筑工程学院",
+        "href": "http://naoce.sjtu.edu.cn"
+      },
+      {
+        "text": "新闻中心、",
+        "href": "http://news.sjtu.edu.cn"
+      },
+      {
+        "text": "药学院",
+        "href": "http://pharm.sjtu.edu.cn"
+      },
+      {
+        "text": "人事管理",
+        "href": "http://rsc2.sjtu.edu.cn/HR/UI/SystemDefault.aspx"
+      },
+      {
+        "text": "学生工作指导委员会",
+        "href": "http://sac.sjtu.edu.cn/"
+      },
+      {
+        "text": "化学化工学院",
+        "href": "http://scce.sjtu.edu.cn"
+      },
+      {
+        "text": "环境科学与工程学院",
+        "href": "http://sese.sjtu.edu.cn"
+      },
+      {
+        "text": "外国语学院",
+        "href": "http://sfl.sjtu.edu.cn"
+      },
+      {
+        "text": "人文学院",
+        "href": "http://shss.sjtu.edu.cn"
+      },
+      {
+        "text": "审计处",
+        "href": "http://sjchu.sjtu.edu.cn/"
+      },
+      {
+        "text": "通识MOOC",
+        "href": "http://sjtu.fanya.chaoxing.com/portal"
+      },
+      {
+        "text": "材料科学与工程学院",
+        "href": "http://smse.sjtu.edu.cn"
+      },
+      {
+        "text": "海洋学院",
+        "href": "http://soo.sjtu.edu.cn/"
+      },
+      {
+        "text": "巴黎卓越工程师学院",
+        "href": "http://speit.sjtu.edu.cn"
+      },
+      {
+        "text": "李政道研究所",
+        "href": "http://tdli.sjtu.edu.cn/"
+      },
+      {
+        "text": "体育系",
+        "href": "http://tiyuxi.sjtu.edu.cn"
+      },
+      {
+        "text": "转化医学研究院（大健康专项办公室）",
+        "href": "http://transmed.sjtu.edu.cn/"
+      },
+      {
+        "text": "党委统战部",
+        "href": "http://tzb.sjtu.edu.cn/"
+      },
+      {
+        "text": "创新实践",
+        "href": "http://uitp.sjtu.edu.cn"
+      },
+      {
+        "text": "视觉交大",
+        "href": "http://vs.sjtu.edu.cn/"
+      },
+      {
+        "text": "文科建设处",
+        "href": "http://wk.sjtu.edu.cn/"
+      },
+      {
+        "text": "精神文明办公室",
+        "href": "http://wm.sjtu.edu.cn"
+      },
+      {
+        "text": "上海市第六人民医院",
+        "href": "http://www.6thhosp.com/"
+      },
+      {
+        "text": "第九人民医院",
+        "href": "http://www.9hospital.com.cn/"
+      },
+      {
+        "text": "安泰经济与管理学院",
+        "href": "http://www.acem.sjtu.edu.cn"
+      },
+      {
+        "text": "航空航天学院",
+        "href": "http://www.aero.sjtu.edu.cn"
+      },
+      {
+        "text": "农业与生物学院",
+        "href": "http://www.agri.sjtu.edu.cn"
+      },
+      {
+        "text": "上海市第一人民医院",
+        "href": "http://www.firsthospital.cn/home/index.html"
+      },
+      {
+        "text": "研究生院",
+        "href": "http://www.gs.sjtu.edu.cn/"
+      },
+      {
+        "text": "研究生培养",
+        "href": "http://www.gs.sjtu.edu.cn/"
+      },
+      {
+        "text": "新农村发展研究院",
+        "href": "http://www.inrd.sjtu.edu.cn/"
+      },
+      {
+        "text": "财务计划处",
+        "href": "http://www.jdcw.sjtu.edu.cn/"
+      },
+      {
+        "text": "上海交通大学出版社有限公司",
+        "href": "http://www.jiaodapress.com.cn/"
+      },
+      {
+        "text": "学生就业",
+        "href": "http://www.job.sjtu.edu.cn/"
+      },
+      {
+        "text": "本科生培养",
+        "href": "http://www.jwc.sjtu.edu.cn"
+      },
+      {
+        "text": "教务处",
+        "href": "http://www.jwc.sjtu.edu.cn/"
+      },
+      {
+        "text": "图书馆",
+        "href": "http://www.lib.sjtu.edu.cn/"
+      },
+      {
+        "text": "数学科学学院",
+        "href": "http://www.math.sjtu.edu.cn"
+      },
+      {
+        "text": "物理与天文学院",
+        "href": "http://www.physics.sjtu.edu.cn"
+      },
+      {
+        "text": "钱学森图书馆",
+        "href": "http://www.qianxslib.sjtu.edu.cn/"
+      },
+      {
+        "text": "期刊中心",
+        "href": "http://www.qk.sjtu.edu.cn"
+      },
+      {
+        "text": "瑞金医院",
+        "href": "http://www.rjh.com.cn/"
+      },
+      {
+        "text": "上海高级金融学院",
+        "href": "http://www.saif.sjtu.edu.cn"
+      },
+      {
+        "text": "电子信息与电气工程学院",
+        "href": "http://www.seiee.sjtu.edu.cn"
+      },
+      {
+        "text": "智慧能源创新学院",
+        "href": "http://www.senergy.sjtu.edu.cn/"
+      },
+      {
+        "text": "上海市儿童医院",
+        "href": "http://www.shchildren.com.cn/"
+      },
+      {
+        "text": "医学院",
+        "href": "http://www.shsmu.edu.cn"
+      },
+      {
+        "text": "上海市胸科医院",
+        "href": "http://www.shxkyy.com/"
+      },
+      {
+        "text": "国际与公共事务学院",
+        "href": "http://www.sipa.sjtu.edu.cn"
+      },
+      {
+        "text": "新加坡研究生院",
+        "href": "http://www.sjtu-apgi.edu.sg/"
+      },
+      {
+        "text": "中国法与社会研究院",
+        "href": "http://www.socio-legal.sjtu.edu.cn/"
+      },
+      {
+        "text": "董浩云智能管理与物流研究院（中美物流研究院）",
+        "href": "http://www.sugli.sjtu.edu.cn/"
+      },
+      {
+        "text": "新华医院",
+        "href": "http://www.xinhuamed.com.cn/"
+      },
+      {
+        "text": "人才培养",
+        "href": "https://www.sjtu.edu.cn/"
+      },
+      {
+        "text": "师资建设",
+        "href": "https://www.sjtu.edu.cn/"
+      },
+      {
+        "text": "机构设置",
+        "href": "https://www.sjtu.edu.cn/"
+      },
+      {
+        "text": "院系设置",
+        "href": "https://www.sjtu.edu.cn/"
+      },
+      {
+        "text": "",
+        "href": "https://www.sjtu.edu.cn/"
+      },
+      {
+        "text": "关于交大",
+        "href": "https://www.sjtu.edu.cn/"
+      },
+      {
+        "text": "机构设置",
+        "href": "https://www.sjtu.edu.cn/jgsz/index.html"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/LogoWhite.png",
+        "alt": "上海交通大学"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/building/lzdLibrary.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/building/oldLibrary.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/building/oldbuilding.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/building/qxsLibrary.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/jx130znsyzyxxtq.png",
+        "alt": "上海交通大学建校130周年专题网"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/school.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title-school.png",
+        "alt": "*"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title_column.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title_learning.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title_science.png",
+        "alt": "*"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/szcxxztq1.png",
+        "alt": "上海交通大学第十二次党代会专题网"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/ts.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/wxgzh.jpg",
+        "alt": "2021年省级政府履新教育职责满意度调查"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/xs.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/xy.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/assets/img/zl.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202501/20250113_112126_766.png",
+        "alt": "上海交大学习贯彻习近平总书记重要回信精神"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202607/20260720_122052_150.png",
+        "alt": "交大“85后”教师，爆改乡村老宅建图书馆"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202607/20260724_094402_612.png",
+        "alt": "盛夏交大，热力值拉满"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260807_164949_152.jpg",
+        "alt": "军营归来，他们在交大书写新的答卷"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260807_165349_126.jpg",
+        "alt": "交大学子，4金1银2铜"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260815_155248_428.png",
+        "alt": "暑期参观交大，这份指南请收藏"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260815_160150_898.png",
+        "alt": "以青春韧劲登上亚洲之巅"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260912_220437_802.jpg",
+        "alt": "陈巨兵：工程一线探力学真知，实验台前育创新英才"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260917_143052_279.png",
+        "alt": "《校企合作毕业设计》教学团队：立足产业真问题，锻造工程真本领"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260923_094824_975.jpg",
+        "alt": "王亚光：以数为炬传薪火 笃行育人担使命"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260924_113522_347.jpg",
+        "alt": "上海交大海洋学院王风平教授团队发现古菌“吃油产气”新途径，拓展产甲烷古菌底物范围"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260926_212202_247.jpg",
+        "alt": "交小鳌、交大终身+：与千万你我，共启新程"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260929_171441_452.png",
+        "alt": "上海交大黄勇平团队ES&amp;T发文介绍黑水虻肠道微生物防控植物病害新思路"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260930_095859_263.jpg",
+        "alt": "张杰所长新生第一课：如何成长为一流的科学家？"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260930_100314_994.jpg",
+        "alt": "陈英明：此心不移，初心不改"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260930_164344_135.jpg",
+        "alt": "申岩峰：培养具有深厚家国情怀的国际化领军人才"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261006_173119_420.jpg",
+        "alt": "上海交大张礼知团队在Nature Reviews Chemistry发文总结非均相催化中的界面氢转移过程"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261006_204759_678.png",
+        "alt": "上海交大李泽晖课题组Environ. Int.报道基于异味源指纹谱的传感阵列开发与工业园区网格化精准溯源"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261007_161858_288.jpg",
+        "alt": "上海交大曹心德教授团队Nat. Commun.发文揭示地表环境太阳能非生物转化关键机制及其生物地球化学效应"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261010_113521_735.jpg",
+        "alt": "《诗行长江》——感知长江人文与自然景观"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261012_180033_577.jpg",
+        "alt": "上海交大携30项成果亮相第26届工博会 厚植创新策源势能赋能新质生产力"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261014_150403_108.png",
+        "alt": "【交大名师】关增建：以科学史为舟，载学子横渡科技文明的浩瀚长河"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261014_170452_424.jpg",
+        "alt": "上海交通大学2026年庆祝敬老节暨表彰大会召开"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261016_154442_625.png",
+        "alt": "“上海交通大学凯原法学院习近平法治思想体系化学理化学术化研讨会暨《交大法学》习近平法治思想研究专栏建设研讨会”顺利举行"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261016_181102_611.jpg",
+        "alt": "自然资源部海洋预警监测司、国家海洋技术中心调研“远海浮动岛”"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261018_125906_551.jpg",
+        "alt": "上海交通大学材料学科高质量发展大会暨全球材料学院院长论坛举行"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261019_102637_777.jpeg",
+        "alt": "校领导出席国际视听艺术之夜"
+      },
+      {
+        "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261020_095540_231.jpg",
+        "alt": "国之重器“远海浮动岛”建造签约"
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "855503",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 5725, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.sjtu.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-20T02:56:55.478670Z\u001b[0m \u001b[31mERROR\u001b[0m uncaught script error Uncaught Error: Syntax error, unrecognized expression: # \u001b[3msource\u001b[0m\u001b[2m=\u001b[0m\"https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js\" \u001b[3mline\u001b[0m\u001b[2m=\u001b[0m2 \u001b[3mcolumn\u001b[0m\u001b[2m=\u001b[0m13600 \u001b[3msource_line\u001b[0m\u001b[2m=\u001b[0m\"!function(e,t){\\\"use strict\\\";\\\"object\\\"==typeof module&&\\\"object\\\"==typeof module.exports?module.exports=e.document?t(e,!0):function(e){if(!e.document)throw new Error(\\\"jQuery requires a window with a document\\\");return t(e)}:t(e)}(\\\"undefined\\\"!=typeof window?window:this,function(C,e){\\\"use strict\\\";var t=[],r=Object.getPrototypeOf,s=t.slice,g=t.flat?function(e){return t.flat.call(e)}:function(e){return t.concat.apply([],e)},u=t.push,i=t.indexOf,n={},o=n.toString,v=n.hasOwnProperty,a=v.toString,l=a.call(Object),y={},m=function(e){return\\\"function\\\"==typeof e&&\\\"number\\\"!=typeof e.nodeType},x=function(e){return null!=e&&e===e.window},E=C.document,c={type:!0,src:!0,nonce:!0,noModule:!0};function b(e,t,n){var r,i,o=(n=n||E).createElement(\\\"script\\\");if(o.text=e,t)for(r in c)(i=t[r]||t.getAttribute&&t.getAttribute(r))&&o.setAttribute(r,i);n.head.appendChild(o).parentNode.removeChild(o)}function w(e){return null==e?e+\\\"\\\":\\\"object\\\"==typeof e||\\\"function\\\"==typeof e?n[o.call(e)]||\\\"object\\\":typeof e}va...[truncated; original_bytes=89390]\"\n\u001b[2m2026-10-20T02:56:55.478701Z\u001b[0m \u001b[31mERROR\u001b[0m v8 exception stack backtrace: \u001b[3mbacktrace\u001b[0m\u001b[2m=\u001b[0m\"Error: Syntax error, unrecognized expression: #\\n    at se.error (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:13606)\\n    at se.tokenize (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:21617)\\n    at se.select (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:22444)\\n    at S.se [as find] (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:7089)\\n    at S.fn.init.find (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:25014)\\n    at new S.fn.init (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:25503)\\n    at S (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:1024)\\n    at a (https://www.sjtu.edu.cn/resource/assets/js/ETUI/ETUI3.min.js:13:1603)\\n    at HTMLAnchorElement.<anonymous> (https://www.sjtu.edu.cn/resource/assets/js/ETUI/ETUI3.min.js:13:822)\\n    at S.each (https://www.sjtu.edu.cn/resource/assets/js/ETUI/jquery.min.1.12.4.js:2:2976)\"\n\u001b[2m2026-10-20T02:56:55.770974Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.sjtu.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m559",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "dom_summary": {
+        "headings": [
+          "工科",
+          "理科",
+          "生命科学",
+          "人文社科",
+          "国际化办学",
+          "交叉学科",
+          "研究院·基础研究",
+          "研究院·应用基础研究",
+          "研究院·综合交叉",
+          "机关部处",
+          "直（附）属单位",
+          "直属研究平台",
+          "直管企业",
+          "附属医院",
+          "附属学校",
+          "网站建设中",
+          "上海交通大学2026年庆祝敬老节暨表彰大会召开",
+          "上海交大携30项成果亮相第26届工博会 厚植创新策源势能赋能新质生产力",
+          "《诗行长江》——感知长江人文与自然景观"
+        ],
+        "paragraphs": [
+          "上海交大李泽晖课题组Environ. Int.报道基于异味源指纹谱的传感阵列开发与工业园区网格化精准溯源",
+          "上海交大黄勇平团队ES&T发文介绍黑水虻肠道微生物防控植物病害新思路",
+          "上海交大张礼知团队在Nature Reviews Chemistry发文总结非均相催化中的界面氢转移过程",
+          "上海交大海洋学院王风平教授团队发现古菌“吃油产气”新途径，拓展产甲烷古菌底物范围",
+          "上海交大曹心德教授团队Nat. Commun.发文揭示地表环境太阳能非生物转化关键机制及其生物地球化学效应",
+          "国家“双一流”学科",
+          "学科入选上海市高峰学科",
+          "世界Top50学科，38个世界Top100学科（QS）",
+          "世界Top50学科，41个世界Top100学科（软科）",
+          "获2025年国家自然科学基金各类资助",
+          "2025年CNS文章发表",
+          "获立2024年国家社科基金项目",
+          "交大人获国家最高科技奖",
+          "8项第一完成单位成果获2023年度国家科学技术奖",
+          "中国科学院院士",
+          "中国工程院院士",
+          "专任教师",
+          "捧得全国大学生课外学术科技作品竞赛最高荣誉“挑战杯”",
+          "ACM世界大学生计算机程序设计大赛"
+        ],
+        "lists": [
+          [
+            "ENGLISH",
+            "校历",
+            "地图",
+            "视觉交大",
+            "图书馆"
+          ],
+          [
+            "院系设置 工科 船舶海洋与建筑工程学院",
+            "机械与动力工程学院",
+            "电子信息与电气工程学院",
+            "电气工程学院",
+            "自动化与感知学院",
+            "计算机学院（网络空间安全学院、密码学院）",
+            "集成电路学院（信息与电子工程学院）",
+            "材料科学与工程学院",
+            "环境科学与工程学院",
+            "生物医学工程学院",
+            "航空航天学院"
+          ],
+          [
+            "数学科学学院",
+            "物理与天文学院",
+            "化学化工学院",
+            "海洋学院"
+          ],
+          [
+            "生命科学技术学院",
+            "农业与生物学院",
+            "医学院",
+            "药学院"
+          ],
+          [
+            "安泰经济与管理学院",
+            "凯原法学院",
+            "外国语学院",
+            "人文学院",
+            "马克思主义学院",
+            "国际与公共事务学院",
+            "媒体与传播学院",
+            "设计学院",
+            "体育系",
+            "上海高级金融学院"
+          ],
+          [
+            "浦江国际学院",
+            "巴黎卓越工程师学院",
+            "上海交通大学国际文化创意产业学院",
+            "中欧国际工商学院",
+            "中英国际低碳学院"
+          ],
+          [
+            "致远学院",
+            "教育学院",
+            "智慧能源创新学院",
+            "溥渊未来技术学院",
+            "人工智能学院",
+            "心理学院",
+            "能源前沿学院",
+            "生物医药前沿学院",
+            "量子科技学院"
+          ],
+          [
+            "系统生物医学研究院",
+            "自然科学研究院",
+            "海洋研究院",
+            "李政道研究所",
+            "中国法与社会研究院",
+            "变革性分子前沿科学中心",
+            "张江高等研究院"
+          ],
+          [
+            "能源研究院",
+            "空天科学技术研究院",
+            "汽车工程研究院",
+            "航空发动机研究院",
+            "燃气轮机研究院",
+            "上海智能制造研究院",
+            "医疗机器人研究院",
+            "医学影像先进技术研究院",
+            "人工智能研究院",
+            "三亚崖州湾深海科技研究院",
+            "元知机器人研究院"
+          ],
+          [
+            "Bio-X研究院",
+            "Med-X研究院",
+            "转化医学研究院",
+            "个性化医学研究院",
+            "董浩云智能管理与物流研究院（中美物流研究院）",
+            "新农村发展研究院",
+            "碳中和发展研究院",
+            "区域国别研究院"
+          ]
+        ],
+        "forms": [
+          {
+            "action": "https://search.sjtu.edu.cn/search-all/search/data",
+            "method": "GET",
+            "fields": [
+              {
+                "name": "keyword",
+                "type": "text"
+              }
+            ]
+          }
+        ]
+      },
+      "images_detail": [
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/building/lzdLibrary.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/building/oldLibrary.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/building/oldbuilding.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/building/qxsLibrary.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/school.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title-school.png",
+          "alt": "*"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title_column.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title_learning.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/svg/title_science.png",
+          "alt": "*"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/ts.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/wxgzh.jpg",
+          "alt": "2021年省级政府履新教育职责满意度调查"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/xs.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/xy.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/zl.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202501/20250113_112126_766.png",
+          "alt": "上海交大学习贯彻习近平总书记重要回信精神"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202607/20260720_122052_150.png",
+          "alt": "交大“85后”教师，爆改乡村老宅建图书馆"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202607/20260724_094402_612.png",
+          "alt": "盛夏交大，热力值拉满"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260807_164949_152.jpg",
+          "alt": "军营归来，他们在交大书写新的答卷"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260807_165349_126.jpg",
+          "alt": "交大学子，4金1银2铜"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260815_155248_428.png",
+          "alt": "暑期参观交大，这份指南请收藏"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202608/20260815_160150_898.png",
+          "alt": "以青春韧劲登上亚洲之巅"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260912_220437_802.jpg",
+          "alt": "陈巨兵：工程一线探力学真知，实验台前育创新英才"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260917_143052_279.png",
+          "alt": "《校企合作毕业设计》教学团队：立足产业真问题，锻造工程真本领"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260923_094824_975.jpg",
+          "alt": "王亚光：以数为炬传薪火 笃行育人担使命"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260924_113522_347.jpg",
+          "alt": "上海交大海洋学院王风平教授团队发现古菌“吃油产气”新途径，拓展产甲烷古菌底物范围"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260926_212202_247.jpg",
+          "alt": "交小鳌、交大终身+：与千万你我，共启新程"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260929_171441_452.png",
+          "alt": "上海交大黄勇平团队ES&amp;T发文介绍黑水虻肠道微生物防控植物病害新思路"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260930_095859_263.jpg",
+          "alt": "张杰所长新生第一课：如何成长为一流的科学家？"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260930_100314_994.jpg",
+          "alt": "陈英明：此心不移，初心不改"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202609/20260930_164344_135.jpg",
+          "alt": "申岩峰：培养具有深厚家国情怀的国际化领军人才"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261006_173119_420.jpg",
+          "alt": "上海交大张礼知团队在Nature Reviews Chemistry发文总结非均相催化中的界面氢转移过程"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261006_204759_678.png",
+          "alt": "上海交大李泽晖课题组Environ. Int.报道基于异味源指纹谱的传感阵列开发与工业园区网格化精准溯源"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261007_161858_288.jpg",
+          "alt": "上海交大曹心德教授团队Nat. Commun.发文揭示地表环境太阳能非生物转化关键机制及其生物地球化学效应"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261010_113521_735.jpg",
+          "alt": "《诗行长江》——感知长江人文与自然景观"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261012_180033_577.jpg",
+          "alt": "上海交大携30项成果亮相第26届工博会 厚植创新策源势能赋能新质生产力"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261014_150403_108.png",
+          "alt": "【交大名师】关增建：以科学史为舟，载学子横渡科技文明的浩瀚长河"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261014_170452_424.jpg",
+          "alt": "上海交通大学2026年庆祝敬老节暨表彰大会召开"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261016_154442_625.png",
+          "alt": "“上海交通大学凯原法学院习近平法治思想体系化学理化学术化研讨会暨《交大法学》习近平法治思想研究专栏建设研讨会”顺利举行"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261016_181102_611.jpg",
+          "alt": "自然资源部海洋预警监测司、国家海洋技术中心调研“远海浮动岛”"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261018_125906_551.jpg",
+          "alt": "上海交通大学材料学科高质量发展大会暨全球材料学院院长论坛举行"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261019_102637_777.jpeg",
+          "alt": "校领导出席国际视听艺术之夜"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/upload/202610/20261020_095540_231.jpg",
+          "alt": "国之重器“远海浮动岛”建造签约"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/LogoWhite.png",
+          "alt": "上海交通大学"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/jx130znsyzyxxtq.png",
+          "alt": "上海交通大学建校130周年专题网"
+        },
+        {
+          "src": "https://www.sjtu.edu.cn/resource/assets/img/szcxxztq1.png",
+          "alt": "上海交通大学第十二次党代会专题网"
+        }
+      ],
+      "metadata": {
+        "language": "zh-Hans",
+        "title_candidates": [
+          "上海交通大学中文主页门户网站"
+        ],
+        "meta_tags": {
+          "apple-mobile-web-app-capable": "yes",
+          "apple-mobile-web-app-status-bar-style": "black",
+          "columnname": "上海交通大学中文主页门户网站首页",
+          "construction": "东方网电子政务中心 上海东方怡动信息技术有限公司",
+          "renderer": "webkit",
+          "sitedomain": "www.sjtu.edu.cn",
+          "sitename": "上海交通大学中文主页门户网站",
+          "viewport": "width=device-width, initial-scale=1.0, user-scalable=no"
+        }
+      },
+      "site_links": [
+        {
+          "text": "人才培养",
+          "href": "https://www.sjtu.edu.cn/"
+        },
+        {
+          "text": "师资建设",
+          "href": "https://www.sjtu.edu.cn/"
+        },
+        {
+          "text": "机构设置",
+          "href": "https://www.sjtu.edu.cn/"
+        },
+        {
+          "text": "院系设置",
+          "href": "https://www.sjtu.edu.cn/"
+        },
+        {
+          "text": "",
+          "href": "https://www.sjtu.edu.cn/"
+        },
+        {
+          "text": "关于交大",
+          "href": "https://www.sjtu.edu.cn/"
+        },
+        {
+          "text": "机构设置",
+          "href": "https://www.sjtu.edu.cn/jgsz/index.html"
+        },
+        {
+          "text": "人工智能研究院",
+          "href": "http://ai.sjtu.edu.cn/"
+        },
+        {
+          "text": "先进产业技术研究院",
+          "href": "http://aitri.sjtu.edu.cn/"
+        },
+        {
+          "text": "校友总会办公室",
+          "href": "http://alumni.sjtu.edu.cn/"
+        },
+        {
+          "text": "档案文博管理中心",
+          "href": "http://archives.sjtu.edu.cn/"
+        },
+        {
+          "text": "生物医学工程学院",
+          "href": "http://bme.sjtu.edu.cn"
+        },
+        {
+          "text": "保卫处",
+          "href": "http://bwc.sjtu.edu.cn/"
+        },
+        {
+          "text": "出入境管理与服务中心、",
+          "href": "http://cgcj.sjtu.edu.cn"
+        },
+        {
+          "text": "中欧国际工商学院",
+          "href": "http://cn.ceibs.edu"
+        },
+        {
+          "text": "教学发展中心",
+          "href": "http://ctld.sjtu.edu.cn/"
+        },
+        {
+          "text": "教学发展",
+          "href": "http://ctld.sjtu.edu.cn/"
+        },
+        {
+          "text": "上海交大海洋水下工程科学研究院有限公司",
+          "href": "http://cuti.sjtu.edu.cn/"
+        },
+        {
+          "text": "党政办公室",
+          "href": "http://dzb.sjtu.edu.cn/"
+        },
+        {
+          "text": "本科生选课",
+          "href": "http://electsys.sjtu.edu.cn"
+        },
+        {
+          "text": "教学信息服务网",
+          "href": "http://electsys.sjtu.edu.cn/"
+        },
+        {
+          "text": "ENGLISH",
+          "href": "http://en.sjtu.edu.cn/"
+        },
+        {
+          "text": "能源研究院",
+          "href": "http://energy.sjtu.edu.cn/"
+        },
+        {
+          "text": "教育技术",
+          "href": "http://etc.sjtu.edu.cn/"
+        },
+        {
+          "text": "教育技术中心",
+          "href": "http://etc.sjtu.edu.cn/"
+        },
+        {
+          "text": "妇女工作委员会",
+          "href": "http://fwh.sjtu.edu.cn"
+        },
+        {
+          "text": "非学历教育",
+          "href": "http://fxl.sjtu.edu.cn/"
+        },
+        {
+          "text": "改革与发展研究室、",
+          "href": "http://gfb.sjtu.edu.cn"
+        },
+        {
+          "text": "工会",
+          "href": "http://gh.sjtu.edu.cn/"
+        },
+        {
+          "text": "国际合作与交流处",
+          "href": "http://global.sjtu.edu.cn/"
+        },
+        {
+          "text": "港澳台办公室",
+          "href": "http://global.sjtu.edu.cn/hmt"
+        },
+        {
+          "text": "后勤保障中心",
+          "href": "http://houqin.sjtu.edu.cn/"
+        },
+        {
+          "text": "人力资源处",
+          "href": "http://hr.sjtu.edu.cn/"
+        },
+        {
+          "text": "分析测试中心",
+          "href": "http://iac.sjtu.edu.cn/"
+        },
+        {
+          "text": "上海交大知识产权管理有限公司",
+          "href": "http://ipm.sjtu.edu.cn/"
+        },
+        {
+          "text": "纪检监察机构",
+          "href": "http://jiwei.sjtu.edu.cn/"
+        },
+        {
+          "text": "党委巡视工作领导小组办公室",
+          "href": "http://jiwei.sjtu.edu.cn/"
+        },
+        {
+          "text": "国有资产监督管理委员会办公室",
+          "href": "http://jzb.sjtu.edu.cn/"
+        },
+        {
+          "text": "等级考试",
+          "href": "http://ks.sjtu.edu.cn"
+        },
+        {
+          "text": "凯原法学院",
+          "href": "http://law.sjtu.edu.cn"
+        },
+        {
+          "text": "地方合作办公室（乡村振兴办公室）、",
+          "href": "http://lc.sjtu.edu.cn"
+        },
+        {
+          "text": "中英国际低碳学院",
+          "href": "http://lcc.sjtu.edu.cn"
+        },
+        {
+          "text": "生命科学技术学院",
+          "href": "http://life.sjtu.edu.cn"
+        },
+        {
+          "text": "地图",
+          "href": "http://map.sjtu.edu.cn/"
+        },
+        {
+          "text": "交大地图",
+          "href": "http://map.sjtu.edu.cn/"
+        },
+        {
+          "text": "机械与动力工程学院",
+          "href": "http://me.sjtu.edu.cn"
+        },
+        {
+          "text": "",
+          "href": "http://mooc.sjtu.edu.cn"
+        },
+        {
+          "text": "船舶海洋与建筑工程学院",
+          "href": "http://naoce.sjtu.edu.cn"
+        },
+        {
+          "text": "新闻中心、",
+          "href": "http://news.sjtu.edu.cn"
+        },
+        {
+          "text": "药学院",
+          "href": "http://pharm.sjtu.edu.cn"
+        },
+        {
+          "text": "人事管理",
+          "href": "http://rsc2.sjtu.edu.cn/HR/UI/SystemDefault.aspx"
+        },
+        {
+          "text": "学生工作指导委员会",
+          "href": "http://sac.sjtu.edu.cn/"
+        },
+        {
+          "text": "化学化工学院",
+          "href": "http://scce.sjtu.edu.cn"
+        },
+        {
+          "text": "环境科学与工程学院",
+          "href": "http://sese.sjtu.edu.cn"
+        },
+        {
+          "text": "外国语学院",
+          "href": "http://sfl.sjtu.edu.cn"
+        },
+        {
+          "text": "人文学院",
+          "href": "http://shss.sjtu.edu.cn"
+        },
+        {
+          "text": "审计处",
+          "href": "http://sjchu.sjtu.edu.cn/"
+        },
+        {
+          "text": "通识MOOC",
+          "href": "http://sjtu.fanya.chaoxing.com/portal"
+        },
+        {
+          "text": "材料科学与工程学院",
+          "href": "http://smse.sjtu.edu.cn"
+        },
+        {
+          "text": "海洋学院",
+          "href": "http://soo.sjtu.edu.cn/"
+        },
+        {
+          "text": "巴黎卓越工程师学院",
+          "href": "http://speit.sjtu.edu.cn"
+        },
+        {
+          "text": "李政道研究所",
+          "href": "http://tdli.sjtu.edu.cn/"
+        },
+        {
+          "text": "体育系",
+          "href": "http://tiyuxi.sjtu.edu.cn"
+        },
+        {
+          "text": "转化医学研究院（大健康专项办公室）",
+          "href": "http://transmed.sjtu.edu.cn/"
+        },
+        {
+          "text": "党委统战部",
+          "href": "http://tzb.sjtu.edu.cn/"
+        },
+        {
+          "text": "创新实践",
+          "href": "http://uitp.sjtu.edu.cn"
+        },
+        {
+          "text": "视觉交大",
+          "href": "http://vs.sjtu.edu.cn/"
+        },
+        {
+          "text": "文科建设处",
+          "href": "http://wk.sjtu.edu.cn/"
+        },
+        {
+          "text": "精神文明办公室",
+          "href": "http://wm.sjtu.edu.cn"
+        },
+        {
+          "text": "上海市第六人民医院",
+          "href": "http://www.6thhosp.com/"
+        },
+        {
+          "text": "第九人民医院",
+          "href": "http://www.9hospital.com.cn/"
+        },
+        {
+          "text": "安泰经济与管理学院",
+          "href": "http://www.acem.sjtu.edu.cn"
+        },
+        {
+          "text": "航空航天学院",
+          "href": "http://www.aero.sjtu.edu.cn"
+        },
+        {
+          "text": "农业与生物学院",
+          "href": "http://www.agri.sjtu.edu.cn"
+        },
+        {
+          "text": "上海市第一人民医院",
+          "href": "http://www.firsthospital.cn/home/index.html"
+        },
+        {
+          "text": "研究生培养",
+          "href": "http://www.gs.sjtu.edu.cn/"
+        },
+        {
+          "text": "研究生院",
+          "href": "http://www.gs.sjtu.edu.cn/"
+        },
+        {
+          "text": "新农村发展研究院",
+          "href": "http://www.inrd.sjtu.edu.cn/"
+        },
+        {
+          "text": "财务计划处",
+          "href": "http://www.jdcw.sjtu.edu.cn/"
+        },
+        {
+          "text": "上海交通大学出版社有限公司",
+          "href": "http://www.jiaodapress.com.cn/"
+        },
+        {
+          "text": "学生就业",
+          "href": "http://www.job.sjtu.edu.cn/"
+        },
+        {
+          "text": "本科生培养",
+          "href": "http://www.jwc.sjtu.edu.cn"
+        },
+        {
+          "text": "教务处",
+          "href": "http://www.jwc.sjtu.edu.cn/"
+        },
+        {
+          "text": "图书馆",
+          "href": "http://www.lib.sjtu.edu.cn/"
+        },
+        {
+          "text": "数学科学学院",
+          "href": "http://www.math.sjtu.edu.cn"
+        },
+        {
+          "text": "物理与天文学院",
+          "href": "http://www.physics.sjtu.edu.cn"
+        },
+        {
+          "text": "钱学森图书馆",
+          "href": "http://www.qianxslib.sjtu.edu.cn/"
+        },
+        {
+          "text": "期刊中心",
+          "href": "http://www.qk.sjtu.edu.cn"
+        },
+        {
+          "text": "瑞金医院",
+          "href": "http://www.rjh.com.cn/"
+        },
+        {
+          "text": "上海高级金融学院",
+          "href": "http://www.saif.sjtu.edu.cn"
+        },
+        {
+          "text": "电子信息与电气工程学院",
+          "href": "http://www.seiee.sjtu.edu.cn"
+        },
+        {
+          "text": "智慧能源创新学院",
+          "href": "http://www.senergy.sjtu.edu.cn/"
+        },
+        {
+          "text": "上海市儿童医院",
+          "href": "http://www.shchildren.com.cn/"
+        },
+        {
+          "text": "医学院",
+          "href": "http://www.shsmu.edu.cn"
+        },
+        {
+          "text": "上海市胸科医院",
+          "href": "http://www.shxkyy.com/"
+        },
+        {
+          "text": "国际与公共事务学院",
+          "href": "http://www.sipa.sjtu.edu.cn"
+        },
+        {
+          "text": "新加坡研究生院",
+          "href": "http://www.sjtu-apgi.edu.sg/"
+        },
+        {
+          "text": "中国法与社会研究院",
+          "href": "http://www.socio-legal.sjtu.edu.cn/"
+        },
+        {
+          "text": "董浩云智能管理与物流研究院（中美物流研究院）",
+          "href": "http://www.sugli.sjtu.edu.cn/"
+        },
+        {
+          "text": "新华医院",
+          "href": "http://www.xinhuamed.com.cn/"
+        }
+      ]
+    }
+  },
+  "_ok": true
+}

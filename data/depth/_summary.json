@@ -1,0 +1,127 @@
+[
+  {
+    "slug": "tsinghua",
+    "name": "清华大学",
+    "home": "https://www.tsinghua.edu.cn",
+    "pages": [
+      {
+        "url": "https://www.tsinghua.edu.cn/info/1002/125517.htm",
+        "text": "建校115周年活动",
+        "ok": true,
+        "status": 200,
+        "text_len": 145,
+        "link_count": 1,
+        "title": "清华大学建校115周年活动集锦",
+        "server_ms": 4177
+      },
+      {
+        "url": "https://www.tsinghua.edu.cn/info/1002/126671.htm",
+        "text": "研究生招生宣讲活动",
+        "ok": true,
+        "status": 200,
+        "text_len": 467,
+        "link_count": 1,
+        "title": "清华大学研究生招生宣传周——2027年度研究生招生宣讲活动",
+        "server_ms": 5630
+      },
+      {
+        "url": "https://www.tsinghua.edu.cn/info/1182/128802.htm",
+        "text": "2026年度河套创新论坛举办",
+        "ok": true,
+        "status": 200,
+        "text_len": 942,
+        "link_count": 4,
+        "title": "2026年度河套创新论坛举办",
+        "server_ms": 2389
+      }
+    ],
+    "home_text_len": 9777,
+    "home_links": 57
+  },
+  {
+    "slug": "pku",
+    "name": "北京大学",
+    "home": "https://www.pku.edu.cn",
+    "pages": [
+      {
+        "url": "https://www.pku.edu.cn/IdentificationSystem.html",
+        "text": "标识系统",
+        "ok": true,
+        "status": 200,
+        "text_len": 877,
+        "link_count": 86,
+        "title": "北京大学",
+        "server_ms": 4373
+      },
+      {
+        "url": "https://www.pku.edu.cn/about.html",
+        "text": "北大概况",
+        "ok": true,
+        "status": 200,
+        "text_len": 2326,
+        "link_count": 80,
+        "title": "北京大学",
+        "server_ms": 2508
+      },
+      {
+        "url": "https://www.pku.edu.cn/campus.html",
+        "text": "校园生活",
+        "ok": true,
+        "status": 200,
+        "text_len": 3149,
+        "link_count": 92,
+        "title": "北京大学",
+        "server_ms": 6604
+      }
+    ],
+    "home_text_len": 6132,
+    "home_links": 87
+  },
+  {
+    "slug": "zju",
+    "name": "浙江大学",
+    "home": "https://www.zju.edu.cn",
+    "pages": [],
+    "home_text_len": 4,
+    "home_links": 0
+  },
+  {
+    "slug": "fudan",
+    "name": "复旦大学",
+    "home": "https://www.fudan.edu.cn",
+    "pages": [
+      {
+        "url": "https://www.fudan.edu.cn/2019/0424/c426a95994/page.htm",
+        "text": "复旦大学上海补习部",
+        "ok": true,
+        "status": 200,
+        "text_len": 4038,
+        "link_count": 100,
+        "title": "复旦大学上海补习部",
+        "server_ms": 5473
+      },
+      {
+        "url": "https://www.fudan.edu.cn/2019/0424/c426a96000/page.htm",
+        "text": "1000号楼（档案馆）",
+        "ok": true,
+        "status": 200,
+        "text_len": 4688,
+        "link_count": 100,
+        "title": "1000号楼（档案馆）",
+        "server_ms": 3226
+      },
+      {
+        "url": "https://www.fudan.edu.cn/492/list.htm",
+        "text": "> 党政管理和公共服务机构",
+        "ok": true,
+        "status": 200,
+        "text_len": 3499,
+        "link_count": 100,
+        "title": "党政管理和公共服务机构",
+        "server_ms": 4123
+      }
+    ],
+    "home_text_len": 13752,
+    "home_links": 100
+  }
+]

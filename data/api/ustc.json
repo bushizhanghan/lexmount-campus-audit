@@ -1,0 +1,890 @@
+{
+  "_site": {
+    "slug": "ustc",
+    "name": "中国科学技术大学",
+    "url": "https://www.ustc.edu.cn"
+  },
+  "_request": {
+    "method": "POST",
+    "endpoint": "https://api.lexmount.cn/v1/extract",
+    "headers": {
+      "X-API-Key": "***redacted***",
+      "X-Project-Id": "632c57a4-673d-4c87-b4be-f9f3f636d199"
+    },
+    "body": {
+      "extract": {
+        "url": "https://www.ustc.edu.cn"
+      }
+    },
+    "http_status": 200,
+    "wall_ms": 4603,
+    "sent_at": "2026-10-20T10:57:05+0800"
+  },
+  "metadata": {
+    "dom_id": "855508",
+    "server_elapsed_ms": 4387
+  },
+  "request_id": "93a29d98-cc92-41f8-b100-af86ad146086",
+  "result": {
+    "url": "https://www.ustc.edu.cn",
+    "final_url": "https://www.ustc.edu.cn/",
+    "status_code": 200,
+    "fetched_at": "2026-10-20T02:57:05.511612668Z",
+    "title": "中国科学技术大学",
+    "main_text": "中国科学技术大学 网络课堂 报考科大 科大校友 在校师生 English Version 学校概况 学校简介 现任领导 管理机构 校园地图 院系介绍 师资队伍 师德教育 师资力量 教师主页 本科生教育 研究生教育 理论学习 信息公开 党建文化 科学研究 科研概况 科研项目 科研机构 科研特色 科研亮点 发展规划 人才招聘 智慧门户 公共服务 热点链接 电子邮件 学校概况 院系介绍 师资队伍 本科生教育 研究生教育 理论学习 信息公开 党建文化 科学研究 发展规划 人才招聘 智慧门户 公共服务 电子邮件 网络课堂 报考科大 科大校友 在校师生 科大要闻 RSS 更多 校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议 中国科大举办具身智能产学研融合创新大会 中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像 第40期“众言沙龙”暨校领导接待日活动顺利举办 10-20 卓越工程师培养科教融合与区域联动会议成功举办 10-20 中国科大举行2026年“众行课堂”新进教职工入职培训班 10-19 中国科大发现首例确凿的黑洞重复潮汐瓦解恒星事件 10-19 国际数学联盟副主席何旭华教授做客我校“北斗论坛” 10-19 我校2026级科创试点班开班 10-19 “湖畔问学·家园同行”青年学者秋日联谊活动顺利举办 10-19 数学科学学院张举勇教授牵头成果荣获中国仿真学会自然科学奖一等奖 10-19 宿州市党政代表团来校调研交流 10-16 专题推荐 更多 通知公告 RSS 更多 一周会议安排（2026年10月19日—10月23日） 10-18 关于学校小额零星智能化采购平台试运行的通知 10-19 关于做好2026年度管理服务类教师奖申报评选... 10-19 关于开展弘扬教育家精神宣讲活动暨“科学与... 10-19 关于中层领导岗位拟任人选的公示 10-13 关于供暖系统灌水调试的通知 10-19 国家重点研发计划：“北京（京津冀）国际科... 10-19 基金委通知：“AI 赋能的急性脑卒中预警研究... 10-19 基金委通知：“脑机接口大模型解码算法研发... 10-19 地址：安徽省合肥市金寨路 96 号，邮政编码：230026 联系我们 皖ICP备05002528号 皖公网安备34011102001530号",
+    "links": [
+      {
+        "text": "科大校友",
+        "href": "http://aga.ustc.edu.cn/"
+      },
+      {
+        "text": "皖ICP备05002528号",
+        "href": "http://beian.miit.gov.cn"
+      },
+      {
+        "text": "",
+        "href": "http://bszs.conac.cn/sitename?method=show&amp;id=0A0FE1CE25C25FA3E053022819AC0B82"
+      },
+      {
+        "text": "理论学习",
+        "href": "http://djyszw.ustc.edu.cn/"
+      },
+      {
+        "text": "人才招聘",
+        "href": "http://employment.ustc.edu.cn/cn/"
+      },
+      {
+        "text": "English Version",
+        "href": "http://en.ustc.edu.cn/"
+      },
+      {
+        "text": "",
+        "href": "http://fc.ustc.edu.cn/"
+      },
+      {
+        "text": "师资力量",
+        "href": "http://hr.ustc.edu.cn/cn/shizi.aspx"
+      },
+      {
+        "text": "师德教育",
+        "href": "http://jgb.ustc.edu.cn"
+      },
+      {
+        "text": "科研项目",
+        "href": "http://kyb.ustc.edu.cn/6049/list.htm"
+      },
+      {
+        "text": "",
+        "href": "http://lswhw.ustc.edu.cn/index.php/index/lists/009"
+      },
+      {
+        "text": "科大要闻",
+        "href": "http://news.ustc.edu.cn/"
+      },
+      {
+        "text": "更多",
+        "href": "http://news.ustc.edu.cn/"
+      },
+      {
+        "text": "党建文化",
+        "href": "http://news.ustc.edu.cn/djwh.htm"
+      },
+      {
+        "text": "中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+        "href": "http://news.ustc.edu.cn/info/1055/96548.htm"
+      },
+      {
+        "text": "中国科大举办具身智能产学研融合创新大会",
+        "href": "http://news.ustc.edu.cn/info/1055/96568.htm"
+      },
+      {
+        "text": "",
+        "href": "http://news.ustc.edu.cn/info/1055/96598.htm"
+      },
+      {
+        "text": "校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议",
+        "href": "http://news.ustc.edu.cn/info/1055/96598.htm"
+      },
+      {
+        "text": "宿州市党政代表团来校调研交流",
+        "href": "http://news.ustc.edu.cn/info/1055/96611.htm"
+      },
+      {
+        "text": "数学科学学院张举勇教授牵头成果荣获中国仿真学会自然科学奖一等奖",
+        "href": "http://news.ustc.edu.cn/info/1055/96618.htm"
+      },
+      {
+        "text": "我校2026级科创试点班开班",
+        "href": "http://news.ustc.edu.cn/info/1055/96619.htm"
+      },
+      {
+        "text": "国际数学联盟副主席何旭华教授做客我校“北斗论坛”",
+        "href": "http://news.ustc.edu.cn/info/1055/96620.htm"
+      },
+      {
+        "text": "中国科大发现首例确凿的黑洞重复潮汐瓦解恒星事件",
+        "href": "http://news.ustc.edu.cn/info/1055/96621.htm"
+      },
+      {
+        "text": "中国科大举行2026年“众行课堂”新进教职工入职培训班",
+        "href": "http://news.ustc.edu.cn/info/1055/96622.htm"
+      },
+      {
+        "text": "“湖畔问学·家园同行”青年学者秋日联谊活动顺利举办",
+        "href": "http://news.ustc.edu.cn/info/1055/96623.htm"
+      },
+      {
+        "text": "第40期“众言沙龙”暨校领导接待日活动顺利举办",
+        "href": "http://news.ustc.edu.cn/info/1055/96638.htm"
+      },
+      {
+        "text": "卓越工程师培养科教融合与区域联动会议成功举办",
+        "href": "http://news.ustc.edu.cn/info/1055/96639.htm"
+      },
+      {
+        "text": "更多",
+        "href": "http://news.ustc.edu.cn/ztxw.htm"
+      },
+      {
+        "text": "专题推荐",
+        "href": "http://news.ustc.edu.cn/ztxw.htm"
+      },
+      {
+        "text": "",
+        "href": "http://news.ustc.edu.cn/ztxw1.htm"
+      },
+      {
+        "text": "网络课堂",
+        "href": "http://wlkt.ustc.edu.cn"
+      },
+      {
+        "text": "",
+        "href": "http://www.job.ustc.edu.cn/"
+      },
+      {
+        "text": "RSS",
+        "href": "http://www.ustc.edu.cn/system/resource/code/rss/rssfeedg.jsp?type=list&amp;treeid=1175&amp;viewid=249541&amp;mode=10&amp;dbname=vsb&amp;owner=1585251974&amp;ownername=zz&amp;contentid=236926&amp;number=20&amp;httproot="
+      },
+      {
+        "text": "信息公开",
+        "href": "http://xxgk.ustc.edu.cn/"
+      },
+      {
+        "text": "报考科大",
+        "href": "http://zsb.ustc.edu.cn"
+      },
+      {
+        "text": "教师主页",
+        "href": "https://faculty.ustc.edu.cn/"
+      },
+      {
+        "text": "发展规划",
+        "href": "https://fc.ustc.edu.cn/"
+      },
+      {
+        "text": "研究生教育",
+        "href": "https://gradschool.ustc.edu.cn/"
+      },
+      {
+        "text": "智慧门户",
+        "href": "https://i.ustc.edu.cn/"
+      },
+      {
+        "text": "电子邮件",
+        "href": "https://mail.ustc.edu.cn"
+      },
+      {
+        "text": "",
+        "href": "https://news.ustc.edu.cn/zqzjg/"
+      },
+      {
+        "text": "",
+        "href": "https://news.ustc.edu.cn/zybxgd/"
+      },
+      {
+        "text": "本科生教育",
+        "href": "https://www.teach.ustc.edu.cn/"
+      },
+      {
+        "text": "公共服务",
+        "href": "https://www.ustc.edu.cn/ggfw/rdlj.htm"
+      },
+      {
+        "text": "热点链接",
+        "href": "https://www.ustc.edu.cn/ggfw/rdlj.htm"
+      },
+      {
+        "text": "联系我们",
+        "href": "https://www.ustc.edu.cn/index/lxwm.htm"
+      },
+      {
+        "text": "基金委通知：“脑机接口大模型解码算法研发...",
+        "href": "https://www.ustc.edu.cn/info/1362/25914.htm"
+      },
+      {
+        "text": "基金委通知：“AI 赋能的急性脑卒中预警研究...",
+        "href": "https://www.ustc.edu.cn/info/1362/25915.htm"
+      },
+      {
+        "text": "国家重点研发计划：“北京（京津冀）国际科...",
+        "href": "https://www.ustc.edu.cn/info/1362/25918.htm"
+      },
+      {
+        "text": "关于开展弘扬教育家精神宣讲活动暨“科学与...",
+        "href": "https://www.ustc.edu.cn/info/1364/25916.htm"
+      },
+      {
+        "text": "关于做好2026年度管理服务类教师奖申报评选...",
+        "href": "https://www.ustc.edu.cn/info/1364/25917.htm"
+      },
+      {
+        "text": "关于学校小额零星智能化采购平台试运行的通知",
+        "href": "https://www.ustc.edu.cn/info/1364/25921.htm"
+      },
+      {
+        "text": "关于供暖系统灌水调试的通知",
+        "href": "https://www.ustc.edu.cn/info/1366/25919.htm"
+      },
+      {
+        "text": "科研机构",
+        "href": "https://www.ustc.edu.cn/jianj.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1021"
+      },
+      {
+        "text": "科研概况",
+        "href": "https://www.ustc.edu.cn/kxyj/kygk.htm"
+      },
+      {
+        "text": "科学研究",
+        "href": "https://www.ustc.edu.cn/kxyj/kygk.htm"
+      },
+      {
+        "text": "科研亮点",
+        "href": "https://www.ustc.edu.cn/kxyj/kyld.htm"
+      },
+      {
+        "text": "科研特色",
+        "href": "https://www.ustc.edu.cn/kxyj/kyts.htm"
+      },
+      {
+        "text": "RSS",
+        "href": "https://www.ustc.edu.cn/system/resource/code/rss/rssfeedg.jsp?type=list&amp;treeid=1002&amp;viewid=249541&amp;mode=10&amp;dbname=vsb&amp;owner=1585251974&amp;ownername=zz&amp;contentid=221571,221572,221573,221574&amp;number=100&amp;httproot="
+      },
+      {
+        "text": "更多",
+        "href": "https://www.ustc.edu.cn/tzgg.htm"
+      },
+      {
+        "text": "通知公告",
+        "href": "https://www.ustc.edu.cn/tzgg.htm"
+      },
+      {
+        "text": "一周会议安排（2026年10月19日—10月23日）",
+        "href": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1059&amp;wbnewsid=25899"
+      },
+      {
+        "text": "关于中层领导岗位拟任人选的公示",
+        "href": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1363&amp;wbnewsid=25885"
+      },
+      {
+        "text": "",
+        "href": "https://www.ustc.edu.cn/xxgcxjpxsdzgtsshzysx/"
+      },
+      {
+        "text": "管理机构",
+        "href": "https://www.ustc.edu.cn/xxgk/gljg.htm"
+      },
+      {
+        "text": "现任领导",
+        "href": "https://www.ustc.edu.cn/xxgk/xrld.htm"
+      },
+      {
+        "text": "学校简介",
+        "href": "https://www.ustc.edu.cn/xxgk/xxjj.htm"
+      },
+      {
+        "text": "学校概况",
+        "href": "https://www.ustc.edu.cn/xxgk/xxjj.htm"
+      },
+      {
+        "text": "校园地图",
+        "href": "https://www.ustc.edu.cn/xxgk/xydt.htm"
+      },
+      {
+        "text": "院系介绍",
+        "href": "https://www.ustc.edu.cn/yxjs.htm"
+      },
+      {
+        "text": "在校师生",
+        "href": "https://www.ustc.edu.cn/zxss.htm"
+      },
+      {
+        "text": "",
+        "href": "https://yz.ustc.edu.cn/"
+      },
+      {
+        "text": "",
+        "href": "https://zsb.ustc.edu.cn/"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img01.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img02.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img03.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img04.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img05.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img06.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/bxgdzt.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/kczt.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/zgtszt.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/images/zjzt.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/news/images/4054C9236D1DF77880F32A8AC59_C97E8483_1016.jpg",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/news/images/blue.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/news/images/jiuyezhidao.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/news/images/l1.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/news/images/l2.png",
+        "alt": ""
+      },
+      {
+        "src": "https://www.ustc.edu.cn/news/images/l3.png",
+        "alt": ""
+      }
+    ],
+    "engine": "lightmount_dcl",
+    "dom_id": "855508",
+    "debug": {
+      "browser": {
+        "attempts": [
+          {
+            "engine": "lightmount_dcl",
+            "command": "moli fetch",
+            "stdout": "{\"selected\": \"lightmount_dcl\", \"content_length\": 978, \"selector\": \"body(moli)\", \"status\": 200, \"final_url\": \"https://www.ustc.edu.cn/\"}",
+            "stderr": "\u001b[2m2026-10-20T02:57:05.223625Z\u001b[0m \u001b[32m INFO\u001b[0m raw streaming fetch_internal completed \u001b[3mpage_id\u001b[0m\u001b[2m=\u001b[0m1 \u001b[3murl\u001b[0m\u001b[2m=\u001b[0mhttps://www.ustc.edu.cn/ \u001b[3melapsed_ms\u001b[0m\u001b[2m=\u001b[0m122",
+            "succeeded": true
+          }
+        ]
+      }
+    },
+    "extra": {
+      "dom_summary": {
+        "headings": [
+          "科大要闻",
+          "校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议",
+          "中国科大举办具身智能产学研融合创新大会",
+          "中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+          "专题推荐",
+          "通知公告"
+        ],
+        "paragraphs": [
+          "地址：安徽省合肥市金寨路 96 号，邮政编码：230026 联系我们 皖ICP备05002528号 皖公网安备34011102001530号"
+        ],
+        "lists": [
+          [
+            "学校概况 学校简介",
+            "现任领导",
+            "管理机构",
+            "校园地图"
+          ],
+          [
+            "师德教育",
+            "师资力量",
+            "教师主页"
+          ],
+          [
+            "科研概况",
+            "科研项目",
+            "科研机构",
+            "科研特色",
+            "科研亮点"
+          ],
+          [
+            "热点链接"
+          ],
+          [
+            "学校概况",
+            "院系介绍",
+            "师资队伍",
+            "本科生教育",
+            "研究生教育",
+            "理论学习",
+            "信息公开",
+            "党建文化",
+            "科学研究",
+            "发展规划",
+            "人才招聘",
+            "智慧门户"
+          ],
+          [
+            "公共服务",
+            "电子邮件"
+          ],
+          [
+            "网络课堂",
+            "报考科大",
+            "科大校友",
+            "在校师生"
+          ],
+          [
+            "_showDynClickBatch(['dynclicks_u7_25893'],[25893],\"wbnews\", 1585251974) 校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议 中国科大举办具身智能产学研融合创新大会 中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像 _showDynClickBatch(['dynclicks_u8_25893','dynclicks_u8_25883','dynclicks_u8_25878'],[25893,25883,25878],\"wbnews\", 1585251974)",
+            "第40期“众言沙龙”暨校领导接待日活动顺利举办 10-20",
+            "卓越工程师培养科教融合与区域联动会议成功举办 10-20",
+            "中国科大举行2026年“众行课堂”新进教职工入职培训班 10-19",
+            "中国科大发现首例确凿的黑洞重复潮汐瓦解恒星事件 10-19",
+            "国际数学联盟副主席何旭华教授做客我校“北斗论坛” 10-19",
+            "我校2026级科创试点班开班 10-19",
+            "“湖畔问学·家园同行”青年学者秋日联谊活动顺利举办 10-19",
+            "数学科学学院张举勇教授牵头成果荣获中国仿真学会自然科学奖一等奖 10-19",
+            "宿州市党政代表团来校调研交流 10-16"
+          ],
+          [
+            "一周会议安排（2026年10月19日—10月23日） 10-18",
+            "关于学校小额零星智能化采购平台试运行的通知 10-19",
+            "关于做好2026年度管理服务类教师奖申报评选... 10-19",
+            "关于开展弘扬教育家精神宣讲活动暨“科学与... 10-19",
+            "关于中层领导岗位拟任人选的公示 10-13",
+            "关于供暖系统灌水调试的通知 10-19",
+            "国家重点研发计划：“北京（京津冀）国际科... 10-19",
+            "基金委通知：“AI 赋能的急性脑卒中预警研究... 10-19",
+            "基金委通知：“脑机接口大模型解码算法研发... 10-19"
+          ]
+        ],
+        "forms": [
+          {
+            "action": "ssjgy.jsp?wbtreeid=1001",
+            "method": "post",
+            "fields": [
+              {
+                "name": "searchScope",
+                "type": "hidden",
+                "value": "0"
+              },
+              {
+                "name": "sitenewskeycode",
+                "type": "hidden"
+              },
+              {
+                "name": "webber_sitenewslucenesearce"
+              },
+              {
+                "type": "image"
+              }
+            ]
+          }
+        ]
+      },
+      "images_detail": [
+        {
+          "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img01.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img02.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img03.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img04.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img05.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/19/08/05/1bv2xhbf6r/img06.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/bxgdzt.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/kczt.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/zgtszt.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/images/zjzt.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/news/images/4054C9236D1DF77880F32A8AC59_C97E8483_1016.jpg",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/news/images/blue.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/news/images/jiuyezhidao.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/news/images/l1.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/news/images/l2.png",
+          "alt": ""
+        },
+        {
+          "src": "https://www.ustc.edu.cn/news/images/l3.png",
+          "alt": ""
+        }
+      ],
+      "metadata": {
+        "title_candidates": [
+          "中国科学技术大学"
+        ],
+        "meta_tags": {
+          "keywords": "中国科学技术大学",
+          "renderer": "webkit",
+          "viewport": "width=device-width,user-scalable=0,initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0"
+        }
+      },
+      "site_links": [
+        {
+          "text": "公共服务",
+          "href": "https://www.ustc.edu.cn/ggfw/rdlj.htm"
+        },
+        {
+          "text": "热点链接",
+          "href": "https://www.ustc.edu.cn/ggfw/rdlj.htm"
+        },
+        {
+          "text": "科大校友",
+          "href": "http://aga.ustc.edu.cn/"
+        },
+        {
+          "text": "皖ICP备05002528号",
+          "href": "http://beian.miit.gov.cn"
+        },
+        {
+          "text": "",
+          "href": "http://bszs.conac.cn/sitename?method=show&amp;id=0A0FE1CE25C25FA3E053022819AC0B82"
+        },
+        {
+          "text": "理论学习",
+          "href": "http://djyszw.ustc.edu.cn/"
+        },
+        {
+          "text": "人才招聘",
+          "href": "http://employment.ustc.edu.cn/cn/"
+        },
+        {
+          "text": "English Version",
+          "href": "http://en.ustc.edu.cn/"
+        },
+        {
+          "text": "",
+          "href": "http://fc.ustc.edu.cn/"
+        },
+        {
+          "text": "师资力量",
+          "href": "http://hr.ustc.edu.cn/cn/shizi.aspx"
+        },
+        {
+          "text": "师德教育",
+          "href": "http://jgb.ustc.edu.cn"
+        },
+        {
+          "text": "科研项目",
+          "href": "http://kyb.ustc.edu.cn/6049/list.htm"
+        },
+        {
+          "text": "",
+          "href": "http://lswhw.ustc.edu.cn/index.php/index/lists/009"
+        },
+        {
+          "text": "科大要闻",
+          "href": "http://news.ustc.edu.cn/"
+        },
+        {
+          "text": "更多",
+          "href": "http://news.ustc.edu.cn/"
+        },
+        {
+          "text": "党建文化",
+          "href": "http://news.ustc.edu.cn/djwh.htm"
+        },
+        {
+          "text": "中国科大利用拓扑探针首次实现交错磁体原子尺度自旋成像",
+          "href": "http://news.ustc.edu.cn/info/1055/96548.htm"
+        },
+        {
+          "text": "中国科大举办具身智能产学研融合创新大会",
+          "href": "http://news.ustc.edu.cn/info/1055/96568.htm"
+        },
+        {
+          "text": "",
+          "href": "http://news.ustc.edu.cn/info/1055/96598.htm"
+        },
+        {
+          "text": "校党委召开2026年中央巡视整改落实情况“再总结”工作汇报会议",
+          "href": "http://news.ustc.edu.cn/info/1055/96598.htm"
+        },
+        {
+          "text": "宿州市党政代表团来校调研交流",
+          "href": "http://news.ustc.edu.cn/info/1055/96611.htm"
+        },
+        {
+          "text": "数学科学学院张举勇教授牵头成果荣获中国仿真学会自然科学奖一等奖",
+          "href": "http://news.ustc.edu.cn/info/1055/96618.htm"
+        },
+        {
+          "text": "我校2026级科创试点班开班",
+          "href": "http://news.ustc.edu.cn/info/1055/96619.htm"
+        },
+        {
+          "text": "国际数学联盟副主席何旭华教授做客我校“北斗论坛”",
+          "href": "http://news.ustc.edu.cn/info/1055/96620.htm"
+        },
+        {
+          "text": "中国科大发现首例确凿的黑洞重复潮汐瓦解恒星事件",
+          "href": "http://news.ustc.edu.cn/info/1055/96621.htm"
+        },
+        {
+          "text": "中国科大举行2026年“众行课堂”新进教职工入职培训班",
+          "href": "http://news.ustc.edu.cn/info/1055/96622.htm"
+        },
+        {
+          "text": "“湖畔问学·家园同行”青年学者秋日联谊活动顺利举办",
+          "href": "http://news.ustc.edu.cn/info/1055/96623.htm"
+        },
+        {
+          "text": "第40期“众言沙龙”暨校领导接待日活动顺利举办",
+          "href": "http://news.ustc.edu.cn/info/1055/96638.htm"
+        },
+        {
+          "text": "卓越工程师培养科教融合与区域联动会议成功举办",
+          "href": "http://news.ustc.edu.cn/info/1055/96639.htm"
+        },
+        {
+          "text": "更多",
+          "href": "http://news.ustc.edu.cn/ztxw.htm"
+        },
+        {
+          "text": "专题推荐",
+          "href": "http://news.ustc.edu.cn/ztxw.htm"
+        },
+        {
+          "text": "",
+          "href": "http://news.ustc.edu.cn/ztxw1.htm"
+        },
+        {
+          "text": "网络课堂",
+          "href": "http://wlkt.ustc.edu.cn"
+        },
+        {
+          "text": "",
+          "href": "http://www.job.ustc.edu.cn/"
+        },
+        {
+          "text": "RSS",
+          "href": "http://www.ustc.edu.cn/system/resource/code/rss/rssfeedg.jsp?type=list&amp;treeid=1175&amp;viewid=249541&amp;mode=10&amp;dbname=vsb&amp;owner=1585251974&amp;ownername=zz&amp;contentid=236926&amp;number=20&amp;httproot="
+        },
+        {
+          "text": "信息公开",
+          "href": "http://xxgk.ustc.edu.cn/"
+        },
+        {
+          "text": "报考科大",
+          "href": "http://zsb.ustc.edu.cn"
+        },
+        {
+          "text": "教师主页",
+          "href": "https://faculty.ustc.edu.cn/"
+        },
+        {
+          "text": "发展规划",
+          "href": "https://fc.ustc.edu.cn/"
+        },
+        {
+          "text": "研究生教育",
+          "href": "https://gradschool.ustc.edu.cn/"
+        },
+        {
+          "text": "智慧门户",
+          "href": "https://i.ustc.edu.cn/"
+        },
+        {
+          "text": "电子邮件",
+          "href": "https://mail.ustc.edu.cn"
+        },
+        {
+          "text": "",
+          "href": "https://news.ustc.edu.cn/zqzjg/"
+        },
+        {
+          "text": "",
+          "href": "https://news.ustc.edu.cn/zybxgd/"
+        },
+        {
+          "text": "本科生教育",
+          "href": "https://www.teach.ustc.edu.cn/"
+        },
+        {
+          "text": "RSS",
+          "href": "https://www.ustc.edu.cn/system/resource/code/rss/rssfeedg.jsp?type=list&amp;treeid=1002&amp;viewid=249541&amp;mode=10&amp;dbname=vsb&amp;owner=1585251974&amp;ownername=zz&amp;contentid=221571,221572,221573,221574&amp;number=100&amp;httproot="
+        },
+        {
+          "text": "",
+          "href": "https://www.ustc.edu.cn/xxgcxjpxsdzgtsshzysx/"
+        },
+        {
+          "text": "",
+          "href": "https://yz.ustc.edu.cn/"
+        },
+        {
+          "text": "",
+          "href": "https://zsb.ustc.edu.cn/"
+        },
+        {
+          "text": "联系我们",
+          "href": "https://www.ustc.edu.cn/index/lxwm.htm"
+        },
+        {
+          "text": "基金委通知：“脑机接口大模型解码算法研发...",
+          "href": "https://www.ustc.edu.cn/info/1362/25914.htm"
+        },
+        {
+          "text": "基金委通知：“AI 赋能的急性脑卒中预警研究...",
+          "href": "https://www.ustc.edu.cn/info/1362/25915.htm"
+        },
+        {
+          "text": "国家重点研发计划：“北京（京津冀）国际科...",
+          "href": "https://www.ustc.edu.cn/info/1362/25918.htm"
+        },
+        {
+          "text": "关于开展弘扬教育家精神宣讲活动暨“科学与...",
+          "href": "https://www.ustc.edu.cn/info/1364/25916.htm"
+        },
+        {
+          "text": "关于做好2026年度管理服务类教师奖申报评选...",
+          "href": "https://www.ustc.edu.cn/info/1364/25917.htm"
+        },
+        {
+          "text": "关于学校小额零星智能化采购平台试运行的通知",
+          "href": "https://www.ustc.edu.cn/info/1364/25921.htm"
+        },
+        {
+          "text": "关于供暖系统灌水调试的通知",
+          "href": "https://www.ustc.edu.cn/info/1366/25919.htm"
+        },
+        {
+          "text": "科研机构",
+          "href": "https://www.ustc.edu.cn/jianj.jsp?urltype=tree.TreeTempUrl&amp;wbtreeid=1021"
+        },
+        {
+          "text": "科研概况",
+          "href": "https://www.ustc.edu.cn/kxyj/kygk.htm"
+        },
+        {
+          "text": "科学研究",
+          "href": "https://www.ustc.edu.cn/kxyj/kygk.htm"
+        },
+        {
+          "text": "科研亮点",
+          "href": "https://www.ustc.edu.cn/kxyj/kyld.htm"
+        },
+        {
+          "text": "科研特色",
+          "href": "https://www.ustc.edu.cn/kxyj/kyts.htm"
+        },
+        {
+          "text": "更多",
+          "href": "https://www.ustc.edu.cn/tzgg.htm"
+        },
+        {
+          "text": "通知公告",
+          "href": "https://www.ustc.edu.cn/tzgg.htm"
+        },
+        {
+          "text": "一周会议安排（2026年10月19日—10月23日）",
+          "href": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1059&amp;wbnewsid=25899"
+        },
+        {
+          "text": "关于中层领导岗位拟任人选的公示",
+          "href": "https://www.ustc.edu.cn/tzggcontent.jsp?urltype=news.NewsContentUrl&amp;wbtreeid=1363&amp;wbnewsid=25885"
+        },
+        {
+          "text": "管理机构",
+          "href": "https://www.ustc.edu.cn/xxgk/gljg.htm"
+        },
+        {
+          "text": "现任领导",
+          "href": "https://www.ustc.edu.cn/xxgk/xrld.htm"
+        },
+        {
+          "text": "学校简介",
+          "href": "https://www.ustc.edu.cn/xxgk/xxjj.htm"
+        },
+        {
+          "text": "学校概况",
+          "href": "https://www.ustc.edu.cn/xxgk/xxjj.htm"
+        },
+        {
+          "text": "校园地图",
+          "href": "https://www.ustc.edu.cn/xxgk/xydt.htm"
+        },
+        {
+          "text": "院系介绍",
+          "href": "https://www.ustc.edu.cn/yxjs.htm"
+        },
+        {
+          "text": "在校师生",
+          "href": "https://www.ustc.edu.cn/zxss.htm"
+        }
+      ]
+    }
+  },
+  "_ok": true
+}

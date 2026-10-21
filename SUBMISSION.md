@@ -216,7 +216,10 @@ https://bushizhanghan.github.io/lexmount-campus-audit/
 ## 实际作者与分工 `authors`（必填）
 
 ```
-<待填写>
+白也（一人独立完成）：选题与三路径实验设计、站点样本选定、
+Lexmount Web Fetch / Cloud Browser 批量抓取脚本与数据落盘管线、
+官方 API 接入与稳定性测试、本地独立基准对照、
+JS 源码污染检测与正文去重分析、根因定位、报告撰写。
 ```
 
 ---

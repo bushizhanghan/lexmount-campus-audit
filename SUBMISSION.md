@@ -191,7 +191,13 @@ https://bushizhanghan.github.io/lexmount-campus-audit/
 - /data/stability/     每站 3 次稳定性测试结果
 - /data/depth/         二级页面深度测试
 - /data/v4_data.json   报告引用的全部数字的单一数据源
+- /charts/             三张核心图表（内联 SVG，可单独查看）
 - evidence-raw-json.zip  全部原始数据打包
+
+报告内含三张图表：
+1. 三路径正文字数对比（20 站全量，同站点三色条）
+2. 稳定性点图（每站 3 次抓取，一眼看出 19 站极差为 0、上海交大 CV 45.3%）
+3. Cloud Browser 相对 API 的取舍散点（链接更多 vs 正文更少）
 
 报告中的每个数字都能在上述原始响应中逐条回溯。
 ```

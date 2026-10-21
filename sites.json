@@ -1,0 +1,26 @@
+{
+  "project": "高校官网 AI 可读性巡检",
+  "note": "面向 Agent 读取场景，检查高校官网是否能被稳定抓取与结构化提取",
+  "sites": [
+    { "slug": "tsinghua",  "name": "清华大学",     "url": "https://www.tsinghua.edu.cn" },
+    { "slug": "pku",       "name": "北京大学",     "url": "https://www.pku.edu.cn" },
+    { "slug": "zju",       "name": "浙江大学",     "url": "https://www.zju.edu.cn" },
+    { "slug": "fudan",     "name": "复旦大学",     "url": "https://www.fudan.edu.cn" },
+    { "slug": "sjtu",      "name": "上海交通大学", "url": "https://www.sjtu.edu.cn" },
+    { "slug": "nju",       "name": "南京大学",     "url": "https://www.nju.edu.cn" },
+    { "slug": "ustc",      "name": "中国科学技术大学", "url": "https://www.ustc.edu.cn" },
+    { "slug": "whu",       "name": "武汉大学",     "url": "https://www.whu.edu.cn" },
+    { "slug": "hust",      "name": "华中科技大学", "url": "https://www.hust.edu.cn" },
+    { "slug": "ruc",       "name": "中国人民大学", "url": "https://www.ruc.edu.cn" },
+    { "slug": "bnu",       "name": "北京师范大学", "url": "https://www.bnu.edu.cn" },
+    { "slug": "tongji",    "name": "同济大学",     "url": "https://www.tongji.edu.cn" },
+    { "slug": "seu",       "name": "东南大学",     "url": "https://www.seu.edu.cn" },
+    { "slug": "xjtu",      "name": "西安交通大学", "url": "https://www.xjtu.edu.cn" },
+    { "slug": "nankai",    "name": "南开大学",     "url": "https://www.nankai.edu.cn" },
+    { "slug": "sysu",      "name": "中山大学",     "url": "https://www.sysu.edu.cn" },
+    { "slug": "scut",      "name": "华南理工大学", "url": "https://www.scut.edu.cn" },
+    { "slug": "hit",       "name": "哈尔滨工业大学", "url": "https://www.hit.edu.cn" },
+    { "slug": "cqu",       "name": "重庆大学",     "url": "https://www.cqu.edu.cn" },
+    { "slug": "uestc",     "name": "电子科技大学", "url": "https://www.uestc.edu.cn" }
+  ]
+}

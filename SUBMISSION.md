@@ -101,10 +101,19 @@ request_id 与 server_elapsed_ms —— 这些只有走云平台才能观察到�
   left:  Suspended { cause: ParserClassicStylesheets { script: NativeNodeId(...) } }
   right: Ready
 
-唯一差别是 NativeNodeId(116) 与 (677)。
+唯一差别是 NativeNodeId(116) 与 (677)，说明命中同一处代码路径。
 人民大学跨 UI / API 两种驱动共失败 4 次，哈工大共失败 6 次。
 而这两个站点在 Cloud Browser 下全部成功（人大 2,549 字 / 446 链接，
 哈工大 1,750 字 / 502 链接）。
+
+⚠️ 一条必须说明的边界：我原以为这是「两个完全不同的站点」命中同一个 bug，
+实测推翻了这个说法——哈工大、东南、人大、复旦、南开都是同一个 sudy 门户模板
+（源站 head 里有 sudy / _showDynClickBatch / wbtreeid 等指纹，哈工大与东南各命中 4 项）。
+所以这是同一模板的两个实例，不是两个独立站点。而且同模板的复旦、南开并没有触发，
+说明触发还需要我没控制到的附加条件。
+
+因此结论收紧为：该 panic 在这两个站点上可稳定复现，Cloud Browser 能绕过；
+不能说「所有 sudy 模板站点都会触发」，也不能说触发条件已完全定位。
 结论：这是 lightmount_dcl 引擎的确定性代码缺陷，不是目标站点不可访问。
 
 【发现二：同一批 URL，UI 与 API 结果不一致】

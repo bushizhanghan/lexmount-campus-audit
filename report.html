@@ -76,7 +76,7 @@ padding:16px 20px;margin:22px 0}
   发现同一批 URL 在不同接入方式下结果差异巨大。本文量化差异、把失败定位到源码行号，
   并明确区分<em>数据能证明什么</em>与<em>不能证明什么</em>。</p>
   <div class="meta">
-    <div>执行时间 <b>2026-10-21 09:02 (UTC+8)</b></div>
+    <div>执行时间 <b>2026-10-21 09:23 (UTC+8)</b></div>
     <div>样本 <b>20 所高校官网</b></div>
     <div>路径 <b>UI 表单 / 官方 API / Cloud Browser</b></div>
     <div>稳定性 <b>每站重复 3 次</b></div>
@@ -408,8 +408,12 @@ padding:16px 20px;margin:22px 0}
 
 <h2><span class="n">3</span>最强证据：两个站点、两种驱动、同一行 panic</h2>
 
-<p>哈尔滨工业大学与中国人民大学在官方 API 下返回 <code>browser_fetch_failed</code>。
-它们的失败细节<strong>完全一致</strong>——同一个源文件、同一行、同一断言、同一个 HTTP 502：</p>
+<p>哈尔滨工业大学与中国人民大学在官方 API 下返回 <code>browser_fetch_failed</code>，
+两者的失败细节一致——同一个源文件、同一行、同一断言、同一个 HTTP 502：</p>
+
+<p><b>先看清它证明了什么：</b>这两个站点在 Web Fetch 下<b>跨 UI 与 API 两种驱动都稳定失败</b>，
+而在同一平台的 Cloud Browser 下<b>都成功</b>。这足以证明 panic 来自
+<code>lightmount_dcl</code> 引擎本身，而不是网络或目标站点不可访问。</p>
 
 <div class="case">
       <div class="case-head"><b>哈尔滨工业大学</b>
@@ -432,18 +436,34 @@ assertion `left == right` failed: a suspended or terminal live parser cannot ent
     </div>
 
 <div class="callout err">
-<b>为什么这条证据最硬：</b>
+<b>为什么这条证据相对最硬：</b>
 <ul>
   <li><b>跨两种驱动复现</b>：人民大学在 UI 和 API 下都失败（共 4 次），
       哈工大也跨两种驱动失败（共 6 次）。排除「某个驱动有问题」。</li>
   <li><b>同批次内 0/3</b>：连续 3 次，两个站点全部失败，其余 19 个站点结果极差为 0。</li>
   <li><b>唯一差别是 NativeNodeId</b>：<code>(116)</code> 与 <code>(677)</code>，
-      说明触发点是同一处状态机竞争。</li>
+      说明命中同一处代码路径。</li>
   <li><b>Cloud Browser 对照</b>：同样的两个站点在 Cloud Browser 下
       <b>全部成功</b>（人大 2,549 字 / 446 链接，哈工大 1,750 字 / 502 链接）。</li>
 </ul>
-这意味着 <b><code>lightmount_dcl</code> 引擎的 panic 是确定性的代码缺陷，不是网络或目标站点问题。</b>
 </div>
+
+<div class="cannot">
+<b>⚠️ 有一条必须说清楚，否则这条证据就是被夸大的：</b>
+我原以为这是「两个完全不同的站点」命中同一个 bug。<b>实测推翻了这个说法</b>——
+哈工大、东南、人大、复旦、南开<b>都是同一个 sudy 门户模板</b>
+（源站 <code>&lt;head&gt;</code> 里都有 <code>sudy</code>、<code>_showDynClickBatch</code>、
+<code>wbtreeid</code> 等指纹；哈工大与东南各命中 4 项）。
+所以这是<b>同一模板的两个实例</b>，不是两个独立站点。
+<br><br>
+而且<b>同模板的复旦、南开并没有触发</b>——说明触发还需要我没控制到的附加条件
+（页面规模、样式表数量或时序都可能）。
+因此我只能说到这一步：<b>该 panic 在这两个站点上可稳定复现，且 Cloud Browser 能绕过</b>；
+<b>不能</b>说「所有 sudy 模板站点都会触发」，也<b>不能</b>说触发条件已完全定位。
+</div>
+
+<p>结论收紧为：<b><code>lightmount_dcl</code> 引擎存在真实的 panic 缺陷，在受测站点上可稳定复现，
+且存在可行的降级路径（Cloud Browser）</b>；触发面有待进一步定位。</p>
 
 <h3>稳定性全表</h3>
 
@@ -1155,7 +1175,7 @@ Cloud Browser 正文更少，我写成「取舍」而不是「更好」。
 </div>
 
 <div class="foot">
-  报告生成时间：2026-10-21 09:02:53 (UTC+8)<br>
+  报告生成时间：2026-10-21 09:23:41 (UTC+8)<br>
   平台：Lexmount Web Fetch（<code>POST /v1/extract</code>、<code>POST /v1/dom/dump</code>）与 Lexmount Cloud Browser<br>
   样本：20 所中国双一流高校官网 · 三路径各 20 次 · 每站 3 次稳定性 · 4 站二级页面<br>
   所有数字来自实际调用；无法解释的现象已明确标注为「不能证明」
